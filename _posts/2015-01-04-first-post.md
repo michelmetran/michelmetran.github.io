@@ -28,7 +28,17 @@ tags: [books, shakespeare, test]
 
 
 
+My name is Michel Metran. I have the following qualities:
+
+- I rock a great mustache
+- I'm extremely loyal to my family
+
+What else do you need?
+
+### my history
+
+To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ3MTYwNjc1LC0xNDYzMzQxNTg2LDYxOD
-c4MjU5XX0=
+eyJoaXN0b3J5IjpbMTY3ODQ5OTgyMSwzNDcxNjA2NzUsLTE0Nj
+MzNDE1ODYsNjE4NzgyNTldfQ==
 -->

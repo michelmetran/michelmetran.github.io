@@ -12,7 +12,6 @@ Mesmo que a natureza tenha suas próprias regras, nossa interferência no meio a
 Aqui tem uma série de leis que venho compilando a cada trabalho que faço.
 <iframe title="tab_Legislacao Search and Report" src="https://c2dzk303.caspio.com/dp.asp?AppKey=fc38400000c5e0962c95471295ee" name="tab_Legislacao Search and Report" width="300" height="150">Sorry, but your browser does not support frames.</iframe>
 
-
 <script src="https://c2dzk303.caspio.com/scripts/embed.js" type="text/javascript"></script> 
 
 <script type="text/javascript">// <![CDATA[ try{f_cbload(true, "c2dzk303.caspio.com", "fc38400000c5e0962c95471295ee");}catch(v_e){;} // ]]></script> 
@@ -43,8 +42,7 @@ https://api.mapbox.com/styles/v1/michelmetran/cihdsi0c000h44llzkztrmcik.html?tit
 
 
 ### Exemplo do Leaflet
-
 var map = L.map('map').setView([51.505, -0.09], 13); L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', { attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors' }).addTo(map); L.marker([51.5, -0.09]).addTo(map) .bindPopup('A pretty CSS3 popup.<br> Easily customizable.') .openPopup();
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTI3NDAwNzddfQ==
+eyJoaXN0b3J5IjpbMTE4MzA1NTU1XX0=
 -->

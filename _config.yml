@@ -24,13 +24,13 @@ description: "Brincando com dados!"
 # List of links in the navigation bar
 navbar-links:
   Sobre: "sobre"
-  Geoprocessamento: "sobre"
-  	#- ArcGIS: "http://deanattali.com/beautiful-jekyll/"
-	#- Python: "http://deanattali.com/beautiful-jekyll/"
-  #Divisões Administrativas:
-  	#- CETESB: "http://deanattali.com/beautiful-jekyll/"
-	#- Ministério Público: "http://deanattali.com/beautiful-jekyll/"
-	#- Polícia Ambiental: "http://deanattali.com/beautiful-jekyll/"
+#  Geoprocessamento: "sobre"
+#   - ArcGIS: "http://deanattali.com/beautiful-jekyll/"
+#   - Python: "http://deanattali.com/beautiful-jekyll/"
+#  Divisões Administrativas:
+#   - CETESB: "http://deanattali.com/beautiful-jekyll/"
+#   - Ministério Público: "http://deanattali.com/beautiful-jekyll/"
+#   - Polícia Ambiental: "http://deanattali.com/beautiful-jekyll/"
   #Outros:
   #	- Techs: 
 	#- Viagens:

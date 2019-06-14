@@ -3,6 +3,7 @@ layout: post
 title: First post!
 subtitle: Each post also has a subtitle
 image: /img/hello_world.jpeg
+bigimg: /img/path.jpg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 ---
@@ -22,5 +23,5 @@ O código abaixo, no cabeçalho, acrescenta uma grande imagem atrás do Título 
 bigimg: /img/path.jpg
 ~~~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NzU1NzQ1OSw2MTg3ODI1OV19
+eyJoaXN0b3J5IjpbLTExNzE1MDg5NDEsNjE4NzgyNTldfQ==
 -->

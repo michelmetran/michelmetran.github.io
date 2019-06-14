@@ -24,7 +24,8 @@ Aqui tem uma série de leis que venho compilando a cada trabalho que faço.
 
 <div id="cxkg"><a href="https://c2dzk303.caspio.com/dp.asp?AppKey=fc38400000c5e0962c95471295ee">Click here</a> to load this Caspio <a title="Cloud Database" href="http://www.caspio.com" target="_blank">Cloud Database</a></div>
 
-
+### Imagens
+<img src="https://qph.is.quoracdn.net/main-qimg-3504cc03d0a1581096eba9ef97cfd7eb?convert_to_webp=true" align="right" width="40%" height="45%" />
 
 
 ## Mapas
@@ -54,5 +55,5 @@ Gerado pelo https://timeline.knightlab.com/
 <iframe src="//cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1yrq80RSU8OC3hO1WZaO67Ua6fFlmOsU68UccKni98dc&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650" width="100%" height="650" frameborder="0"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTY1MTU1XX0=
+eyJoaXN0b3J5IjpbLTI3MTc1NzI1MF19
 -->

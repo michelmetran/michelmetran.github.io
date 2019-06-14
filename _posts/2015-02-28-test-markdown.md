@@ -39,10 +39,6 @@ foo(3)
 
 
 
-<img src="https://qph.is.quoracdn.net/main-qimg-3504cc03d0a1581096eba9ef97cfd7eb?convert_to_webp=true" align="right" width="40%" height="45%" />
-
-
-
 
 And here is the same code with syntax highlighting:
 
@@ -80,5 +76,5 @@ You can add notification, warning and error boxes like this:
 {: .box-error}
 **Error:** This is an error box.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMDA2MzI2MV19
+eyJoaXN0b3J5IjpbLTExMzc4Njc2NTcsLTYwMDA2MzI2MV19
 -->

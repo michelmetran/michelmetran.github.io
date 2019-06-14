@@ -38,13 +38,6 @@ foo(3)
 ~~~
 
 
-Agora meu test Michel
-<iframe id="iframe1" frameborder="0" src="https://michelmetran.carto.com/viz/a22c752a-b91b-4b21-b3ea-6e0892bdadb3/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-
-
-ssssss
-<iframe width="100%" height="520" frameborder="0" src="https://michelmetran.carto.com/viz/a22c752a-b91b-4b21-b3ea-6e0892bdadb3/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-
 
 <img src="https://qph.is.quoracdn.net/main-qimg-3504cc03d0a1581096eba9ef97cfd7eb?convert_to_webp=true" align="right" width="40%" height="45%" />
 
@@ -89,3 +82,6 @@ You can add notification, warning and error boxes like this:
 
 {: .box-error}
 **Error:** This is an error box.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTM5Nzk1Mjk2M119
+-->

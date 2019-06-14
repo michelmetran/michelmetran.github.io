@@ -25,12 +25,12 @@ description: "Brincando com dados!"
 navbar-links:
   Sobre: "sobre"
   Geoprocessamento:
-  	- ArcGIS: 
-	- Python: 
+  	- ArcGIS: "http://deanattali.com/beautiful-jekyll/"
+	- Python: "http://deanattali.com/beautiful-jekyll/"
   Divisões Administrativas:
-  	- CETESB:
-	- Ministério Público:
-	- Polícia Ambiental: 
+  	- CETESB: "http://deanattali.com/beautiful-jekyll/"
+	- Ministério Público: "http://deanattali.com/beautiful-jekyll/"
+	- Polícia Ambiental: "http://deanattali.com/beautiful-jekyll/"
   Outros:
   	- Techs: 
 	- Viagens:

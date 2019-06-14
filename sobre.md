@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre
-subtitle: Why you'd want to go on a date with me
+subtitle: Um pouco sobre andanças.do que fiz
 ---
 
 Biólogo, formado na UNESP <em>campus</em> Rio Claro (2003-2008), onde desenvolvi um interesse especial pela área de botânica e ecologia de comunidades, culminando no meu <a title="Página do TCC" href="http://michelmetran.com/wp-content/uploads/2015/03/TCC_MichelMetran.pdf" target="_blank">trabalho de conclusão de curso</a>. Neste, dediquei-me a compreensão da distribuição espacial da comunidade vegetal existente em uma área revegetada em 1916, com espécies nativas.
@@ -10,5 +10,5 @@ Em 2007 fui para ESALQ, compelido a continuar os estudos em botânica e restaura
 
 Atualmente, atuando no Grupo de Atuação Especial de Defesa do Meio Ambiente (GAEMA), <a title="GAEMA PCJ-Piracicaba" href="http://www.mp.sp.gov.br/portal/page/portal/cao_urbanismo_e_meio_ambiente/rede_gaema/piracicaba" target="_blank">Núcleo PCJ-Piracicaba</a>, do Ministério Público do Estado de São Paulo (MPSP), elaboro pareceres técnicos para auxiliar na tomada de decisão dos promotores de justiça. Dessa forma, passei a compreender melhor a legislação que temos, aprendendo também como <del datetime="2013-06-12T00:20:52+00:00">e se</del> funciona o nosso sistema democrático.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTU2MTE0N119
+eyJoaXN0b3J5IjpbNzYxNTc3OTU3XX0=
 -->

@@ -26,7 +26,9 @@ Aqui tem uma série de leis que venho compilando a cada trabalho que faço.
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1gnIn5_RNNazI9GnKXZXagjhwZsg" width="640" height="480"></iframe>
 
 ## TimeLine
-<h2>Exemplo de Timeline</h2> Gerado pelo https://timeline.knightlab.com/ <iframe src="//cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1yrq80RSU8OC3hO1WZaO67Ua6fFlmOsU68UccKni98dc&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650" width="100%" height="650" frameborder="0"></iframe>
+### Exemplo de Timeline
+Gerado pelo https://timeline.knightlab.com/
+<iframe src="//cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1yrq80RSU8OC3hO1WZaO67Ua6fFlmOsU68UccKni98dc&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650" width="100%" height="650" frameborder="0"></iframe>
 
 ### Exemplo de Gist GitHub
 https://gist.github.com/bfd851db84d3c7e01d04.git &nbsp; &nbsp; &nbsp; &nbsp; 
@@ -44,5 +46,5 @@ https://api.mapbox.com/styles/v1/michelmetran/cihdsi0c000h44llzkztrmcik.html?tit
 ### Exemplo do Leaflet
 var map = L.map('map').setView([51.505, -0.09], 13); L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', { attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors' }).addTo(map); L.marker([51.5, -0.09]).addTo(map) .bindPopup('A pretty CSS3 popup.<br> Easily customizable.') .openPopup();
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MzA1NTU1XX0=
+eyJoaXN0b3J5IjpbLTk0ODQ5NzQyNV19
 -->

@@ -2,6 +2,7 @@
 layout: page
 title: Sobre
 subtitle: ... um pouco sobre minha formação...
+permalink: /pages/sobre
 ---
 
 Biólogo, formado na UNESP <em>campus</em> Rio Claro (2003-2008), onde desenvolvi um interesse especial pela área de botânica e ecologia de comunidades, culminando no meu <a title="Página do TCC" href="http://michelmetran.com/wp-content/uploads/2015/03/TCC_MichelMetran.pdf" target="_blank">trabalho de conclusão de curso</a>. Nesse trabalho tive meu primeiro contato com ferramentas de geoprocessamento e buscava compreender como havia ocorrido a regeneração de uma área reflorestada em 1916, com espécies nativas.

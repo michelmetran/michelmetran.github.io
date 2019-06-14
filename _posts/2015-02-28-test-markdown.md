@@ -61,7 +61,7 @@ You can add notification, warning and error boxes like this:
 ### Notification
 
 {: .box-note}
-**Note:** This is a notification box.
+**Nota:** This is a notification box.
 
 ### Warning
 
@@ -73,6 +73,6 @@ You can add notification, warning and error boxes like this:
 {: .box-error}
 **Error:** This is an error box.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg4OTAwNjE4LC02MDk1MzM0NTksLTYwMD
-A2MzI2MV19
+eyJoaXN0b3J5IjpbMTQzNTM3MTkxOCwtNjA5NTMzNDU5LC02MD
+AwNjMyNjFdfQ==
 -->

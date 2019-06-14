@@ -5,7 +5,7 @@ subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
-comments: true
+comments: false
 ---
 
 You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
@@ -73,5 +73,6 @@ You can add notification, warning and error boxes like this:
 {: .box-error}
 **Error:** This is an error box.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTUzMzQ1OSwtNjAwMDYzMjYxXX0=
+eyJoaXN0b3J5IjpbNDg4OTAwNjE4LC02MDk1MzM0NTksLTYwMD
+A2MzI2MV19
 -->

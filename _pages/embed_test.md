@@ -20,7 +20,14 @@ Aqui tem uma série de leis que venho compilando a cada trabalho que faço.
 <div id="cxkg"><a href="https://c2dzk303.caspio.com/dp.asp?AppKey=fc38400000c5e0962c95471295ee">Click here</a> to load this Caspio <a title="Cloud Database" href="http://www.caspio.com" target="_blank">Cloud Database</a></div>
 
 ## Mapas
-Mapa de Holambra <iframe src="http://editor.giscloud.com/rest/1/maps/504525/render.iframe?bound=-5266855.215475915,-2600081.9541485496,-5211820.555110589,-2574551.986701302&amp;toolbar=true&amp;popups=true&amp;layerlist=true" width="100%" height="520" frameborder="0"></iframe>
+GISCLoud
+<iframe src="http://editor.giscloud.com/rest/1/maps/504525/render.iframe?bound=-5266855.215475915,-2600081.9541485496,-5211820.555110589,-2574551.986701302&amp;toolbar=true&amp;popups=true&amp;layerlist=true" width="100%" height="520" frameborder="0"></iframe>
+
+
+
+
+### Google
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1gnIn5_RNNazI9GnKXZXagjhwZsg" width="640" height="480"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDc3NTExODVdfQ==
+eyJoaXN0b3J5IjpbNTA2NTg5NzM1XX0=
 -->

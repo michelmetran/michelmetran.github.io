@@ -26,7 +26,10 @@ navbar-links:
   Sobre: "sobre"
   Geoprocessamento:
     - ArcGIS: "http://deanattali.com/beautiful-jekyll/"
-    - Python: "http://www.markdowntutorial.com/"    
+    - Python: "http://www.markdowntutorial.com/" 
+  Divisões Administrativas:
+    - Ministério Público: "http://deanattali.com/beautiful-jekyll/"
+    - CETESB: "http://www.markdowntutorial.com/"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"

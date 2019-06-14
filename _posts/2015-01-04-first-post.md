@@ -26,6 +26,12 @@ O código abaixo, no cabeçalho, acrescenta tags no final do texto.
 tags: [books, shakespeare, test]
 ~~~
 
+O código abaixo, no cabeçalho, acrescenta informações do GitHub.
+~~~
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+~~~
+
 
 
 My name is Michel Metran. I have the following qualities:
@@ -39,6 +45,6 @@ What else do you need?
 
 To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3ODQ5OTgyMSwzNDcxNjA2NzUsLTE0Nj
-MzNDE1ODYsNjE4NzgyNTldfQ==
+eyJoaXN0b3J5IjpbLTIwNDgyMjQ2MDcsMTY3ODQ5OTgyMSwzND
+cxNjA2NzUsLTE0NjMzNDE1ODYsNjE4NzgyNTldfQ==
 -->

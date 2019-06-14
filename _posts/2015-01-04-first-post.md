@@ -6,6 +6,7 @@ image: /img/hello_world.jpeg
 bigimg: /img/path.jpg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
+tags: [books, shakespeare, test]
 ---
 
 O código abaixo, no cabeçalho, altera a imagem padrão do site.
@@ -23,5 +24,5 @@ O código abaixo, no cabeçalho, acrescenta uma grande imagem atrás do Título 
 bigimg: /img/path.jpg
 ~~~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzE1MDg5NDEsNjE4NzgyNTldfQ==
+eyJoaXN0b3J5IjpbMTg3MDczMDEyNCw2MTg3ODI1OV19
 -->

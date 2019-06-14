@@ -44,9 +44,6 @@ foo(3)
 
 
 
-Fim dos meus testes
-
-
 And here is the same code with syntax highlighting:
 
 ```javascript
@@ -83,5 +80,5 @@ You can add notification, warning and error boxes like this:
 {: .box-error}
 **Error:** This is an error box.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5Nzk1Mjk2M119
+eyJoaXN0b3J5IjpbLTYwMDA2MzI2MV19
 -->

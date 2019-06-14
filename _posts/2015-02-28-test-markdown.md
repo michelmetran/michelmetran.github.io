@@ -37,9 +37,6 @@ var foo = function(x) {
 foo(3)
 ~~~
 
-
-
-
 And here is the same code with syntax highlighting:
 
 ```javascript
@@ -76,5 +73,5 @@ You can add notification, warning and error boxes like this:
 {: .box-error}
 **Error:** This is an error box.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzc4Njc2NTcsLTYwMDA2MzI2MV19
+eyJoaXN0b3J5IjpbLTYwOTUzMzQ1OSwtNjAwMDYzMjYxXX0=
 -->

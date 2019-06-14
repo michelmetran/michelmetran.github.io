@@ -35,13 +35,13 @@ Aqui tem uma série de leis que venho compilando a cada trabalho que faço.
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1gnIn5_RNNazI9GnKXZXagjhwZsg" width="640" height="480"></iframe>
 
 
-### Exemplo do MapBox Classic
+### MapBox Classic
 <iframe src="https://a.tiles.mapbox.com/v4/michelmetran.le002018/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1IjoibWljaGVsbWV0cmFuIiwiYSI6Im8zQUlXWlkifQ.Ry1eLGTjfk5HwJiGXLPoUA" width="100%" height="500px" frameborder="0"></iframe>
 
-### Exemplo do MapBox
+### MapBox Novo
 https://api.mapbox.com/styles/v1/michelmetran/cihdsi0c000h44llzkztrmcik.html?title=true&access_token=pk.eyJ1IjoibWljaGVsbWV0cmFuIiwiYSI6Im8zQUlXWlkifQ.Ry1eLGTjfk5HwJiGXLPoUA#6.313071461377912/-22.459685971576178/-51.18706358830195/0
 
-### Exemplo do Leaflet
+### Leaflet
 var map = L.map('map').setView([51.505, -0.09], 13); L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', { attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors' }).addTo(map); L.marker([51.5, -0.09]).addTo(map) .bindPopup('A pretty CSS3 popup.<br> Easily customizable.') .openPopup();
 
 ## TimeLine
@@ -49,5 +49,5 @@ Gerado pelo https://timeline.knightlab.com/
 <iframe src="//cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1yrq80RSU8OC3hO1WZaO67Ua6fFlmOsU68UccKni98dc&amp;font=Default&amp;lang=en&amp;initial_zoom=2&amp;height=650" width="100%" height="650" frameborder="0"></iframe>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NTcyNjI4XX0=
+eyJoaXN0b3J5IjpbLTEwNjk3MTMxOTldfQ==
 -->

@@ -7,6 +7,7 @@ bigimg: /img/path.jpg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [books, shakespeare, test]
+comments: false
 ---
 
 O código abaixo, no cabeçalho, altera a imagem padrão do site.
@@ -28,5 +29,6 @@ tags: [books, shakespeare, test]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjMzNDE1ODYsNjE4NzgyNTldfQ==
+eyJoaXN0b3J5IjpbMzQ3MTYwNjc1LC0xNDYzMzQxNTg2LDYxOD
+c4MjU5XX0=
 -->

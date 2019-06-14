@@ -66,13 +66,13 @@ You can add notification, warning and error boxes like this:
 ### Warning
 
 {: .box-warning}
-**Warning:** This is a warning box.
+**Aviso:** This is a warning box.
 
 ### Error
 
 {: .box-error}
-**Error:** This is an error box.
+**Erro:** This is an error box.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNTM3MTkxOCwtNjA5NTMzNDU5LC02MD
-AwNjMyNjFdfQ==
+eyJoaXN0b3J5IjpbNTE3Njg2NjUyLC02MDk1MzM0NTksLTYwMD
+A2MzI2MV19
 -->

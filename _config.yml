@@ -27,6 +27,15 @@ navbar-links:
   Geoprocessamento:
   	- ArcGIS: 
 	- Python: 
+  Divisões Administrativas:
+  	- CETESB:
+	- Ministério Público:
+	- Polícia Ambiental: 
+  Outros:
+  	- Techs: 
+	- Viagens:
+	- Hobbies:
+	
   #Resources:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     #- Learn markdown: "http://www.markdowntutorial.com/"

@@ -23,7 +23,7 @@ description: "Brincando com dados!"
 
 # List of links in the navigation bar
 navbar-links:
-  Sobre: "/pages/sobre"
+  Sobre: "/sobre"
   Geo:
     - ArcGIS: "http://deanattali.com/beautiful-jekyll/"
     - Python: "http://www.markdowntutorial.com/"

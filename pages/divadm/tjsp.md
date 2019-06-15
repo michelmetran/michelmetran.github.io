@@ -2,6 +2,7 @@
 layout: page
 title: TJSP
 subtitle: Divisão Administrativa do Tribunal de Justiça de São Paulo
+image: /img/logo/tjsp.jpg
 permalink: /div/tjsp
 tags: [divisão administrativa, tjsp]
 ---

@@ -2,6 +2,7 @@
 layout: page
 title: DAEE
 subtitle: Divisão Administrativa do  Departamento de Águas e Energia Elétrica
+image: /img/logo/daee.jpg
 permalink: /div/daee
 tags: [divisão administrativa, daee]
 ---

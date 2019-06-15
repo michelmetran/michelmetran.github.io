@@ -2,6 +2,7 @@
 layout: page
 title: Polícia Ambiental
 subtitle: Divisão Administrativa da Polícia Ambiental do Estado de São Paulo
+image: /img/logo/cpamb.jpg
 permalink: /div/cpamb
 tags: [divisão administrativa, polícia ambiental]
 ---

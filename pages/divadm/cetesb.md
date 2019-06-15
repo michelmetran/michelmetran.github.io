@@ -2,6 +2,7 @@
 layout: page
 title: CETESB
 subtitle: Divisão Administrativa da Companhia Ambiental do Estado de São Paulo
+image: /img/logo/cetesb.jpg
 permalink: /div/cetesb
 tags: [divisão administrativa, cetesb]
 ---

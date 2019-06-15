@@ -2,6 +2,7 @@
 layout: page
 title: DER
 subtitle: Divisão Administrativa do  Departamento de Estradas de Rodagem
+image: /img/logo/der.jpg
 permalink: /div/der
 tags: [divisão administrativa, der]
 ---

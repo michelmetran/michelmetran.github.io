@@ -2,6 +2,7 @@
 layout: page
 title: MPSP
 subtitle: Divisão Administrativa do Ministério Público do Estado de São Paulo
+image: /img/logo/mpsp.jpg
 permalink: /div/mpsp
 tags: [divisão administrativa, mpsp]
 ---

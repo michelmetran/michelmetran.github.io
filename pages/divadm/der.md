@@ -1,8 +1,9 @@
-
 ---
 layout: page
-title: Ministério Público do Estado de São Paulo
-subtitle: Divisão Administrativa
+title: DER
+subtitle: Divisão Administrativa do  Departamento de Estradas de Rodagem
+permalink: /div/der
+tags: [divisão administrativa, der]
 ---
 O Departamento de Estradas de Rodagem (<a title="Página do DER" href="http://www.der.sp.gov.br/" target="_blank">DER</a>) tem a função de administrar o sistema rodoviário estadual, sua integração com as rodovias municipais e federais e sua interação com os demais modais de transporte, objetivando o atendimento aos usuários no transporte de pessoas e cargas. A Divisão Administrativa do DER se dá por meio de 14 Divisões Regionais, que circunscrevem as 57 Unidades Básicas de Atendimento (UBAS).
 

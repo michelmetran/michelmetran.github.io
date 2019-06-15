@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Departamento de Águas e Energia Elétrica
-subtitle: Divisão Administrativa
+title: DAEE
+subtitle: Divisão Administrativa do  Departamento de Águas e Energia Elétrica
+permalink: /div/daee
+tags: [divisão administrativa, daee]
 ---
 
 O Departamento de Águas e Energia Elétrica (<a title="Página do DAEE" href="http://www.daee.sp.gov.br/" target="_blank">DAEE</a>) é o órgão gestor dos recursos hídricos do Estado de São Paulo. Para melhor desenvolver suas atividades e exercer suas atribuições conferidas por lei, atua de maneira descentralizada através de 8 (oito) Diretorias Regionais no atendimento aos municípios, usuários e cidadãos, executando a Política de Recursos Hídricos do Estado de São Paulo, bem como coordenando o Sistema Integrado de Gestão de Recursos Hídricos (<a title="Página do SigRH" href="http://www.sigrh.sp.gov.br" target="_blank">SigRH</a>), nos termos da <a title="Política Estadual de Recursos Hídricos" href="http://www.al.sp.gov.br/repositorio/legislacao/lei/1991/lei-7663-30.12.1991.html" target="_blank">Lei nº 7.663/91</a>, adotando as bacias hidrográficas como unidade físico-territorial de planejamento e gerenciamento.

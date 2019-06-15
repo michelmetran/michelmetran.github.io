@@ -1,7 +1,9 @@
 ---
 layout: page
 title: CETESB
-subtitle: Divisão Administrativa
+subtitle: Divisão Administrativa da Companhia Ambiental do Estado de São Paulo
+permalink: /div/cetesb
+tags: [divisão administrativa, cetesb]
 ---
 A Companhia Ambiental do Estado de São Paulo (<a title="Página da CETESB" href="http://www.cetesb.sp.gov.br/" target="_blank">CETESB</a>) é o órgão delegado do Governo do Estado de São Paulo nos campos do controle da poluição e da aplicação da legislação florestal, órgão executor do Sistema Estadual de Administração da Qualidade Ambiental, Proteção, Controle e Desenvolvimento do Meio Ambiente e Uso Adequado dos Recursos Naturais (SEAQUA) e órgão do Sistema Integrado de Gerenciamento de Recursos Hídricos (<a title="Página do SigRH" href="http://www.sigrh.sp.gov.br/" target="_blank">SigRH</a>).
 

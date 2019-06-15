@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Tribunal de Justiça de São Paulo (TJSP)
-subtitle: Divisão Administrativa
+title: TJSP
+subtitle: Divisão Administrativa do Tribunal de Justiça de São Paulo
+permalink: /div/tjsp
+tags: [divisão administrativa, tjsp]
 ---
 O Tribunal de Justiça de São Paulo (<a title="Página do TJSP" href="http://www.tjsp.jus.br/" target="_blank">TJSP</a>) foi instalado no dia 3 de fevereiro de 1874, sendo denominado Tribunal da Relação de São Paulo e Paraná. Por se tratarem de províncias bastante inexpressivas, foram nomeados apenas sete desembargadores para integrar o Tribunal, que tinha a função de julgar todas as causas em segunda instância, anteriormente julgadas pelo Tribunal de Relação do Rio de Janeiro.
 

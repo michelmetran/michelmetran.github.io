@@ -1,7 +1,9 @@
 ---
 layout: page
 title: CBRN
-subtitle: Divisão Administrativa
+subtitle: Divisão Administrativa da Coordenadoria de Biodiversidade e Recursos Naturais
+permalink: /div/cbrn
+tags: [divisão administrativa, cbrn]
 ---
 
 A Coordenadoria de Biodiversidade e Recursos Naturais (<a title="Página da CBRN" href="http://www.ambiente.sp.gov.br/cbrn/" target="_blank">CBRN</a>) foi criada em 1989, com o nome inicial de Coordenadoria de Proteção de Recursos Naturais (CPRN), pelo <a href="http://www.al.sp.gov.br/repositorio/legislacao/decreto/1989/decreto-30555-03.10.1989.html" target="_blank">Decreto Estadual nº 30.555</a>, que regulamentou a Secretaria do Meio Ambiente do Estado de São Paulo (SMA). Em 1995, teve o nome alterado para Coordenadoria de Licenciamento Ambiental e Proteção dos Recursos Naturais pelo <a title="Decreto Estadual nº 40.046, de 1995" href="http://www.al.sp.gov.br/repositorio/legislacao/decreto/1995/decreto-40046-13.04.1995.html" target="_blank">Decreto Estadual nº 40.046</a>. Somente em 2008 sua denominação passou a ser CBRN, pelo <a title="Decreto Estadual nº 53.027, de 2008" href="http://www.al.sp.gov.br/repositorio/legislacao/decreto/2008/decreto-53027-26.05.2008.html" target="_blank">Decreto Estadual nº 53.027</a> que reestruturou a SMA. Nova reestruturação ocorrida em 2012, através do <a title="Decreto Estadual nº 57.933, de 2012" href="http://www.al.sp.gov.br/repositorio/legislacao/decreto/2012/decreto-57933-02.04.2012.html" target="_blank">Decreto Estadual nº 57.933</a>, retirou da CBRN a atribuição de fiscalização e incorporou a gestão da fauna silvestre.

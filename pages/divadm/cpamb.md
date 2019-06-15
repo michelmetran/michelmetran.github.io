@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Polícia Ambiental
-subtitle: Divisão Administrativa
+subtitle: Divisão Administrativa da Polícia Ambiental do Estado de São Paulo
+permalink: /div/cpamb
+tags: [divisão administrativa, polícia ambiental]
 ---
 
 O Comando de Policiamento Ambiental do Estado de São Paulo (<a title="Página da Polícia Ambiental" href="http://www3.policiamilitar.sp.gov.br/unidades/cpamb" target="_blank">CPAmb</a>) é a unidade da Polícia Militar especializada na questão ambiental, responsável pela aplicação da legislação ambiental do estado e integra o SISNAMA (Sistema Nacional do Meio Ambiente).

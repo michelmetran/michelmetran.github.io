@@ -3,7 +3,6 @@ layout: post
 title: Git Basics
 subtitle: Comandos Básicos para atualizar repositórios do _GitHub_
 tags: [linux, git, github, gitpages]
-bigimg: [url=https://ibb.co/ZxT119T][img]https://i.ibb.co/SBv77Sv/git.jpg[/img][/url]
 comments: true
 ---
 
@@ -15,7 +14,8 @@ Esse _post_ tem a finalidade de mostrar os comandos básicos e me deixar com uma
 **Aviso:** Todas os códigos são exemplificativos e podem/devem ser alterados, indicando o nome das pastas e arquivos corretamente. 
 
 
-Vai para a pasta que tem os arquivos a serem enviados para o GitHub. No meu caso _/home/michel/Documents/GitPages/michelmetran.github.io_.
+### Comitar alterações em um repositório no _GitHub_
+Vai para a pasta no seu PC que tem os arquivos a serem enviados para o GitHub. No meu caso _/home/michel/Documents/GitPages/michelmetran.github.io_.
 ~~~
 cd /home/michel/Documents/GitPages/michelmetran.github.io
 ~~~
@@ -33,6 +33,10 @@ git pull origin master
 ~~~
 
 
+
+
+
+
 ### **_Download_** um repositório no _GitHub_
 Para fazer um _download_, **pela primeira vez**, do conjunto de arquivos de um repositório no <a title="Link do GitHub" href="https://github.com/" target="_blank">GitHub</a> basta ir na pasta que receberá o repositório e dar o comando **_clone_**
 
@@ -40,6 +44,10 @@ Para fazer um _download_, **pela primeira vez**, do conjunto de arquivos de um r
 cd /home/michel/Documents/GitPages/michelmetran.github.io
 git clone git@github.com:michelmetran/michelmetran.github.io.git
 ~~~
+
+
+
+
 
 
 ### **_Upload_** um repositório no _GitHub_

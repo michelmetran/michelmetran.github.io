@@ -4,6 +4,7 @@
 .vagrant
 .idea
 .stackedit-trash
+.github
 
 # general
 .DS_Store

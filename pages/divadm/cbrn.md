@@ -10,9 +10,6 @@ A Coordenadoria de Biodiversidade e Recursos Naturais (<a title="Página da CBRN
 
 A Coordenadoria de Biodiversidade e Recursos Naturais (CBRN) é o órgão da Secretaria do Meio Ambiente responsável por propor normas regulamentadoras da legislação ambiental, planejar, coordenar e executar projetos e ações relacionados ao uso sustentável e à conservação da biodiversidade e dos recursos naturais do Estado de São Paulo. Com atuação em todo o Estado de São Paulo, a CBRN dispõe de uma estrutura com departamentos, centros e núcleos que atuam em temas específicos, e encontra-se representada em dez sedes regionais, além de contar com diversas parcerias para a execução de seus programas, projetos e ações. Suas atribuições estão regulamentadas pelo <a title="Decreto Estadual nº 57.933, de 2012" href="http://www.al.sp.gov.br/repositorio/legislacao/decreto/2012/decreto-57933-02.04.2012.html" target="_blank">Decreto Estadual nº 57.933/2012</a>.
 
-<iframe src="http://michelmetran.cartodb.com/viz/f2fbff36-d353-11e4-b040-0e018d66dc29/embed_map" width="100%" height="520" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
-CBRN
 <iframe width="100%" height="520" frameborder="0" src="https://michelmetran.carto.com/viz/f2fbff36-d353-11e4-b040-0e018d66dc29/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 <strong>Referências</strong> Informações sobre os Núcleos Técnicos da CBRN foram obtidas em Agosto de 2015, por meio do <a title="Página da CBRN com informações sobre os Núcleos Regionais" href="http://www.ambiente.sp.gov.br/cbrn/" target="_blank">site da CBRN</a>.

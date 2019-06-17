@@ -12,14 +12,7 @@ Atua na execução das políticas de meio ambiente e de desenvolvimento sustent�
 
 A divisão administrativa se dá através das mais de 40 Agências Ambientais, onde é realizado o licenciamento ambiental de diversos empreendimentos, apresentadas no mapa abaixo. Alguns municípios do Estado de São Paulo tem competência para fazer o licenciamento ambiental de determinadas atividades econômicas que causam menor impacto ambiental, conforme estabelecido pelo <span class="st">Conselho Estadual do Meio Ambiente</span> (<a href="http://www.ambiente.sp.gov.br/consema/" target="_blank">CONSEMA)</a> por meio da <a href="http://www.ambiente.sp.gov.br/consema/files/2014/01/DelNormativa01.pdf" target="_blank">Deliberação CONSEMA Normativa nº 01/2014</a>, destacados no mapa abaixo.
 
-<iframe src="http://michelmetran.cartodb.com/viz/7076681e-cf4b-11e4-ad33-0e4fddd5de28/embed_map" width="100%" height="520" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
-
-
-CETESB
 <iframe width="100%" height="520" frameborder="0" src="https://michelmetran.carto.com/viz/7076681e-cf4b-11e4-ad33-0e4fddd5de28/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-
-
 
 <strong>Referências</strong> Informações sobre as Agências Ambientais foram obtidas em 25 de Agosto de 2015, por meio do <a title="Página sobre as 'Agências Ambientais'" href="http://licenciamento.cetesb.sp.gov.br/agencias/municipios.asp" target="_blank">site da CETESB</a>. Informações sobre os Municípios Licenciadores foram obtidas em 27 de Agosto 2015, por meio do <a title="Página sobre 'Municípios Licenciadores'" href="http://www.ambiente.sp.gov.br/consema/licenciamento-ambiental-municipal/" target="_blank">site do CONSEMA</a>.
 <!--stackedit_data:

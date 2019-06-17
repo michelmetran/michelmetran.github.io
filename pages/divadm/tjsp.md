@@ -14,11 +14,7 @@ Atualmente o Tribunal de Justiça é composto por 360 desembargadores e nos órg
 
 Os juízes de primeiro grau são os responsáveis em processar e julgar ações em <a href="http://pt.wikipedia.org/wiki/Primeira_inst%C3%A2ncia" target="_blank">primeira instância</a>. Após a <a href="http://pt.wikipedia.org/wiki/Senten%C3%A7a" target="_blank">sentença</a>, caso uma das partes não concorde com a decisão do julgamento, ela tem o direito de ingressar com recurso em <a href="http://pt.wikipedia.org/w/index.php?title=Segunda_inst%C3%A2ncia&amp;action=edit&amp;redlink=1" target="_blank">segunda instância</a>. Nesse caso, o processo será julgado novamente, só que, dessa vez, por um colegiado de <a href="http://pt.wikipedia.org/wiki/Desembargador" target="_blank">desembargadores</a>, que se dividem em Câmaras. Eles emitem seus votos, mantendo ou não decisão proferida em primeira instância. A decisão em segunda instância é chamada de <a href="http://pt.wikipedia.org/wiki/Ac%C3%B3rd%C3%A3o" target="_blank">acórdão</a>. Todos os julgamentos em 1ª e 2ª instância são públicos e suas decisões devem ser fundamentadas, caso contrário podem ser consideradas nulas. Os julgamentos em <a href="http://pt.wikipedia.org/wiki/Primeira_inst%C3%A2ncia" target="_blank">primeira instância</a> são feitos nos Fóruns das Comarcas. Um conjunto de Comarcas compõe uma Circunscrição Judiciária, apresentadas abaixo.
 
-<iframe src="http://michelmetran.cartodb.com/viz/801f929a-d35b-11e4-886d-0e853d047bba/embed_map" width="100%" height="520" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
-TJSP
 <iframe width="100%" height="520" frameborder="0" src="https://michelmetran.carto.com/viz/801f929a-d35b-11e4-886d-0e853d047bba/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-
 
 <strong>Referências</strong> Informações sobre as Comarcas, Circunscrição Judiciária e Regiões Administrativas Judiciárias foram obtidas em Setembro de 2015, por meio do <a href="http://www.tjsp.jus.br/Institucional/ConhecaOTJ/RegioesAdministrativasJudiciarias.aspx" target="_blank">site do TJSP</a>.
 <!--stackedit_data:

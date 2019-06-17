@@ -13,11 +13,6 @@ O Comando de Policiamento Ambiental fiscaliza crimes ambientais, tais como: caç
 
 A Polícia Militar Ambiental do Estado de São Paulo tem sua divisão administrativa estruturadas de maneira hierárquica em quatro diferentes níveis, existindo os Batalhões, as Companhias, os Pelotões e, por fim, as Bases Operacionais.
 
-<iframe width="100%" height="520" frameborder="0" src="https://michelmetran.cartodb.com/viz/7c87cedc-cf76-11e5-985b-0e3ff518bd15/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-
-
-<iframe width="100%" height="520" frameborder="0" src="https://michelmetran.cartodb.com/viz/6b11afba-cf76-11e5-bc6e-0ecd1babdde5/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-
 CPAmb Pelotões
 <iframe width="100%" height="520" frameborder="0" src="https://michelmetran.carto.com/viz/7c87cedc-cf76-11e5-985b-0e3ff518bd15/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
@@ -26,9 +21,6 @@ CPamb Cias
 
 CPAmb
 <iframe width="100%" height="520" frameborder="0" src="https://michelmetran.carto.com/viz/e6f2567e-d356-11e4-ad68-0e0c41326911/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-
-
-
 
 <strong>Referências</strong> Informações sobre a Divisão de Companhias e Batalhões foram obtidas em Setembro de 2015.
 <!--stackedit_data:

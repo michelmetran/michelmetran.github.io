@@ -13,7 +13,7 @@ Esse _post_ tem a finalidade de mostrar os comandos básicos e me deixar com uma
 
 {: .box-warning}
 **Aviso:** Todas os códigos são exemplificativos e podem/devem ser alterados, indicando o nome das pastas e arquivos corretamente.
-<br>
+
 <br>
 <br>
 ### Comitar alterações em um repositório no _GitHub_
@@ -35,7 +35,6 @@ git pull origin master
 ~~~
 <br>
 <br>
-<br>
 ### _Download_ um repositório no _GitHub_
 Para fazer um _download_, **pela primeira vez**, do conjunto de arquivos de um repositório no <a title="Link do GitHub" href="https://github.com/" target="_blank">GitHub</a> basta ir na pasta que receberá o repositório e dar o comando **_clone_**
 
@@ -43,7 +42,6 @@ Para fazer um _download_, **pela primeira vez**, do conjunto de arquivos de um r
 cd /home/michel/Documents/GitPages/michelmetran.github.io
 git clone git@github.com:michelmetran/michelmetran.github.io.git
 ~~~
-<br>
 <br>
 <br>
 ### _Upload_ um repositório no _GitHub_

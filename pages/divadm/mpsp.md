@@ -7,7 +7,11 @@ permalink: /div/mpsp
 tags: [divisão administrativa, mpsp]
 ---
 O <strong>Ministério Público</strong> tem a função de <em>"zelar pelo efetivo respeito dos poderes públicos e dos serviços de relevância pública aos direitos assegurados nesta Constituição, promovendo as medidas necessárias a sua garantia"</em> segundo a Constituição de 1988. A atuação do Ministério Público do Estado de São Paulo (MPSP) especificamente na área ambiental acontece de três maneiras:
-<ol> <li>Por meio das Promotorias de Justiça de Meio Ambiente (PJ);</li> <li>Por meio do Grupo de Atuação Especial de Defesa de Meio Ambiente (GAEMA);</li> <li>Por meio da Rede Protetiva.</li> </ol>
+<ol>
+	<li>Por meio das Promotorias de Justiça de Meio Ambiente (PJ);</li>
+	<li>Por meio do Grupo de Atuação Especial de Defesa de Meio Ambiente (GAEMA);</li>
+	<li>Por meio da Rede Protetiva.</li>
+</ol>
 
 As <strong>Promotorias de Meio Ambiente</strong> atuam predominantemente nas questões locais e respeitam a jurisdição das Áreas Regionais do Ministério Público, bem como as Promotorias Cíveis, Promotorias Criminais etc.
 

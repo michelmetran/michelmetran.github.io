@@ -11,6 +11,12 @@ O Departamento de Águas e Energia Elétrica (<a title="Página do DAEE" href="h
 
 <iframe src="http://michelmetran.cartodb.com/viz/ad96fb20-d34f-11e4-8e9a-0e853d047bba/embed_map" width="100%" height="520" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
+
+DAEE
+<iframe width="100%" height="520" frameborder="0" src="https://michelmetran.carto.com/viz/ad96fb20-d34f-11e4-8e9a-0e853d047bba/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+
+
 Além da divisão das Diretorias Regionais, existem escritórios do DAEE com funções específicas, tais como:
 
 <ul> <li><strong>Centro de Gerenciamento de Recursos Hídricos:</strong> responsável por outorgas, fiscalização, planejamento, cadastramento, atuação, participação e suporte técnico-administrativo aos Comitês de Bacias Hidrográficas e suas Câmaras Técnicas, atendimento aos usuários de recursos hídricos.</li> <li><strong>Centro Técnico:</strong> Assessoria técnica, elaboração de estudos e projetos, acompanhamento e fiscalização de obras, análise e acompanhamento dos projetos do FEHIDRO, coordenação de convênios com prefeituras.</li> <li><strong>Unidades de Serviços e Obras:</strong> coordenação dos serviços de máquinas do DAEE, no campo dos recursos hídricos, realizados em parceria com as prefeituras (com "drag-lines", escavadeiras hidráulicas, pás carregadeiras, tratores de lâmina, valetadeiras, retro-escavadeira, etc.) e dispõe também de fábricas de tubos de concreto.</li> </ul>

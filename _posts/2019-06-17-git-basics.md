@@ -28,6 +28,8 @@ git init
 
 ### Clonar (_ou copiar_) um Repositório existente
 
+<br>
+
 ####... do GitHub no PC local
 
 Basta acessar a basta aonde estão listados os diretórios e dar o comando **_clone_**.
@@ -88,6 +90,8 @@ Na pasta local insira o seguinte comando.
 ~~~
 git status
 ~~~
+
+<br>
 
 {: .box-error}
 **Informações:** Existem muitos outros comandos existentes a serem aprendidos que ainda não utilizei. Toda a discussão sobre _branchs_..., aplicação do comando **_add_** apenas aos arquivos alterados, evitando o **_git add --all_**. Aqui sintetizei apenas o conhecimento adquirido até o momento que venho utilizando em meus repositórios.

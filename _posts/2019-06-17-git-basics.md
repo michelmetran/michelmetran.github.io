@@ -10,14 +10,7 @@ comments: true
 
 O **<a title="Link do GitHub" href="https://github.com/" target="_blank">GitHub</a>** é uma plataforma de hospedagem de código-fonte com controle de versão usando o **<a title="Link do Git" href="https://git-scm.com/" target="_blank">Git</a>**. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou _Open Source_ de qualquer lugar do mundo.
 
-A alteração/contribuição em um dado projeto se dá por meio do comando **_commit_**. Um **_commit_** é o ato de enviar, ou seja, fazer um _upload_ dos códigos para um banco de dados.
-
->eu _comito_
-tu _comitas_
-ele _comita_
-nós _comitamos_
-vós _comitais_
-eles _comitam_
+A alteração/contribuição em um dado projeto se dá por meio do comando **_commit_**, ou seja, o ato de fazer um _upload_ dos códigos para um repositírio.
 
 {: .box-warning}
 **Aviso:** Esse _post_ tem a finalidade de apresentar __apenas__ os comandos básicos e me deixar com uma "cola" rápida para meu uso cotidiano. Logo, todos os códigos são exemplificativos e podem/devem ser alterados, indicando o nome das pastas e arquivos corretamente.
@@ -34,7 +27,9 @@ git init
 <br>
 
 ### Clonar (_ou copiar_) um Repositório existente
+
 ####... do GitHub no PC local
+
 Basta acessar a basta aonde estão listados os diretórios e dar o comando **_clone_**.
 Isso deve ser feito no por meio do comando genérico _git clone /caminho/para/o/repositório_ ou, quando em um servidor, o comando será _git clone usuário@servidor:/caminho/para/o/repositório_.
 ~~~
@@ -51,13 +46,13 @@ git clone /home/michel/Documents/GitRepo/jekyll
 ~~~
 <br>
 
-### Atualizar (_comitar_ ou incluir) alterações em um Repositório no **<a title="Link do GitHub" href="https://github.com/" target="_blank">GitHub</a>**
-Inicialmente vá até a pasta local que tem os arquivos a serem enviados para o **<a title="Link do GitHub" href="https://github.com/" target="_blank">GitHub</a>**. No meu caso _/home/michel/Documents/GitRepo/{Nome do Repositório}.
+### Atualizar (_comitar_) alterações em um Repositório
+Inicialmente vá até a pasta local que tem os arquivos a serem enviados para o **<a title="Link do GitHub" href="https://github.com/" target="_blank">GitHub</a>**. No meu caso _/home/michel/Documents/GitRepo/{Nome do Repositório}_.
 ~~~
 cd /home/michel/Documents/GitRepo/michelmetran.github.io
 ~~~
 
-E adiciona todos os arquivos a serem "comitados" e, por meio do comando **_push_**, é realizado o __**_upload_**__ dos arquivos para o **<a title="Link do GitHub" href="https://github.com/" target="_blank">GitHub</a>**.
+E adiciona todos os arquivos a serem _"comitados"_ e, por meio do comando **_push_**, é realizado o **_upload_** dos arquivos para o **<a title="Link do GitHub" href="https://github.com/" target="_blank">GitHub</a>**.
 ~~~
 git add --all
 git commit -m "Initial commit"
@@ -68,20 +63,20 @@ Para adicionar arquivos, recomenda-se incluir apenas os arquivos modificados. Pa
 
 | Comando | Inclui Novos | Inclui Modificados | Inclui Removidos | Descrição
 | :------ |:--- | :--- | :--- | :---
-| _git add --all_ _git add -A_ | Sim | Sim | Sim | Adiciona **arquivos e pastas (__novos, modificados ou removidos__)**, que começam ou não com .
-| _git add *_ | Sim | Sim | Sim | Adiciona **arquivos e pastas (__novos, modificados ou removidos__)**, ignorando aqueles que começam com .
-| _git add ._ | Sim | Sim | Sim | Adiciona **apenas arquivos (__novos, modificados ou removidos__)**, ignorando aqueles que começam com .
-| _git add -u_ | Não | Sim | Sim | Adiciona **apenas arquivos (__modificados e removidos__)**, ignorando os novos
+| _git add --all_ _git add -A_ | Sim | Sim | Sim | Adiciona **arquivos e pastas (novos, modificados ou removidos)**, que começam ou não com .
+| _git add *_ | Sim | Sim | Sim | Adiciona **arquivos e pastas (novos, modificados ou removidos)**, ignorando aqueles que começam com .
+| _git add ._ | Sim | Sim | Sim | Adiciona **apenas arquivos (novos, modificados ou removidos)**, ignorando aqueles que começam com .
+| _git add -u_ | Não | Sim | Sim | Adiciona **apenas arquivos (modificados e removidos)**, ignorando os novos
 
 Ainda há a possibilidade de adicionar apenas um arquivo a ser _comitado_ por meio do comando abaixo.
 ~~~
-git add {filename.md}
+git add {filename}
 ~~~
 
 <br>
 
 ### Atualizar o Repositório local
-É possível fazer o __**_download_**__ dos arquivos do **<a title="Link do GitHub" href="https://github.com/" target="_blank">GitHub</a>**, atualizando o repositório local. Isso é útil quando são realizadas modificações nos arquivos por outros meios (diretamente pelo **<a title="Link do GitHub" href="https://github.com/" target="_blank">GitHub</a>**, por meio do **<a title="Link do StackEdit" href="https://stackedit.io/" target="_blank">StackEdit</a>** ou qualquer outro editor _online_, por exemplo).
+É possível fazer o **_download_** dos arquivos do **<a title="Link do GitHub" href="https://github.com/" target="_blank">GitHub</a>**, atualizando o repositório local. Isso é útil quando são realizadas modificações nos arquivos por outros meios (diretamente pelo **<a title="Link do GitHub" href="https://github.com/" target="_blank">GitHub</a>**, por meio do **<a title="Link do StackEdit" href="https://stackedit.io/" target="_blank">StackEdit</a>** ou qualquer outro editor _online_, por exemplo).
 ~~~
 git pull origin master
 ~~~
@@ -96,3 +91,5 @@ git status
 
 {: .box-error}
 **Informações:** Existem muitos outros comandos existentes a serem aprendidos que ainda não utilizei. Toda a discussão sobre _branchs_..., aplicação do comando **_add_** apenas aos arquivos alterados, evitando o **_git add --all_**. Aqui sintetizei apenas o conhecimento adquirido até o momento que venho utilizando em meus repositórios.
+
+<br>

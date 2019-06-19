@@ -27,13 +27,13 @@ git init
 <br>
 
 ### Clonar (_ou copiar_) um Repositório existente
-#### ... do GitHub no PC local
+#### ... do GitHub para o PC local
 Basta acessar a basta aonde estão listados os diretórios e dar o comando **_clone_**.
 
 Isso deve ser feito no por meio do comando genérico _git clone /caminho/para/o/repositório_ ou, quando em um servidor, o comando será _git clone usuário@servidor:/caminho/para/o/repositório_.
 ~~~
 cd /home/michel/Documents/GitRepo
-git clone git@github.com:jekyll/jekyll			# Ex. 1
+git clone git@github.com:jekyll/jekyll						# Ex. 1
 git clone git@github.com:michelmetran/michelmetran.github.io.git	# Ex. 2
 ~~~
 <br>

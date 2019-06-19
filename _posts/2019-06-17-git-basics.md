@@ -13,15 +13,15 @@ O **<a title="Link do GitHub" href="https://github.com/" target="_blank">GitHub<
 A alteração/contribuição em um dado projeto se dá por meio do comando **_commit_**, ou seja, o ato de fazer um _upload_ dos códigos para um repositírio.
 
 {: .box-warning}
-**Aviso:** Esse _post_ tem a finalidade de apresentar __apenas__ os comandos básicos e me deixar com uma "cola" rápida para meu uso cotidiano. Logo, todos os códigos são exemplificativos e podem/devem ser alterados, indicando o nome das pastas e arquivos corretamente.
+**Aviso:** Esse _post_ tem a finalidade de apresentar __apenas__ os comandos básicos e me deixar com uma "cola" rápida para meu uso cotidiano. Logo, todos os códigos são exemplificativos e podem/devem ser alterados, indicando o nome dos arquivos e diretórios corretamente.
 
 <br>
 
 ### Criar um novo Repositório no PC local
-Para criar um repositório, a ser enviado posteriormente para o  **<a title="Link do GitHub" href="https://github.com/" target="_blank">GitHub</a>** (ou qualquer outro serviço para hospedar códigos) é necessário iniciar o git, ou seja, o versionamento, em um dado diretório. Para isso basta criar o diretório, acessa-lo e iniciá-lo.
+Para criar um repositório, a ser enviado posteriormente para o  **<a title="Link do GitHub" href="https://github.com/" target="_blank">GitHub</a>** (ou qualquer outro serviço para hospedar códigos) é necessário iniciar o _git_, ou seja, o versionamento, em um dado diretório. Para isso basta cria-lo, acessa-lo e iniciá-lo.
 ~~~
-mkdir --parents /home/michel/Documents/GitRepo/{Nome da Pasta}
-cd /home/michel/Documents/GitRepo/{Nome da Pasta}
+mkdir --parents /home/michel/Documents/GitRepo/{Nome do Diretório}
+cd /home/michel/Documents/GitRepo/{Nome do Diretório}
 git init
 ~~~
 <br>
@@ -46,7 +46,7 @@ git clone /home/michel/Documents/GitRepo/jekyll
 <br>
 
 ### Atualizar (_comitar_) alterações em um Repositório
-Inicialmente vá até a pasta local que tem os arquivos a serem enviados para o **<a title="Link do GitHub" href="https://github.com/" target="_blank">GitHub</a>**. No meu caso _/home/michel/Documents/GitRepo/{Nome do Repositório}_.
+Inicialmente vá até o diretório local que tem os arquivos a serem enviados para o **<a title="Link do GitHub" href="https://github.com/" target="_blank">GitHub</a>**. No meu caso _/home/michel/Documents/GitRepo/{Nome do Repositório}_.
 ~~~
 cd /home/michel/Documents/GitRepo/michelmetran.github.io
 ~~~
@@ -62,10 +62,10 @@ Para adicionar arquivos, recomenda-se incluir apenas os arquivos modificados. Pa
 
 | Comando | Inclui Novos | Inclui Modificados | Inclui Removidos | Descrição
 | :------ |:--- | :--- | :--- | :---
-| _git add --all_ _git add -A_ | Sim | Sim | Sim | Adiciona **arquivos e pastas (novos, modificados ou removidos)**, que começam ou não com .
-| _git add *_ | Sim | Sim | Sim | Adiciona **arquivos e pastas (novos, modificados ou removidos)**, ignorando aqueles que começam com .
-| _git add ._ | Sim | Sim | Sim | Adiciona **apenas arquivos (novos, modificados ou removidos)**, ignorando aqueles que começam com .
-| _git add -u_ | Não | Sim | Sim | Adiciona **apenas arquivos (modificados e removidos)**, ignorando os novos
+| _git add --all_ _git add -A_ | Sim | Sim | Sim | Adiciona **arquivos e diretórios (_novos, modificados ou removidos_)**, que começam ou não com .
+| _git add *_ | Sim | Sim | Sim | Adiciona **arquivos e diretórios (_novos, modificados ou removidos_)**, ignorando aqueles que começam com .
+| _git add ._ | Sim | Sim | Sim | Adiciona **apenas arquivos (_novos, modificados ou removidos_)**, ignorando aqueles que começam com .
+| _git add -u_ | Não | Sim | Sim | Adiciona **apenas arquivos (_modificados e removidos_)**, ignorando os **_novos_**
 
 Ainda há a possibilidade de adicionar apenas um arquivo a ser _comitado_ por meio do comando abaixo.
 ~~~
@@ -83,7 +83,7 @@ git pull origin master
 <br>
 
 ### _Status_ do Repositório
-Na pasta local insira o seguinte comando.
+No diretório local insira o seguinte comando.
 ~~~
 git status
 ~~~

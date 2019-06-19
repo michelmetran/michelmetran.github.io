@@ -23,6 +23,8 @@ Here's a useless table:
 | Seven | Eight | Six |
 | Two | Three | One |
 
+- Learn markdown: "http://www.markdowntutorial.com/"
+
 
 How about a yummy crepe?
 

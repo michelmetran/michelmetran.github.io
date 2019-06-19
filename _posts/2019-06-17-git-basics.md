@@ -26,9 +26,7 @@ git init
 ~~~
 <br>
 
-### Clonar (_ou copiar_) um Repositório existente
-
-<br>
+### Clonar (_ou copiar_) um Repositório existente  
 
 ####... do GitHub no PC local
 

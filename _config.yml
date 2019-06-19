@@ -25,12 +25,11 @@ description: "Brincando com dados!"
 navbar-links:
   Sobre: "sobre"
   Geo:
-    - ArcGIS: "http://deanattali.com/beautiful-jekyll/"
-    - Python: "http://www.markdowntutorial.com/"
+    - ArcGIS: "http://esri.com"
+    - Python: "http://www.python.org"
   Serviços:
-    Divisoes:
-		- CBRN: "div/cbrn"
-    	- CETESB: "div/cetesb"
+	- CBRN: "div/cbrn"
+    - CETESB: "div/cetesb"
     - Polícia Ambiental: "div/cpamb"
     - DAEE: "div/daee"
     - DER: "div/der"

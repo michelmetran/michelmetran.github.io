@@ -27,7 +27,7 @@ navbar-links:
   Geo:
     - ArcGIS: "http://esri.com"
     - Python: "http://www.python.org"
-  Serviços:
+  "Serviços":
 	- CBRN: "div/cbrn"
     - CETESB: "div/cetesb"
     - Polícia Ambiental: "div/cpamb"

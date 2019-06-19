@@ -3,8 +3,8 @@ layout: post
 title: Git Basics
 subtitle: Comandos Básicos para atualizar repositórios do GitHub
 tags: [linux, git, github, gitpages]
-image: /img/posts/github.png
-bigimg: /img/posts/git.png
+image: /img/posts/icon_github.png
+bigimg: /img/posts/big_git.png
 comments: true
 ---
 
@@ -27,9 +27,9 @@ git init
 <br>
 
 ### Clonar (_ou copiar_) um Repositório existente
+#### ... do GitHub no PC local
 Basta acessar a basta aonde estão listados os diretórios e dar o comando **_clone_**.
 
-####... do GitHub no PC local
 Isso deve ser feito no por meio do comando genérico _git clone /caminho/para/o/repositório_ ou, quando em um servidor, o comando será _git clone usuário@servidor:/caminho/para/o/repositório_.
 ~~~
 cd /home/michel/Documents/GitRepo

@@ -2,7 +2,12 @@
 layout: page
 title: SeTeste
 subtitle: Divisão Administrativa
+permalink: /folium
 ---
+
+ddddddd
+ddddddd
+dddddd
 
 # Estudando o Folium
 

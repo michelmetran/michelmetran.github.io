@@ -27,7 +27,7 @@ navbar-links:
   Geo:
     - ArcGIS: "http://esri.com"
     - Python: "http://www.python.org"
-    - MapTest: "map_santos.html"
+    - Ipynb: "folium"
     - CodeTest: "map_santos.html"
   Serviços:
     - CBRN: "div/cbrn"

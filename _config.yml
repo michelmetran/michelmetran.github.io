@@ -28,7 +28,7 @@ navbar-links:
     - ArcGIS: "http://esri.com"
     - Python: "http://www.python.org"
     - MapTest: "map_santos.html"
-	- CodeTest: "map_santos.html"
+    - CodeTest: "map_santos.html"
   Serviços:
     - CBRN: "div/cbrn"
     - CETESB: "div/cetesb"

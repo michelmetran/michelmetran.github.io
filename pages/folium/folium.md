@@ -14,46 +14,6 @@ permalink: /folium
 
 Muita coisa interessante em https://www.youtube.com/watch?v=4RnU5qKTfYY
 
-
-
-
-
-
-
-
-
-#Iframe genérico
-
-<iframe src="https://michelmetran.github.io/pages/folium/map_santos.html" width="800" height="300" frameborder="0"></iframe>
-
-
-
-
-#Iframe genérico2
-
-<iframe src="https://michelmetran.github.io/pages/foliummaps/map_santos.html" width="800" height="300" frameborder="0"></iframe>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Importando Bibliotecas
 
 As bibliotecas básicas, ou _packages_, necessárias para criação do mapa são:
@@ -633,10 +593,6 @@ Mas não consigo inserir o mapa em uma célula de comentário, ou _markdown_.
 
 CartoDB
 <iframe width="100%" height="520" frameborder="0" src="https://michelmetran.carto.com/viz/7076681e-cf4b-11e4-ad33-0e4fddd5de28/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-
-#Iframe genérico
-
-<iframe src="https://michelmetran.github.io/pages/folium/map_santos.html" width="800" height="300" frameborder="0"></iframe>
 
 # Exercício completo
 

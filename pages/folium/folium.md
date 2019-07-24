@@ -26,9 +26,9 @@ import pandas as pd
 import folium
 ```
 
-#Iframe genérico
+#Iframe genérico Maps
 
-<iframe src="https://michelmetran.github.io/pages/folium/map_santos.html" width="800" height="300" frameborder="0"></iframe>
+<iframe src="https://michelmetran.github.io/pages/folium/maps/map_santos.html" width="800" height="300" frameborder="0"></iframe>
 
 ## Criando um mapa
 

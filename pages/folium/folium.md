@@ -32,7 +32,7 @@ import pandas as pd
 import folium
 ```
 
-{% include map_santos.html %}
+## {% include map_santos.html %}
 
 
 
@@ -41,8 +41,34 @@ CartoDB
 
 <iframe width="100%" height="520" frameborder="0" src="https://michelmetran.carto.com/viz/7076681e-cf4b-11e4-ad33-0e4fddd5de28/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-Iframe genérico
+Iframe genérico map_santos
 <iframe src="https://michelmetran.github.io/pages/folium/map_santos.html" width="800" height="300" frameborder="0"></iframe>
+
+
+
+Iframe genérico map
+<iframe src="https://michelmetran.github.io/pages/folium/map.html" width="800" height="300" frameborder="0"></iframe>
+
+
+
+Iframe genérico map
+<iframe src="https://michelmetran.github.io/pages/folium/map_santos2.html" width="800" height="300" frameborder="0"></iframe>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Criando um mapa

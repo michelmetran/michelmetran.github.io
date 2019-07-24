@@ -20,8 +20,8 @@ A alteração/contribuição em um dado projeto se dá por meio do comando **_co
 ### Criar um novo Repositório no PC local
 Para criar um repositório, a ser enviado posteriormente para o  **<a title="Link do GitHub" href="https://github.com/" target="_blank">GitHub</a>** (ou qualquer outro serviço para hospedar códigos) é necessário iniciar o _git_, ou seja, o versionamento, em um dado diretório. Para isso basta cria-lo, acessa-lo e iniciá-lo.
 ~~~
-mkdir --parents /home/michel/Documents/GitRepo/{Nome do Diretório}
-cd /home/michel/Documents/GitRepo/{Nome do Diretório}
+mkdir --parents /home/michel/Documents/SourceCode/{Nome do Diretório}
+cd /home/michel/Documents/SourceCode/{Nome do Diretório}
 git init
 ~~~
 <br>
@@ -32,7 +32,7 @@ Basta acessar a basta aonde estão listados os diretórios e dar o comando **_cl
 
 Isso deve ser feito no por meio do comando genérico _git clone /caminho/para/o/repositório_ ou, quando em um servidor, o comando será _git clone usuário@servidor:/caminho/para/o/repositório_.
 ~~~
-cd /home/michel/Documents/GitRepo
+cd /home/michel/Documents/SourceCode
 git clone git@github.com:jekyll/jekyll					# Ex. 1
 git clone git@github.com:michelmetran/michelmetran.github.io.git	# Ex. 2
 ~~~
@@ -41,14 +41,14 @@ git clone git@github.com:michelmetran/michelmetran.github.io.git	# Ex. 2
 #### ... do PC local para o PC local
 ~~~
 cd /home/michel/Documents
-git clone /home/michel/Documents/GitRepo/jekyll
+git clone /home/michel/Documents/SourceCode/jekyll
 ~~~
 <br>
 
 ### Atualizar (_comitar_) alterações em um Repositório
 Inicialmente vá até o diretório local que tem os arquivos a serem enviados para o **<a title="Link do GitHub" href="https://github.com/" target="_blank">GitHub</a>**. No meu caso _/home/michel/Documents/GitRepo/{Nome do Repositório}_.
 ~~~
-cd /home/michel/Documents/GitRepo/michelmetran.github.io
+cd /home/michel/Documents/SourceCode/michelmetran.github.io
 ~~~
 
 E adiciona todos os arquivos a serem _"comitados"_ e, por meio do comando **_push_**, é realizado o **_upload_** dos arquivos para o **<a title="Link do GitHub" href="https://github.com/" target="_blank">GitHub</a>**.

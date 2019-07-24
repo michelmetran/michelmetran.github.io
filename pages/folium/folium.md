@@ -43,7 +43,7 @@ CartoDB
 
 # Iframe genérico map
 
-<iframe src="https://michelmetran.github.io/pages/folium/maps/map_santos2.html" width="800" height="300" frameborder="0"></iframe>
+<iframe src="https://michelmetran.github.io/pages/folium/map_santos2.html" width="800" height="300" frameborder="0"></iframe>
 
 
 

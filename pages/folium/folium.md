@@ -32,8 +32,6 @@ import pandas as pd
 import folium
 ```
 
-## {% include map_santos.html %}
-
 
 
 

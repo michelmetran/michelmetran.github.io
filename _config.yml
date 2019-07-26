@@ -27,8 +27,6 @@ navbar-links:
   Geo:
     - ArcGIS: "http://esri.com"
     - Python: "http://www.python.org"
-    - ipynb: "folium"
-    - Sobre: "sobre"
   Serviços:
     - CBRN: "div/cbrn"
     - CETESB: "div/cetesb"

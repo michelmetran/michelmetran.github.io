@@ -3,8 +3,8 @@ layout: post
 title: Git Basics
 subtitle: Comandos Básicos para atualizar repositórios do GitHub
 tags: [linux, git, github, gitpages]
-image: /img/posts/icon_github.png
-bigimg: /img/posts/big_git.png
+image: /img/posts/git_icon.png
+bigimg: /img/posts/git_big.png
 comments: true
 ---
 

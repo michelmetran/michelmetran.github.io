@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre
-subtitle: ... um pouco sobre minha formação...
+subtitle: ... um pouco sobre minha formação!
 bigimg: /img/path.jpg
 permalink: /sobre
 ---

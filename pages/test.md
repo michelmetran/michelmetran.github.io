@@ -3,10 +3,3 @@ Participei de mais uma Audiência Pública presidida pelo Germano Serra, Secret�
 kk
 
 permeiam nossos cotidianos, mas visando responder as questões de forma discursivas, transfiguro a futebolística frase do Galvão Bueno... <em>por que em ano de Copa, vale tudo!</em> <h4>A regra é clara!</h4> Sintomática a resposta do comentarista Arnaldo César Coelho, aplicável as mais diversas regras futebolísticas, ou não. <h4>Parafraseando Abujamra: <em>Ai de mim!</em></h4> Intrigante Antônio Abujamra, com seu sonoro <em>Ai de mim</em>, instigando a curiosidade perante o absurdo.
-
-
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMjI0OTg1N119
--->

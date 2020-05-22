@@ -133,7 +133,7 @@ gtm: "GTM-NDZQBRX"
  #disqus: "Michel Metran"
 
 # If you want to use JustComments fill with the API Key
-just-comments: "0821af18-b940-4416-acb5-79b13f555e36"
+#just-comments: "0821af18-b940-4416-acb5-79b13f555e36"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""

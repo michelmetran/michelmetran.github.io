@@ -23,18 +23,25 @@ O problema tratava-se da impossibilidade de alterar os arquivos pelo host. Até 
 
 Logo, segui <a title="Link do GSpread" href="https://serverfault.com/questions/394197/mount-shared-folder-vbox-as-another-user" target="_blank">**_estes procedimentos_**</a>, que utilizam o mount para contornar a limitação do VirtualBox.
 
-`sudo mount -t vboxsf SHARE_NAME -o rw,dmode=777,gid=GROUP_ID,uid=USER_ID /path/on/guest`
+```
+sudo mount -t vboxsf SHARE_NAME -o rw,dmode=777,gid=GROUP_ID,uid=USER_ID /path/on/guest
+```
 
 
 
 Para meu caso concreto, os códigos que montam as minhas unidades de interesse são:
 
-`sudo mount -t vboxsf Arquivos -o rw,dmode=777,gid=1000,uid=1000 /home/michel/Arquivos`
-`sudo mount -t vboxsf Geodata -o rw,dmode=777,gid=1000,uid=1000 /home/michel/Geodata`
+```
+sudo mount -t vboxsf Arquivos -o rw,dmode=777,gid=1000,uid=1000 /home/michel/Arquivos
+sudo mount -t vboxsf Geodata -o rw,dmode=777,gid=1000,uid=1000 /home/michel/Geodata
+```
 
 
 
 Ainda é possível desmonta-las usando:
 
-`sudo umount /home/michel/Arquivos`
-`sudo umount /home/michel/Geodata`
+```
+sudo umount /home/michel/Arquivos
+sudo umount /home/michel/Geodata
+```
+

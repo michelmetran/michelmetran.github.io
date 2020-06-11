@@ -79,7 +79,7 @@ E adiciona todos os arquivos a serem _"comitados"_ e, por meio do comando **_pus
 ~~~bash
 git add --all
 git commit -m "Initial commit"
-git push -u origin master
+git push origin master
 ~~~
 
 Para adicionar arquivos, recomenda-se incluir apenas os arquivos modificados. Para isso o comando **_git add -all_** deve ser alterado conforme tabela abaixo:
@@ -96,13 +96,6 @@ Ainda há a possibilidade de adicionar apenas um arquivo a ser _comitado_ por me
 git add {filename}
 ~~~
 
-
-
-| ssss | sss  | sssss |
-| ---- | ---- | ----- |
-| ssss | sss  | ssss  |
-| ssss | sss  | sss   |
-| ssss | sss  | ss    |
 
 
 

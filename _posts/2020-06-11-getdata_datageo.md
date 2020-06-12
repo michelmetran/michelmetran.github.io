@@ -69,6 +69,7 @@ import requests
 import geopandas as gpd
 from datetime import date
 from bs4 import BeautifulSoup
+import matplotlib.pyplot as plt
 ```
 
 Após isso cria-se as pastas listadas, que armazenarão as informações ao longo desse *script*.

@@ -16,10 +16,9 @@ O [**DataGeo**](http://datageo.ambiente.sp.gov.br/) é o sistema da ~~Secretaria
 As informações são disponibilizadas, majoritariamente, em formato WMS (*Web Map Service*), que impossibilita análises espaciais, possibilitando apenas visualizações :poop:. Contudo, alguns *layers* estão acessíveis nos formatos editáveis mais usuais, sendo que os dados armazenados nesse repositório são derivados destes formatos.
 
 
-
 ## Objetivo do repositório
 
-Este repositório tem a finalidade de disponibilizar as rotinas empregadas para fazer o *download* e tratamento dos dados, bem como disponibilizar os dados de maneira remota, sendo facilmente utilizado em outras aplicações.
+Este repositório tem a finalidade de disponibilizar as rotinas empregadas para fazer o *download* e tratamento dos dados, bem como disponibilizar os dados espaciais de maneira remota, sendo facilmente utilizado em outras aplicações.
 
 
 - ***Download***: tentativa de busca dos dados por meio do *link* dos metadados;
@@ -48,19 +47,22 @@ import geopandas as gpd
 url = 'https://raw.githubusercontent.com/michelmetran/geo_SP_DataGeo/master/data/LimiteMunicipal.geojson'
 gdf_mun = gpd.read_file(url)
 ```
-<div class="alert alert-warning">
-<b>ALERTA</b><br/>
+<div class="alert alert-info">
+<b>INFORMAÇÃO</b><br/>
     <ol>
-    <li>É possível acessar esse <i>post</i> em formato <a href="https://rawcdn.githack.com/michelmetran/geo_SP_DataGeo/master/docs/getdata_datageo.html" target="_blank"><b>html</b></a>;</li>
-    <li>Diretamente por meio do <a href="https://github.com/michelmetran/geo_SP_DataGeo" target="_blank"><b>repositório do GitHub</b></a>, onde está disponível o arquivo <b>.ipynb</b>;</li>
-    <li>Ou ainda, de maneira interativa, usando o <a href="https://mybinder.org/v2/gh/michelmetran/geo_SP_DataGeo/master" target="_blank"><img src='https://mybinder.org/badge_logo.svg'></a></li>
+    <li>É possível acessar esse <i>post</i> em formato <a href="https://rawcdn.githack.com/michelmetran/geo_SP_DataGeo/master/docs/getdata_datageo.html" target="_blank"><i><b>html</b></i></a>, que possibilita ter uma visualização rápida do código;</li>
+    <li>Diretamente por meio do <a href="https://github.com/michelmetran/geo_SP_DataGeo" target="_blank"><b>repositório do GitHub</b></a>, onde está disponível o arquivo <i><b>.ipynb</b></i>, que permite fazer edições no código;</li>
+    <li>Ou ainda, de maneira interativa, usando o <a href="https://mybinder.org/v2/gh/michelmetran/geo_SP_DataGeo/master" target="_blank"><i><b>MyBinder</b></i></a>, que possibilita rodar e editar o código sem a necessidade de instalar nada.</li>
     </ol>
 </div>
 
 # *Imports* e Funções
 
+Inicialmente faz-se necessário importar as bibliotecas que serão necessárias.
+
 ```python
 import os
+import re
 import shutil
 import zipfile
 import requests
@@ -69,16 +71,15 @@ from datetime import date
 from bs4 import BeautifulSoup
 ```
 
+Após isso cria-se as pastas listadas, que armazenarão as informações ao longo desse *script*.
+
 ```python
 [os.makedirs(i, exist_ok=True) for i in ['data/brutos', 'docs']]
 ```
 
-Função para fazer *download* usando o *request*. Ainda, a função pega o nome do arquivo a partir do *Content Disposition*. Usei a função do *post* [Downloading Files from URLs in Python](https://www.codementor.io/@aviaryan/downloading-files-from-urls-in-python-77q3bs0un).
+Usei a função abaixo para fazer *download* usando o *request*. Ainda, a função pega o nome do arquivo a partir do *Content Disposition*. Peguei a função do *post* [*Downloading Files from URLs in Python*](https://www.codementor.io/@aviaryan/downloading-files-from-urls-in-python-77q3bs0un), aonde tem outros exemplos, com outras finalidades.
 
 ```python
-import requests
-import re
-
 def get_filename_from_cd(cd):
     """
     Get filename from content-disposition
@@ -93,19 +94,27 @@ def get_filename_from_cd(cd):
 
 # Dados Espaciais
 
+Após isso a forma de obtenção dos dados:
+1. Acessar a página dos metadados do plano de informação e exportar, mantendo armazenadas as informações da origem desse material;
+2. Caso seja possível acessar o material cartográfica por *shapefile*, será possível tomar conhecimento disso na paǵina dos metadados;
+3. Uma função específica procura o *link* do *shapefile* e faz o download, extração da pasta zipada.
+4. Promove-se correções na tabela de atributos e nas projeções geográficas.
+
 ## Limite Municipal SP (IGC)
 
 ```python
-# Metadados
+# Input dos caminhos para os metadados
 url = 'http://datageo.ambiente.sp.gov.br/geoportal/catalog/search/resource/details.page?uuid='
 id_metadados = '{74040682-561A-40B8-BB2F-E188B58088C1}'
 
-print(url+id_metadados)
+# Resultados
+url_meta = url+id_metadados
+print('Página com metadados: {}'.format(url_meta))
 ```
 
 ```python
 # Abre a página dos metadados
-page = requests.get(url+id_metadados)
+page = requests.get(url_meta)
 print('Resposta da página foi {}'.format(page))
 
 # Parser HTML
@@ -125,10 +134,18 @@ for i in soup:
 ```
 
 ```python
-# Download file in data/brutos
+# Download do arquivo e paga o nome a partir do content-disposition
+# Arquivo zip (shapefile) vai para a pasta de 'data/brutos'
 r = requests.get(url, allow_redirects=True)
 filename = get_filename_from_cd(r.headers.get('content-disposition'))
 open(os.path.join('data', 'brutos', filename), 'wb').write(r.content)
+```
+
+```python
+# Com o nome do arquivo, é realizado o download da página dos metadados
+file_meta = filename.split('.')[0]
+r = requests.get(url_meta, allow_redirects=True)
+open(os.path.join('data', 'brutos', file_meta + '.html'), 'wb').write(r.content)
 ```
 
 ```python
@@ -188,16 +205,18 @@ shutil.rmtree(temp)
 ## Sedes Municipais
 
 ```python
-# Metadados
+# Input dos caminhos para os metadados
 url = 'http://datageo.ambiente.sp.gov.br/geoportal/catalog/search/resource/details.page?uuid='
 id_metadados = '{64BF344A-3AD0-410A-A3AA-DFE01C4E9BBB}'
 
-print(url+id_metadados)
+# Resultados
+url_meta = url+id_metadados
+print('Página com metadados: {}'.format(url_meta))
 ```
 
 ```python
 # Abre a página dos metadados
-page = requests.get(url+id_metadados)
+page = requests.get(url_meta)
 print('Resposta da página foi {}'.format(page))
 
 # Parser HTML
@@ -217,10 +236,18 @@ for i in soup:
 ```
 
 ```python
-# Download file in data/brutos
+# Download do arquivo e paga o nome a partir do content-disposition
+# Arquivo zip (shapefile) vai para a pasta de 'data/brutos'
 r = requests.get(url, allow_redirects=True)
 filename = get_filename_from_cd(r.headers.get('content-disposition'))
 open(os.path.join('data', 'brutos', filename), 'wb').write(r.content)
+```
+
+```python
+# Com o nome do arquivo, é realizado o download da página dos metadados
+file_meta = filename.split('.')[0]
+r = requests.get(url_meta, allow_redirects=True)
+open(os.path.join('data', 'brutos', file_meta + '.html'), 'wb').write(r.content)
 ```
 
 ```python

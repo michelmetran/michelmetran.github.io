@@ -1,35 +1,44 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Michel Metran
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: "Brincando com dados!"
 
 # Your name to show in the footer
-author: Some Person
+author: Michel Metran
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Sobre: "sobre"
+  Geo:
+    - ArcGIS: "http://esri.com"
+    - Python: "http://www.python.org"
+  Serviços:
+    - CBRN: "div/cbrn"
+    - CETESB: "div/cetesb"
+    - Polícia Ambiental: "div/cpamb"
+    - DAEE: "div/daee"
+    - DER: "div/der"
+    - Ministério Público: "div/mpsp"
+    - SES: "div/ses"
+    - TJSP: "div/tjsp"
+  GitHub: "https://github.com/michelmetran"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/avatar.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: "/assets/img/mm.png"
 
 
 # --- Footer options --- #
@@ -38,11 +47,12 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
   rss: true
+  email: "michelmetran@gmail.com"
+  github: michelmetran
+  linkedin: michelmetran
+  twitter: michelmetran
+  stackoverflow: "6003328/michel-metran"
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -104,13 +114,13 @@ footer-link-col: "#404040"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "UA-141747101-1"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-141747101-1"
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "GTM-NDZQBRX"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
@@ -168,7 +178,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/Sao_Paulo"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -209,6 +219,4 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
+  

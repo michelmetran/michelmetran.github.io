@@ -13,8 +13,8 @@ author: Michel Metran
 
 navbar-links:
   Sobre: "sobre"
-  Geo:
-    - ArcGIS: "http://esri.com"
+  Projetos:
+    - OpenCantareira: "https://opencantareira.herokuapp.com/"
     - Python: "http://www.python.org"
   Serviços:
     - CBRN: "div/cbrn"

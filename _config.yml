@@ -25,6 +25,7 @@ navbar-links:
     - SES: "div/ses"
     - TJSP: "div/tjsp"
   Tags: "tags"
+    - Packages: "tags/#package"
 
 # --- Logo --- #
 

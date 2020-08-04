@@ -2,12 +2,13 @@
 layout: post
 title: DataGeo
 subtitle: Dados Espaciais
-tags: [python, jupyter, package, datageo, gis]
-image: /img/posts/datageo_icon.png
-bigimg: /img/posts/datageo_big.png
+thumbnail-img: /assets/img/posts/datageo_icon.png
+share-img: /assets/img/posts/datageo_big.png
+cover-img: /assets/img/posts/datageo_big.png
 gh-repo: michelmetran/geo_SP_DataGeo
 gh-badge: [follow, star, watch, fork]
 comments: true
+tags: [python, jupyter, package, datageo, gis]
 
 ---
 

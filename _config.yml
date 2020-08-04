@@ -4,7 +4,7 @@
 title: Michel Metran
 
 # Short description of your site
-description: "Brincando com dados!"
+description: Brincando com dados!
 
 # Your name to show in the footer
 author: Michel Metran
@@ -14,8 +14,7 @@ author: Michel Metran
 navbar-links:
   Sobre: "sobre"
   Projetos:
-    - OpenCantareira: "https://opencantareira.herokuapp.com/"
-    - Python: "http://www.python.org"
+    - Open Cantareira: "https://opencantareira.herokuapp.com/"
   Serviços:
     - CBRN: "div/cbrn"
     - CETESB: "div/cetesb"
@@ -54,9 +53,7 @@ social-network-links:
   twitter: michelmetran
   stackoverflow: "6003328/michel-metran"
 #  reddit: yourname
-#  linkedin: daattali
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78

@@ -24,7 +24,8 @@ navbar-links:
     - Ministério Público: "div/mpsp"
     - SES: "div/ses"
     - TJSP: "div/tjsp"
-  Tags: "tags"
+  Tags:
+    - Tag Index: "tags"
     - Packages: "tags/#package"
 
 # --- Logo --- #

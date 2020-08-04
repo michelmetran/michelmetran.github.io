@@ -2,6 +2,7 @@
 layout: page
 title: CBRN
 subtitle: Divisão Administrativa da Coordenadoria de Biodiversidade e Recursos Naturais
+
 permalink: /div/cbrn
 tags: [divisão administrativa, cbrn]
 ---
@@ -13,6 +14,3 @@ A Coordenadoria de Biodiversidade e Recursos Naturais (CBRN) é o órgão da Sec
 <iframe width="100%" height="520" frameborder="0" src="https://michelmetran.carto.com/viz/f2fbff36-d353-11e4-b040-0e018d66dc29/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 <strong>Referências</strong> Informações sobre os Núcleos Técnicos da CBRN foram obtidas em Agosto de 2015, por meio do <a title="Página da CBRN com informações sobre os Núcleos Regionais" href="http://www.ambiente.sp.gov.br/cbrn/" target="_blank">site da CBRN</a>.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MzY0MjA2XX0=
--->

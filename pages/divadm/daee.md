@@ -2,7 +2,9 @@
 layout: page
 title: DAEE
 subtitle: Divisão Administrativa do  Departamento de Águas e Energia Elétrica
-image: /img/logo/daee.jpg
+
+image: /assets/img/logo/daee.jpg
+
 permalink: /div/daee
 tags: [divisão administrativa, daee]
 ---
@@ -16,6 +18,3 @@ Além da divisão das Diretorias Regionais, existem escritórios do DAEE com fun
 <ul> <li><strong>Centro de Gerenciamento de Recursos Hídricos:</strong> responsável por outorgas, fiscalização, planejamento, cadastramento, atuação, participação e suporte técnico-administrativo aos Comitês de Bacias Hidrográficas e suas Câmaras Técnicas, atendimento aos usuários de recursos hídricos.</li> <li><strong>Centro Técnico:</strong> Assessoria técnica, elaboração de estudos e projetos, acompanhamento e fiscalização de obras, análise e acompanhamento dos projetos do FEHIDRO, coordenação de convênios com prefeituras.</li> <li><strong>Unidades de Serviços e Obras:</strong> coordenação dos serviços de máquinas do DAEE, no campo dos recursos hídricos, realizados em parceria com as prefeituras (com "drag-lines", escavadeiras hidráulicas, pás carregadeiras, tratores de lâmina, valetadeiras, retro-escavadeira, etc.) e dispõe também de fábricas de tubos de concreto.</li> </ul>
 
 <strong>Referências</strong> Informações sobre as Diretorias Regionais foram obtidas em Agosto de 2015, por meio do <a title="Página com as Diretorias Regionais de Bacias" href="http://www.daee.sp.gov.br/index.php?option=com_content&amp;view=article&amp;id=51:diretorias-de-bacia&amp;catid=35:institucional" target="_blank">site do DAEE</a>.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NDIwNjE2MV19
--->

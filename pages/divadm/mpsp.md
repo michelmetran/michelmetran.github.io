@@ -2,7 +2,9 @@
 layout: page
 title: MPSP
 subtitle: Divisão Administrativa do Ministério Público do Estado de São Paulo
-image: /img/logo/mpsp.jpg
+
+image: /assets/img/logo/mpsp.jpg
+
 permalink: /div/mpsp
 tags: [divisão administrativa, mpsp]
 ---
@@ -22,6 +24,3 @@ O <strong>Grupo de Atuação Especial de Defesa de Meio Ambiente</strong> (GAEMA
 <iframe width="100%" height="520" frameborder="0" src="https://michelmetran.carto.com/viz/c24459aa-ce9a-11e4-80bd-0e018d66dc29/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 <strong>Referências</strong> Informações sobre as Áreas Regionais do MPSP foram obtidas em Setembro de 2015, por meio do <a href="http://www.mpsp.mp.br/portal/page/portal/Promotorias_de_Justica/regioes_adm/relacoes_regionais" target="_blank">site da instituição</a>, enquanto as informações sobre os Núcleos GAEMA e Rede Protetiva foram obtidas em Setembro de 2015, por meio do <a title="Ato com Delimitações" href="http://biblioteca.mpsp.mp.br/PHL_IMG/Atos/848.pdf" target="_blank">Ato Normativo nº 848/14-PGJ</a>.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MjQxMzE0MF19
--->

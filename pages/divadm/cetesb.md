@@ -2,7 +2,9 @@
 layout: page
 title: CETESB
 subtitle: Divisão Administrativa da Companhia Ambiental do Estado de São Paulo
-image: /img/logo/cetesb.jpg
+
+image: /assets/img/logo/cetesb.jpg
+
 permalink: /div/cetesb
 tags: [divisão administrativa, cetesb]
 ---
@@ -15,6 +17,3 @@ A divisão administrativa se dá através das mais de 40 Agências Ambientais, o
 <iframe width="100%" height="520" frameborder="0" src="https://michelmetran.carto.com/viz/7076681e-cf4b-11e4-ad33-0e4fddd5de28/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 <strong>Referências</strong> Informações sobre as Agências Ambientais foram obtidas em 25 de Agosto de 2015, por meio do <a title="Página sobre as 'Agências Ambientais'" href="http://licenciamento.cetesb.sp.gov.br/agencias/municipios.asp" target="_blank">site da CETESB</a>. Informações sobre os Municípios Licenciadores foram obtidas em 27 de Agosto 2015, por meio do <a title="Página sobre 'Municípios Licenciadores'" href="http://www.ambiente.sp.gov.br/consema/licenciamento-ambiental-municipal/" target="_blank">site do CONSEMA</a>.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYyNzk3NzIxXX0=
--->

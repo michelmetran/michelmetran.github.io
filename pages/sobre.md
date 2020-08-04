@@ -2,7 +2,10 @@
 layout: page
 title: Sobre
 subtitle: ... um pouco sobre minha formação!
-bigimg: /img/path.jpg
+
+share-img: /assets/img/path.jpg
+cover-img: /assets/img/path.jpg
+
 permalink: /sobre
 ---
 

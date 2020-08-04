@@ -2,7 +2,9 @@
 layout: page
 title: Polícia Ambiental
 subtitle: Divisão Administrativa da Polícia Ambiental do Estado de São Paulo
-image: /img/logo/cpamb.jpg
+
+image: /assets/img/logo/cpamb.jpg
+
 permalink: /div/cpamb
 tags: [divisão administrativa, polícia ambiental]
 ---
@@ -18,6 +20,3 @@ A Polícia Militar Ambiental do Estado de São Paulo tem sua divisão administra
 <iframe width="100%" height="520" frameborder="0" src="https://michelmetran.carto.com/viz/7c87cedc-cf76-11e5-985b-0e3ff518bd15/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 <strong>Referências</strong> Informações sobre a Divisão de Companhias e Batalhões foram obtidas em Setembro de 2015.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5OTk3NDM4NF19
--->

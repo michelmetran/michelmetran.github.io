@@ -2,7 +2,9 @@
 layout: page
 title: TJSP
 subtitle: Divisão Administrativa do Tribunal de Justiça de São Paulo
-image: /img/logo/tjsp.jpg
+
+image: /assets/logo/tjsp.jpg
+
 permalink: /div/tjsp
 tags: [divisão administrativa, tjsp]
 ---
@@ -17,6 +19,3 @@ Os juízes de primeiro grau são os responsáveis em processar e julgar ações 
 <iframe width="100%" height="520" frameborder="0" src="https://michelmetran.carto.com/viz/801f929a-d35b-11e4-886d-0e853d047bba/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 <strong>Referências</strong> Informações sobre as Comarcas, Circunscrição Judiciária e Regiões Administrativas Judiciárias foram obtidas em Setembro de 2015, por meio do <a href="http://www.tjsp.jus.br/Institucional/ConhecaOTJ/RegioesAdministrativasJudiciarias.aspx" target="_blank">site do TJSP</a>.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk1OTY2MjE5XX0=
--->

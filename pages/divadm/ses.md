@@ -2,6 +2,7 @@
 layout: page
 title: SES
 subtitle: Divisão Administrativa da Secretaria de Saúde
+
 permalink: /div/ses
 tags: [divisão administrativa, ses]
 ---
@@ -10,6 +11,3 @@ A Secretaria de Saúde do Estado de São Paulo (SES-SP) é o órgão estadual re
 <iframe width="100%" height="520" frameborder="0" src="https://michelmetran.carto.com/viz/e8ab9582-d362-11e4-bbdd-0e0c41326911/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 <strong>Referências</strong> Informações sobre os Departamentos Regionais de Saúde, Grupo de Vigilância Epidemiológica e Grupo de Vigilância Sanitária foram obtidas em Setembro de 2015, por meio do site da instituição.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODQ3NDk0Nl19
--->

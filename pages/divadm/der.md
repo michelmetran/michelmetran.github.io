@@ -2,7 +2,9 @@
 layout: page
 title: DER
 subtitle: Divisão Administrativa do  Departamento de Estradas de Rodagem
-image: /img/logo/der.jpg
+
+image: /assets/img/logo/der.jpg
+
 permalink: /div/der
 tags: [divisão administrativa, der]
 ---
@@ -22,6 +24,3 @@ As Divisões Regionais têm dentre suas atribuições:
 As UBAs auxiliam a prevenir a ocorrência de acidentes graves na rede rodoviária, ajudam a implementar o Serviço de Atendimento ao Usuário e atuam não só em casos extremos de acidentes com vítimas, mas também naqueles de pequena monta, como um simples defeito mecânico.
 
 <strong>Referências</strong> Informações sobre as Divisões Regionais e UBAS foram obtidas em Agosto de 2015, por meio do <a href="http://www.der.sp.gov.br/website/Contatos/divisao_regional.aspx" target="_blank">site do DER</a>. As atribuições da instituição foram obtidas através do <a title="Regimento Interno do DER" href="http://www.der.sp.gov.br/arquivos/documento_regimento_interno.pdf" target="_blank">Regimento Interno</a>.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTA4NzQ3NzddfQ==
--->

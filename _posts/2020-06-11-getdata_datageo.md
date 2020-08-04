@@ -2,14 +2,17 @@
 layout: post
 title: DataGeo
 subtitle: Dados Espaciais
+
 thumbnail-img: /assets/img/posts/datageo_icon.png
 share-img: /assets/img/posts/datageo_big.png
 cover-img: /assets/img/posts/datageo_big.png
+
 gh-repo: michelmetran/geo_SP_DataGeo
 gh-badge: [follow, star, watch, fork]
-comments: true
-tags: [python, jupyter, package, datageo, gis]
 
+comments: true
+language: pt-br
+tags: [python, jupyter, package, datageo, gis]
 ---
 
 O [**DataGeo**](http://datageo.ambiente.sp.gov.br/) é o sistema da ~~Secretaria Estadual de Meio Ambiente do Estado de São Paulo (SMA)~~ [**Secretaria de Infraestrutura e Meio Ambiente (SIMA)**](https://www.infraestruturameioambiente.sp.gov.br) que disponibiliza diversas informações relevantes. Entendo que trata-se do pilar do que é chamado de <u>Infraestrutura de Dados Espaciais Ambientais do Estado de São Paulo</u>. No evento MundoGEO Connect, edição de 2014, foi feita [uma apresentação](https://mundogeoconnect.com/2014/arquivos/palestras/9_mai-a-arlete-ohata.pdf) que explica melhor a concepção do DataGeo.

@@ -24,7 +24,7 @@ navbar-links:
     - Ministério Público: "div/mpsp"
     - SES: "div/ses"
     - TJSP: "div/tjsp"
-  GitHub: "https://github.com/michelmetran"
+  Tags: "tags"
 
 # --- Logo --- #
 
@@ -45,13 +45,13 @@ title-img: "/assets/img/mm.png"
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
-social-network-links:
-  rss: true
-  email: "michelmetran@gmail.com"
-  github: michelmetran
+social-network-links:  
   linkedin: michelmetran
+  github: michelmetran  
   twitter: michelmetran
   stackoverflow: "6003328/michel-metran"
+  email: "michelmetran@gmail.com"
+  rss: true
 #  reddit: yourname
 #  xing: yourname
 #  snapchat: deanat78

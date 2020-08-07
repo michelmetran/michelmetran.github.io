@@ -15,6 +15,7 @@ navbar-links:
   Sobre: "sobre"
   Projetos:
     - Open Cantareira: "https://opencantareira.herokuapp.com/"
+    - Open Tesouro: "https://opentesouro.herokuapp.com/"    
   Serviços:
     - CBRN: "div/cbrn"
     - CETESB: "div/cetesb"

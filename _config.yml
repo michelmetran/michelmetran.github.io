@@ -15,16 +15,9 @@ navbar-links:
   Sobre: "sobre"
   Projetos:
     - Open Cantareira: "https://opencantareira.herokuapp.com/"
-    - Open Tesouro: "https://opentesouro.herokuapp.com/"    
-  Serviços:
-    - CBRN: "div/cbrn"
-    - CETESB: "div/cetesb"
-    - Polícia Ambiental: "div/cpamb"
-    - DAEE: "div/daee"
-    - DER: "div/der"
-    - Ministério Público: "div/mpsp"
-    - SES: "div/ses"
-    - TJSP: "div/tjsp"
+    - Open Focos: "https://openfocos.herokuapp.com/"
+    - Open Tesouro: "https://opentesouro.herokuapp.com/"
+    - Divisões Administrativas: "https://divisoes-administrativas.herokuapp.com/"
   Tags:
     - Tag Index: "tags"
     - Packages: "tags/#package"

@@ -14,10 +14,10 @@ author: Michel Metran
 navbar-links:
   Sobre: "sobre"
   Projetos:
-    - Open Cantareira: "https://opencantareira.herokuapp.com/"
-    - Open Focos: "https://openfocos.herokuapp.com/"
-    - Open Tesouro: "https://opentesouro.herokuapp.com/"
-    - Divisões Administrativas: "https://divisoes-administrativas.herokuapp.com/"
+    - Open Cantareira:          "https://opencantareira.michelmetran.com.br/"
+    - Open Focos:               "https://openfocos.michelmetran.com.br/"
+    - Open Tesouro:             "https://opentesouro.michelmetran.com.br/"
+    - Divisões Administrativas: "https://divisoes.michelmetran.com.br/"
   Tags:
     - Tag Index: "tags"
     - Packages: "tags/#package"

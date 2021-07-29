@@ -104,7 +104,7 @@ defaults:
       read_time: true
       comments: true
       share: true
-      #related: true
+#     related: true
       #toc: true
       #toc_sticky: true
 

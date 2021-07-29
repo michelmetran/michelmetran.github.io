@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MMs
+title: Minha caixa de ferramentas
 email: michelmetran@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -25,8 +25,8 @@ minimal_mistakes_skin: dark
 search: true
 timezone: "America/Sao_Paulo" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 locale: pt-BR
+logo: "/assets/images/logo.png"
 #url: "https://michelmetran.com.br"
-logo: "/assets/images/logo_mm.png"
 
 # Build settings
 markdown: kramdown
@@ -39,12 +39,22 @@ paginate_path: /page:num/
 
 include:
   - _pages
-  - _posts  
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
+exclude:
+	- CHANGELOG.md
+	- CNAME
+	- Gemfile
+	- Gemfile.lock
+	- LICENSE
+	- README.md
+	- screenshot.png
+	- docs/
+	- _profile/
+	- .ipynb_checkpoints/
+	- .git/
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
@@ -64,7 +74,6 @@ plugins:
 
 author:
   name   : "Michel Metran"
-  #avatar : "/assets/images/bio-photo.jpg"
   avatar : "/assets/images/avatar.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
@@ -105,6 +114,8 @@ defaults:
       comments: true
       share: true
       related: true
+      toc: true
+      toc_sticky: true      
 
   # _pages
   - scope:
@@ -117,10 +128,14 @@ defaults:
       comments: true
       share: true
       #related: true
+#      toc: true
+#      toc_sticky: true      
+      
 
 category_archive:
-  type: liquid
-  path: /categories/
+	type: liquid
+  	path: /categories/
 tag_archive:
-  type: liquid
-  path: /tags/
+	type: liquid
+	path: /tags/
+  

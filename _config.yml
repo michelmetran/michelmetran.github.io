@@ -40,27 +40,6 @@ paginate_path: /page:num/
 include:
   - _pages
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-# - LICENSE
-# - README.md
-# - screenshot.png
-# - _profile/
-# - .ipynb_checkpoints/
-# .git/
-# CNAME
-# docs/
-# CHANGELOG.md
-# Gemfile
-# Gemfile.lock
-# node_modules
-# vendor/bundle/
-# vendor/cache/
-# vendor/gems/
-# vendor/ruby/
-
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -71,9 +50,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Michel Metran"
-  avatar : "/assets/images/avatar.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name: "Michel Metran"
+  avatar: "/assets/images/avatar.png"
+  bio: "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -128,12 +107,10 @@ defaults:
       #related: true
       #toc: true
       #toc_sticky: true
-      
 
 category_archive:
   type: liquid
   path: /categories/
 tag_archive:
-	type: liquid
-	path: /tags/
-  
+  type: liquid
+  path: /tags/

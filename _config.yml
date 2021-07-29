@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 
+title: MMs
 email: michelmetran@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -23,6 +23,10 @@ twitter_username: michelmetran
 github_username: michelmetran
 minimal_mistakes_skin: dark
 search: true
+timezone: "America/Sao_Paulo" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+locale: pt-BR
+url: "https://michelmetran.com.br"
+logo: "/assets/images/logo_mm.png"
 
 # Build settings
 markdown: kramdown
@@ -32,10 +36,6 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: "America/Sao_Paulo" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-locale: pt-BR
-url: "http//:michelmetran.com.br"
-logo: "/assets/images/logo_mm.png"
 
 include:
   - _pages

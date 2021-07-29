@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Minha caixa de ferramentas
+title: Me, Myself & I
 email: michelmetran@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -55,7 +55,7 @@ author:
   bio: "Following the White Rabbit"
   location: "Piracicaba, SP"
   links:
-    - label: "Website"
+    - label: "Site"
       icon: "fas fa-fw fa-link"
       url: "https://michelmetran.github.io"
     - label: "Twitter"
@@ -69,7 +69,12 @@ author:
       url: "https://instagram.com/michelmetran"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"      
+      url: "https://facebook.com/michelmetran"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-stack-overflow"
+      url: "https://stackoverflow.com/users/6003328/michel-metran"
+
+      
 
 footer:
   links:
@@ -109,8 +114,8 @@ defaults:
       comments: true
       share: true
 #     related: true
-      #toc: true
-      #toc_sticky: true
+#     toc: true
+#     toc_sticky: true
 
 category_archive:
   type: liquid

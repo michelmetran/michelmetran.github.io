@@ -8,4 +8,10 @@ main:
   - title: "About"
     description: "sssss"
     url: /about/
+  - title: "Test"
+    description: "Mais um test"
+    children:
+      - title: "sss"
+      url: /about/
+
 

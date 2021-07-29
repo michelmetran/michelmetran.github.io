@@ -52,7 +52,7 @@ plugins:
 author:
   name: "Michel Metran"
   avatar: "/assets/images/avatar.png"
-  bio: "My awesome biography constrained to a sentence or two goes here."
+  bio: "Following the White Rabbit"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

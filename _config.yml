@@ -70,11 +70,10 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/michelmetran"
-    - label: "Facebook"
+    - label: "StackOverflow"
       icon: "fab fa-fw fa-stack-overflow"
       url: "https://stackoverflow.com/users/6003328/michel-metran"
 
-      
 
 footer:
   links:

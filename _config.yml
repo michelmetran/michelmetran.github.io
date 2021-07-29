@@ -37,6 +37,7 @@ locale: pt-BR
 
 include:
   - _pages
+  - _posts  
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -66,7 +67,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://michelmetran.com.br"
+      url: "https://michelmetran.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/michelmetran"
@@ -92,7 +93,7 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
@@ -101,6 +102,7 @@ defaults:
       comments: true
       share: true
       related: true
+
   # _pages
   - scope:
       path: "_pages"

@@ -47,12 +47,13 @@ exclude:
 	- LICENSE
 	- README.md
 	- screenshot.png
-	- docs/
 	- _profile/
 	- .ipynb_checkpoints/
-	- .git/
-#  - CHANGELOG.md
+#	- .git/
 #	- CNAME
+#	- docs/
+#  - CHANGELOG.md
+
 #	- Gemfile
 #	- Gemfile.lock
 #   - Gemfile

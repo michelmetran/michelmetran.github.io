@@ -10,3 +10,10 @@ main:
     url: /about/
   - title: "Test"
     url: /about/
+
+  - title: Extras
+    children:
+      - title: "Stylesheets"
+        url: /about/
+      - title: "JavaScript"
+        url: /about/

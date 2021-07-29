@@ -6,4 +6,6 @@ main:
   - title: "Tags"
     url: /tags/
   - title: "About"
+    description: "sssss"
     url: /about/
+

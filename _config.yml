@@ -44,10 +44,6 @@ include:
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 exclude:
-	- CHANGELOG.md
-	- CNAME
-	- Gemfile
-	- Gemfile.lock
 	- LICENSE
 	- README.md
 	- screenshot.png
@@ -55,6 +51,10 @@ exclude:
 	- _profile/
 	- .ipynb_checkpoints/
 	- .git/
+#  - CHANGELOG.md
+#	- CNAME
+#	- Gemfile
+#	- Gemfile.lock
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules

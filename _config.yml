@@ -49,10 +49,10 @@ exclude:
 	- screenshot.png
 	- _profile/
 	- .ipynb_checkpoints/
-#	- .git/
-#	- CNAME
-#	- docs/
-#  - CHANGELOG.md
+#- .git/
+#- CNAME
+#- docs/
+#- CHANGELOG.md
 
 #	- Gemfile
 #	- Gemfile.lock

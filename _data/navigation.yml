@@ -9,8 +9,4 @@ main:
     description: "sssss"
     url: /about/
   - title: "Test"
-    children:
-      - title: "sss"
-      url: /about/
-
-
+    url: /about/

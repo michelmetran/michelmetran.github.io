@@ -33,7 +33,7 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: "America/Sao_Paulo" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 locale: pt-BR
-url: "https://michelmetran.com.br"
+#url: "michelmetran.com.br"
 
 include:
   - _pages

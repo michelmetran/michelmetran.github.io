@@ -113,7 +113,7 @@ defaults:
       share: true
       related: true
       toc: true
-      toc_sticky: true      
+      toc_sticky: true
 
   # _pages
   - scope:
@@ -126,8 +126,8 @@ defaults:
       comments: true
       share: true
       #related: true
-#      toc: true
-#      toc_sticky: true      
+      #toc: true
+      #toc_sticky: true
       
 
 category_archive:

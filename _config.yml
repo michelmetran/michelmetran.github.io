@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 twitter_username: michelmetran
 github_username: michelmetran
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 timezone: "America/Sao_Paulo" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 locale: pt-BR
@@ -53,6 +53,7 @@ author:
   name: "Michel Metran"
   avatar: "/assets/images/avatar.png"
   bio: "Following the White Rabbit"
+  location: "Piracicaba, SP"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -66,6 +67,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/michelmetran"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"      
 
 footer:
   links:

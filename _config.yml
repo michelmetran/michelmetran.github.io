@@ -43,12 +43,12 @@ include:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-exclude:
-	- LICENSE
-	- README.md
-	- screenshot.png
-	- _profile/
-	- .ipynb_checkpoints/
+# exclude:
+# - LICENSE
+# - README.md
+# - screenshot.png
+# - _profile/
+# - .ipynb_checkpoints/
 # .git/
 # CNAME
 # docs/

@@ -6,14 +6,6 @@ main:
   - title: "Tags"
     url: /tags/
   - title: "About"
-    description: "sssss"
-    url: /about/
-  - title: "Test"
+    description: "Sobre"
     url: /about/
 
-  - title: Extras
-    children:
-      - title: "Stylesheets"
-        url: /about/
-      - title: "JavaScript"
-        url: /about/

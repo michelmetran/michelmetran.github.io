@@ -20,13 +20,11 @@ Com a finalidade de remunerar criadores de conteúdo, existem plataformas dispon
 
 <!--more-->
 
-### <br>
-
 ### Apoia.se
 
 O serviço [Apoia-se](https://apoia.se/) cobra 13%...
 
-<br>
+
 
 ### *Buy me a Coffee*
 

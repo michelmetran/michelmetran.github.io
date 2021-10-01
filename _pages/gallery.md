@@ -1,5 +1,5 @@
 ---
-layout: article
+#layout: article
 permalink: /gallery/
 date: 2018-02-18
 #modified: 2018-03-25

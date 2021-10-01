@@ -1,7 +1,7 @@
 ---
 title: "MM: Notice"
-categories: [Blog]
-tags: [Post Formats, notice]
+tags:
+  -  Minimal Mistakes
 
 ---
 
@@ -65,3 +65,21 @@ Or you could skip the capture and stick with straight HTML.
   <h4>Message</h4>
   <p>A basic message.</p>
 </div>
+
+
+
+
+
+
+
+
+
+-------------------
+
+
+
+### Quotes
+
+> Only one thing is impossible for God: To find any sense in any copyright law on the planet.
+
+> <cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite>

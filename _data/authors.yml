@@ -1,0 +1,55 @@
+Michel Metran:
+  name: "Michel Metran"
+  avatar: "/assets/images/avatar.png"
+  bio: "Following the White Rabbit"
+  location: "Piracicaba, SP"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:michelmetran@gmail.com"
+    - label: "Site"
+      icon: "fas fa-fw fa-link"
+      url: "https://michelmetran.github.io"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/michelmetran"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/michelmetran"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/michelmetran"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/michelmetran"
+    - label: "StackOverflow"
+      icon: "fab fa-fw fa-stack-overflow"
+      url: "https://stackoverflow.com/users/6003328/michel-metran"
+
+
+Leonardo Bruno Federico:
+  name: "Leonardo Bruno Federico"
+  avatar: "/assets/images/avatar_lb.jpeg"
+  bio: "Meu escritório é na praia!"
+  location: "Santos, SP"
+  links:
+    - label: "Site"
+      icon: "fas fa-fw fa-link"
+      url: "https://lbfederico.github.io"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/lbfederico"
+
+
+Open Consensus:
+  name: Open Consensus"
+  avatar: "/assets/images/logo.png"
+  bio: "Análise de similaridade entre moléculas, por meio da técnica 'pope consensus'"
+  location: "Brasil"
+  links:
+    - label: "Site"
+      icon: "fas fa-fw fa-link"
+      url: "https://open-consensus.github.io"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/open-consensus"

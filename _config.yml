@@ -39,6 +39,7 @@ paginate_path: /page:num/
 
 include:
   - _pages
+  - sass
 
 # Plugins (previously gems:)
 plugins:

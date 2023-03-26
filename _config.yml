@@ -23,6 +23,7 @@ twitter_username: michelmetran
 github_username: michelmetran
 minimal_mistakes_skin: dark # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
+layout: splash
 timezone: "America/Sao_Paulo" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 locale: pt-BR
 logo: "/assets/images/logo.png"

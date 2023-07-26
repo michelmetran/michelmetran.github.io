@@ -1,11 +1,39 @@
+# example navigation
+foo:
+  - title: 'Parent Link 1'
+    url: /parent-1-page-url/
+    children:
+      - title: 'Child Link 1'
+        url: /child-1-page-url/
+      - title: 'Child Link 2'
+        url: /child-2-page-url/
+  - title: 'Parent Link 2'
+    url: /parent-2-page-url/
+    children:
+      - title: 'Child Link 1'
+        url: /child-1-page-url/
+      - title: 'Child Link 2'
+        url: /child-2-page-url/
+      - title: 'Child Link 3'
+        url: /child-3-page-url/
+
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    description: "Sobre"
+  - title: 'Sobre'
+    description: 'Sobre'
     url: /about/
 
+  - title: 'Portfolio'
+    description: 'Portfolio'
+    url: /portfolio/
+
+  - title: 'Projetos'
+    description: 'Projetos'
+    url: /projetos/
+
+  - title: 'Posts'
+    url: /posts/
+
+  # - title: 'Categories'
+  #   url: /categories/
+  # - title: 'Tags'
+  #   url: /tags/

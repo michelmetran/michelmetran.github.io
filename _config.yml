@@ -24,9 +24,9 @@ github_username: michelmetran
 minimal_mistakes_skin: dark # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 layout: splash
-timezone: "America/Sao_Paulo" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: 'America/Sao_Paulo' # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 locale: pt-BR
-logo: "/assets/images/logo.png"
+logo: '/assets/images/logo/logo.png'
 #url: "https://michelmetran.com.br"
 
 # Build settings
@@ -40,7 +40,7 @@ paginate_path: /page:num/
 
 include:
   - _pages
-  
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -51,47 +51,46 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "Michel Metran"
-  avatar: "/assets/images/avatar.png"
-  bio: "um passo a frente e você já não está no mesmo lugar..."
-  location: "Piracicaba, SP"
+  name: 'Michel Metran'
+  avatar: '/assets/images/logo/avatar.png'
+  bio: 'A equação me propõe, computador me resolve'
+  location: 'Piracicaba, SP'
   links:
-    - label: "Site"
-      icon: "fas fa-fw fa-link"
-      url: "https://michelmetran.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/michelmetran"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/michelmetran"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/michelmetran"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/michelmetran"
-    - label: "StackOverflow"
-      icon: "fab fa-fw fa-stack-overflow"
-      url: "https://stackoverflow.com/users/6003328/michel-metran"
+    - label: 'Site'
+      icon: 'fas fa-fw fa-link'
+      url: 'https://michelmetran.github.io'
+    - label: 'Twitter'
+      icon: 'fab fa-fw fa-twitter-square'
+      url: 'https://twitter.com/michelmetran'
+    - label: 'GitHub'
+      icon: 'fab fa-fw fa-github'
+      url: 'https://github.com/michelmetran'
+    - label: 'Instagram'
+      icon: 'fab fa-fw fa-instagram'
+      url: 'https://instagram.com/michelmetran'
+    - label: 'Facebook'
+      icon: 'fab fa-fw fa-facebook-square'
+      url: 'https://facebook.com/michelmetran'
+    - label: 'StackOverflow'
+      icon: 'fab fa-fw fa-stack-overflow'
+      url: 'https://stackoverflow.com/users/6003328/michel-metran'
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/michelmetran"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/michelmetran"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/michelmetran"
-
+    - label: 'Twitter'
+      icon: 'fab fa-fw fa-twitter-square'
+      url: 'https://twitter.com/michelmetran'
+    - label: 'GitHub'
+      icon: 'fab fa-fw fa-github'
+      url: 'https://github.com/michelmetran'
+    - label: 'Instagram'
+      icon: 'fab fa-fw fa-instagram'
+      url: 'https://instagram.com/michelmetran'
 
 defaults:
   # _posts
   - scope:
-      path: "_posts"
+      path: '_posts'
       type: posts
     values:
       layout: single
@@ -105,7 +104,7 @@ defaults:
 
   # _pages
   - scope:
-      path: "_pages"
+      path: '_pages'
       type: pages
     values:
       layout: single
@@ -113,13 +112,41 @@ defaults:
       read_time: true
       comments: true
       share: true
-#     related: true
-#     toc: true
-#     toc_sticky: true
+      #related: true
+      #toc: true
+      #toc_sticky: true
+
+  # _portfolio
+  - scope:
+      path: ''
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
+  # _projetos
+  - scope:
+      path: ''
+      type: projetos
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      comment: true
 
 category_archive:
   type: liquid
   path: /categories/
+
 tag_archive:
   type: liquid
   path: /tags/
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  projetos:
+    output: true
+    permalink: /:collection/:path/

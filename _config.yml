@@ -48,7 +48,9 @@ search: true
 #   search_only_api_key: "66be9231011a4a559c96383fd6563e6e"
 #   powered_by: true
 #   # files_to_exclude:
-
+lunr_search:
+  js_dir: "assets/js/lunr"
+  min_length: 3
 
 # Build settings
 remote_theme: mmistakes/minimal-mistakes

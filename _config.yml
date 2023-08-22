@@ -103,6 +103,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/michelmetran"
 
+# 
 defaults:
   # _posts
   - scope:
@@ -160,14 +161,7 @@ defaults:
       share: true
       comment: true
 
-category_archive:
-  type: liquid
-  path: /categories/
-
-tag_archive:
-  type: liquid
-  path: /tags/
-
+# Collections
 collections_dir: collections
 collections:
   portfolio:
@@ -180,6 +174,17 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+# Archives
+category_archive:
+  type: liquid
+  path: /categories/
 
-head_scripts:
-  - https://code.jquery.com/jquery-3.3.1.min.js
+tag_archive:
+  type: liquid
+  path: /tags/
+
+
+
+
+# head_scripts:
+#   - https://code.jquery.com/jquery-3.3.1.min.js

@@ -31,17 +31,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 repository: "michelmetran/michelmetran.github.io"
 #url: "https://michelmetran.com.br"
 
-# Build settings
-remote_theme: mmistakes/minimal-mistakes
-
 # Social Sharing
 twitter_username: michelmetran
 github_username: michelmetran
-
-# SEO Related
-google_site_verification:
-bing_site_verification:
-yandex_site_verification:
 
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#skin
 minimal_mistakes_skin: air # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -57,12 +49,21 @@ algolia:
   powered_by: true
   # files_to_exclude:
 
+
+# Build settings
+remote_theme: mmistakes/minimal-mistakes
+
+# SEO Related
+google_site_verification:
+bing_site_verification:
+yandex_site_verification:
+
 # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: "America/Sao_Paulo"
 locale: pt-BR
 
 # Posts
-date_format: "%Y-%m-%d"
+date_format: "%d.%m.%Y"
 words_per_minute: 250
 
 logo: "/assets/images/logo/logo.png"
@@ -202,8 +203,6 @@ defaults:
       share: true
       comment: true
 
-
-
 # Archives
 category_archive:
   type: liquid
@@ -214,5 +213,5 @@ tag_archive:
   path: /tags/
 
 # Scripts
-head_scripts:
-  - https://code.jquery.com/jquery-3.3.1.min.js
+# head_scripts:
+#   - https://code.jquery.com/jquery-3.3.1.min.js

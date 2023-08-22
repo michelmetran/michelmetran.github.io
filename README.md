@@ -7,13 +7,13 @@
 ### Desenvolvimento Local
 
 ```shell
-# Instala
+# Regenerate Gemfile.lock
 bundle install
 
 # Roda
 bundle exec jekyll serve
 
-# 
+#
 bundle add webrick
 
 # Atualiza

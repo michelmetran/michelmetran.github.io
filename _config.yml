@@ -41,13 +41,13 @@ layout: splash
 
 # Search
 search: true
-search_provider: "algolia"
-algolia:
-  application_id: "6BW3PXB7TY"
-  index_name: "mysite"
-  search_only_api_key: "66be9231011a4a559c96383fd6563e6e"
-  powered_by: true
-  # files_to_exclude:
+# search_provider: "algolia"
+# algolia:
+#   application_id: "6BW3PXB7TY"
+#   index_name: "mysite"
+#   search_only_api_key: "66be9231011a4a559c96383fd6563e6e"
+#   powered_by: true
+#   # files_to_exclude:
 
 
 # Build settings

@@ -25,29 +25,3 @@ Michel Metran:
     - label: 'StackOverflow'
       icon: 'fab fa-fw fa-stack-overflow'
       url: 'https://stackoverflow.com/users/6003328/michel-metran'
-
-Leonardo Bruno Federico:
-  name: 'Leonardo Bruno Federico'
-  avatar: '/assets/images/avatar_lb.jpeg'
-  bio: 'Meu escritório é na praia!'
-  location: 'Santos, SP'
-  links:
-    - label: 'Site'
-      icon: 'fas fa-fw fa-link'
-      url: 'https://lbfederico.github.io'
-    - label: 'GitHub'
-      icon: 'fab fa-fw fa-github'
-      url: 'https://github.com/lbfederico'
-
-Open Consensus:
-  name: Open Consensus"
-  avatar: '/assets/images/logo.png'
-  bio: "Análise de similaridade entre moléculas, por meio da técnica 'pope consensus'"
-  location: 'Brasil'
-  links:
-    - label: 'Site'
-      icon: 'fas fa-fw fa-link'
-      url: 'https://open-consensus.github.io'
-    - label: 'GitHub'
-      icon: 'fab fa-fw fa-github'
-      url: 'https://github.com/open-consensus'

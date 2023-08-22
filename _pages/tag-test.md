@@ -1,5 +1,5 @@
 ---
-title: <em>Posts</em> da <em>tag</em> "test"
+title: <i>Posts</i> da <i>tag</i> "test"
 layout: tag
 permalink: /tags/test/
 taxonomy: test

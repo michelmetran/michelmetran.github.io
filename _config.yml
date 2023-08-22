@@ -34,7 +34,6 @@ repository: "michelmetran/michelmetran.github.io"
 # Build settings
 remote_theme: mmistakes/minimal-mistakes
 
-
 # Social Sharing
 twitter_username: michelmetran
 github_username: michelmetran
@@ -47,7 +46,6 @@ yandex_site_verification:
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#skin
 minimal_mistakes_skin: air # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 layout: splash
-
 
 # Search
 search: true
@@ -76,9 +74,6 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-
-
-
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -87,7 +82,7 @@ paginate_path: /page:num/
 include:
   - _pages
 
-# Plugins (previously gems:)
+# Plugins
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -97,6 +92,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-algolia
 
+# Autor
 author:
   name: "Michel Metran"
   avatar: "/assets/images/logo/avatar.png"
@@ -122,6 +118,7 @@ author:
       icon: "fab fa-fw fa-stack-overflow"
       url: "https://stackoverflow.com/users/6003328/michel-metran"
 
+# Rodapé
 footer:
   links:
     - label: "Twitter"
@@ -149,7 +146,7 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # Posts
   - scope:
       path: "_posts"
       type: posts
@@ -163,7 +160,7 @@ defaults:
       toc: true
       toc_sticky: true
 
-  # _pages
+  # Collections: Pages
   - scope:
       path: "_pages"
       type: pages
@@ -177,7 +174,7 @@ defaults:
       #toc: true
       #toc_sticky: true
 
-  # _portfolio
+  # Collections: Portfolio
   - scope:
       path: ""
       type: portfolio
@@ -186,7 +183,7 @@ defaults:
       author_profile: false
       share: true
 
-  # _trips
+  # Collections: Trips
   - scope:
       path: ""
       type: trips
@@ -195,7 +192,7 @@ defaults:
       author_profile: false
       share: true
 
-  # _projetos
+  # Collections: Projetos
   - scope:
       path: ""
       type: projetos

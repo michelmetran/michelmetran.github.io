@@ -30,12 +30,12 @@ layout: splash
 
 # Search
 search: true
-search_provider: algolia
-algolia:
-  application_id: 6BW3PXB7TY
-  index_name: mysite
-  search_only_api_key: 66be9231011a4a559c96383fd6563e6e
-  powered_by: true
+# search_provider: algolia
+# algolia:
+#   application_id: 6BW3PXB7TY
+#   index_name: mysite
+#   search_only_api_key: 66be9231011a4a559c96383fd6563e6e
+#   powered_by: true
 
 
 # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -64,6 +64,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-algolia
 
 author:
   name: "Michel Metran"
@@ -178,3 +179,7 @@ collections:
   trips:
     output: true
     permalink: /:collection/:path/
+
+
+head_scripts:
+  - https://code.jquery.com/jquery-3.3.1.min.js

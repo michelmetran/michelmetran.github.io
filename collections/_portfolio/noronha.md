@@ -1,9 +1,9 @@
 ---
-title: 'Traquitanas2'
-excerpt: 'Ginger Gulp design system including logo mark, website design, and branding applications.'
+title: 'Noronha'
+excerpt: 'Foo Bar design system including logo mark, website design, and branding applications.'
 header:
-  image: /assets/images/unsplash-gallery-image-3.jpg
-  teaser: assets/images/unsplash-gallery-image-3-th.jpg
+  image: /assets/images/foo-bar-identity.jpg
+  teaser: /assets/images/foo-bar-identity-th.jpg
 sidebar:
   - title: 'Role'
     image: http://placehold.it/350x250
@@ -28,5 +28,3 @@ Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Goog
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
 hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
-
-![portfolio collection example]({{ "/assets/images/mm-portfolio-collection-example.jpg" | relative_url }})

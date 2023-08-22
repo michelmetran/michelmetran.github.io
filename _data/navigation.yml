@@ -20,7 +20,11 @@ foo:
 main:
   - title: 'Sobre'
     description: 'Sobre'
-    url: /about/
+    url: /sobre/
+
+  - title: '<i>Trips</i>'
+    description: 'Trips'
+    url: /trips/
 
   - title: 'Portfolio'
     description: 'Portfolio'
@@ -30,7 +34,7 @@ main:
     description: 'Projetos'
     url: /projetos/
 
-  - title: 'Posts'
+  - title: '<i>Posts</i>'
     url: /posts/
 
   # - title: 'Categories'

@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: <i>Posts</i>
 layout: home
 permalink: /posts/
 collection: posts
@@ -9,9 +9,10 @@ classes: wide
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 
-[View by List](/list/){: .btn .btn--primary}
-[View by Category](/categories/){: .btn .btn--primary}
-[View by Tags](/tags/){: .btn .btn--primary}
-[View by Year](/posts-year/){: .btn .btn--primary}
-[View by Array](/tags-array/){: .btn .btn--primary}
-[View by Test](/tags/test/){: .btn .btn--primary}
+[por lista](/list/){: .btn .btn--primary}
+[por categoria](/categories/){: .btn .btn--primary}
+[por <i>tags</i>](/tags/){: .btn .btn--primary}
+[por ano](/posts-year/){: .btn .btn--primary}
+[por <i>array</i>](/tags-array/){: .btn .btn--primary}
+<br>
+[sobre "test"](/tags/test/){: .btn .btn--primary}

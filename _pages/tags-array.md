@@ -1,5 +1,5 @@
 ---
-title: tags
+title: <em>Posts</em> por Array
 layout: archive
 permalink: /tags-array/
 ---

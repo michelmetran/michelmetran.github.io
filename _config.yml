@@ -13,40 +13,71 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+# https://github.com/mmistakes/minimal-mistakes-algolia-search/blob/master/_config.yml
+
+# Configurations
 title: Michel Metran
+masthead_title: "Michel Metran"
+subtitle: "<i>python</i>, SQL, <i>data science</i> e outras coisas mais" # Opcional
+title_separator: "|" # Opcional
+
+name: "Michel Metran"
 email: michelmetran@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
+repository: "michelmetran/michelmetran.github.io"
+#url: "https://michelmetran.com.br"
+
+# Build settings
+remote_theme: mmistakes/minimal-mistakes
+
+
+# Social Sharing
 twitter_username: michelmetran
 github_username: michelmetran
-repository: "michelmetran/michelmetran.github.io"
 
+# SEO Related
+google_site_verification:
+bing_site_verification:
+yandex_site_verification:
 
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#skin
 minimal_mistakes_skin: air # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 layout: splash
 
+
 # Search
 search: true
-# search_provider: algolia
-# algolia:
-#   application_id: 6BW3PXB7TY
-#   index_name: mysite
-#   search_only_api_key: 66be9231011a4a559c96383fd6563e6e
-#   powered_by: true
-
+search_provider: "algolia"
+algolia:
+  application_id: "6BW3PXB7TY"
+  index_name: "mysite"
+  search_only_api_key: "66be9231011a4a559c96383fd6563e6e"
+  powered_by: true
+  # files_to_exclude:
 
 # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: "America/Sao_Paulo"
 locale: pt-BR
-logo: "/assets/images/logo/logo.png"
-#url: "https://michelmetran.com.br"
 
-# Build settings
+# Posts
+date_format: "%Y-%m-%d"
+words_per_minute: 250
+
+logo: "/assets/images/logo/logo.png"
+
+# Conversion
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+
 
 # Outputting
 permalink: /:categories/:title/
@@ -69,7 +100,7 @@ plugins:
 author:
   name: "Michel Metran"
   avatar: "/assets/images/logo/avatar.png"
-  bio: "A equação me propõe, computador me resolve"
+  bio: "A equação me propõe,<br>...computador me resolve!"
   location: "Piracicaba, SP"
   links:
     - label: "Site"
@@ -103,7 +134,20 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/michelmetran"
 
-# 
+# Collections
+collections_dir: collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  projetos:
+    output: true
+    permalink: /:collection/:path/
+  trips:
+    output: true
+    permalink: /:collection/:path/
+
+# Defaults
 defaults:
   # _posts
   - scope:
@@ -161,18 +205,7 @@ defaults:
       share: true
       comment: true
 
-# Collections
-collections_dir: collections
-collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  projetos:
-    output: true
-    permalink: /:collection/:path/
-  trips:
-    output: true
-    permalink: /:collection/:path/
+
 
 # Archives
 category_archive:
@@ -183,8 +216,6 @@ tag_archive:
   type: liquid
   path: /tags/
 
-
-
-
-# head_scripts:
-#   - https://code.jquery.com/jquery-3.3.1.min.js
+# Scripts
+head_scripts:
+  - https://code.jquery.com/jquery-3.3.1.min.js

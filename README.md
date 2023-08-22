@@ -6,7 +6,7 @@
 
 ### Desenvolvimento Local
 
-```
+```shell
 # Instala
 bundle install
 
@@ -15,6 +15,9 @@ bundle exec jekyll serve
 
 #
 bundle add webrick
+
+# Atualiza
+bundle update
 
 #
 bundle exec jekyll serve --open-url --livereload --incremental

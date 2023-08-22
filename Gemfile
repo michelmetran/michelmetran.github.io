@@ -17,4 +17,6 @@ group :jekyll_plugins do
   gem "jekyll-algolia"
 end
 
-# gem "webrick", "~> 1.8"
+#
+gem "webrick", "~> 1.8"
+gem "faraday-retry" # Adionado em 22.08.2023

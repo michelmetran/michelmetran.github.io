@@ -4,7 +4,11 @@ _lixo/
 _profile/
 data/
 
+# Sites
 _site
+_site2
+
+# Gem
 .sass-cache
 .jekyll-metadata
 Gemfile.lock

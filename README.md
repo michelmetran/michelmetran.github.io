@@ -19,6 +19,6 @@ bundle add webrick
 # Atualiza
 bundle update
 
-#
+# Update
 bundle exec jekyll serve --open-url --livereload --incremental
 ```

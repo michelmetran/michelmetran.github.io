@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+;Adiciona Win Terminal no menu de Contexto
+;Windows 10
+;Michel Metran
+;Janeiro de 2023
+;https://www.tenforums.com/tutorials/176295-add-remove-open-windows-terminal-context-menu-windows-10-a.html
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell Extensions\Blocked]
+"{9F156763-7844-4DC4-B2B1-901F640F5155}"=-

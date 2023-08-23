@@ -25,3 +25,32 @@ Michel Metran:
     - label: 'StackOverflow'
       icon: 'fab fa-fw fa-stack-overflow'
       url: 'https://stackoverflow.com/users/6003328/michel-metran'
+
+
+Open Geodata:
+  name: "Open Geodata"
+  avatar: "/assets/images/avatar_lb.jpeg"
+  bio: "Following the White Rabbit"
+  location: "Piracicaba, SP"
+  links:
+    - label: "Site"
+      icon: "fas fa-fw fa-link"
+      url: "https://open-geodata.github.io"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/open-geodata"
+
+
+
+GAEMA Piracicaba:
+  name: "GAEMA Piracicaba"
+  avatar: "/assets/images/logo.png"
+  bio: "Grupo de Atuação Especial de Defesa do Meio Ambiente - Núcleo Piracicaba"
+  location: "Brasil"
+  links:
+    - label: "Site"
+      icon: "fas fa-fw fa-link"
+      url: "https://gaemapiracicaba.github.io"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/gaemapiracicaba"

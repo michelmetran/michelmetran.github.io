@@ -1,5 +1,5 @@
 ---
-title: "MM: Excerpt Separator"
+title: "Excerpt Separator"
 excerpt_separator: "<!--more-->"
 tags:
   -  Minimal Mistakes

@@ -1,5 +1,5 @@
 ---
-title: "MM: Welcome to Jekyll!"
+title: "Welcome to Jekyll!"
 tags:
   - Minimal Mistakes
 ---

@@ -2,6 +2,7 @@
 permalink: /sobre/
 title: "Sobre"
 classes: wide
+author_profile: true
 ---
 
 Biólogo, formado na UNESP _campus_ Rio Claro (2003-2008), onde desenvolvi um interesse especial pela área de botânica e ecologia de comunidades, culminando no meu <a title="Página do TCC" href="https://drive.google.com/file/d/1LdKG25YGMsrmDcnZtv12TWat4p4LYjPs/view" target="_blank">trabalho de conclusão de curso</a>. Nesse trabalho tive meu primeiro contato com ferramentas de geoprocessamento e buscava compreender como havia ocorrido a regeneração de uma área reflorestada em 1916, com espécies nativas.

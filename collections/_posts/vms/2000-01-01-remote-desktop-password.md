@@ -1,11 +1,9 @@
 ---
-title: 'Remote Desktop Connection: Password'
+title: "Remote Desktop Connection: Password"
 date: 2023-05-12T14:00:00-03:00
 last_modified_at: 2023-05-12T14:00:00-03:00
 tags: [vms, remote desktop, WOL]
 ---
-
-# Remote Desktop Connection: Password
 
 Sempre que acesso uma máquina remota, no Windows, por meio do _Remote Desktop Connection_ eu precisava digitar a senha. Curiosamente o Windows não armazenada a senha, mesmo que na primeira tentativa eu habilita-se o _Remember-me_
 

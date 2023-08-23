@@ -4,7 +4,11 @@ layout: home
 permalink: /posts/
 collection: posts
 entries_layout: grid
+
 classes: wide
+author_profile: false
+sidebar:
+  nav: test_nav
 ---
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -16,3 +20,4 @@ classes: wide
 [por <i>array</i>](/tags-array/){: .btn .btn--primary}
 <br>
 [sobre "test"](/tags/test/){: .btn .btn--primary}
+[sobre "Minimal Mistakes"](/tags/MinimalMistakes/){: .btn .btn--primary}

@@ -43,7 +43,7 @@ layout: splash
 
 # Search
 search: true
-search_provider: "google"
+search_provider: "algolia"
 algolia:
   application_id: "6BW3PXB7TY"
   index_name: "mysite"

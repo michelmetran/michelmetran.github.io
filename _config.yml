@@ -34,6 +34,8 @@ repository: "michelmetran/michelmetran.github.io"
 # Social Sharing
 twitter_username: michelmetran
 github_username: michelmetran
+facebook:
+  username: michelmetran
 
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#skin
 minimal_mistakes_skin: air # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -60,10 +62,20 @@ remote_theme: mmistakes/minimal-mistakes@4.24.0
 google_site_verification: M4srWgAFRkzg2rpTIT2aB2w7H_AoXpbMA_GMO1K4Pbc
 bing_site_verification: c864d355156fc33422a30f66acd5805d
 # yandex_site_verification:
+# naver_site_verification
+# baidu_site_verification
 
 # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: "America/Sao_Paulo"
 locale: pt-BR
+
+# Analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-Z5ZC58R3DX"
+    anonymize_ip: false # default
+
 
 # Posts
 date_format: "%d.%m.%Y"

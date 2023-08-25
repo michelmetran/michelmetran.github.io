@@ -8,7 +8,7 @@ entries_layout: grid
 classes: wide
 author_profile: false
 sidebar:
-  nav: test_nav
+  nav: posts_nav
 ---
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

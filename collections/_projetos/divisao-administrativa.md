@@ -2,8 +2,9 @@
 title: 'Divisão Administrativa'
 excerpt: 'Fizz Bang design system including logo mark, website design, and branding applications.'
 header:
-  image: /assets/images/unsplash-gallery-image-2.jpg
-  teaser: assets/images/unsplash-gallery-image-2-th.jpg
+  image: /assets/images/cover/unsplash-gallery-image-2.jpg
+  #teaser: assets/images/unsplash-gallery-image-2-th.jpg
+  teaser: assets/images/cover/cover_div.png
 sidebar:
   - title: 'Role'
     image: http://placehold.it/350x250

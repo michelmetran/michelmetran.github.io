@@ -48,25 +48,27 @@ feature_row:
 
 # dddd
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+  - image_path: /assets/images/cover/cover_open_geodata.png
+    #image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     title: "Open Geodata"
     alt: "placeholder image 2"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    btn_label: "Read More"
+    #excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    excerpt: Open Geodata surge para criar facilita o acesso a informação geoespacial (e outras), seja por meio de rotinas (*scripts*) para raspagem de dados, seja por meio da disponibilização de dados tratados.
+    btn_label: "GitHub"
     btn_class: "btn--primary"
-    url: "#test-link"
+    url: "https://github.com/open-geodata/"
+    btn_label2: "Posts"
 
 # dddd
 feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+  - image_path: /assets/images/cover/cover_div.png
+    #image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     title: "Divisões Administrativas"
     alt: "placeholder image 2"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
+    excerpt: 'Divisões Administrativas de instituições públicas estaduais (São Paulo)'
+    btn_label: "GitHub"
     btn_class: "btn--primary"
+    url: "https://github.com/open-divisoes/"
 
 # dddd
 feature_row4:

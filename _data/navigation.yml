@@ -1,51 +1,62 @@
 main:
-  - title: 'Sobre'
-    description: 'Sobre'
+  - title: "Sobre"
+    description: "Sobre"
     url: /sobre/
 
-  - title: '<i>Trips</i>'
-    description: 'Trips'
+  - title: "<i>Trips</i>"
+    description: "Trips"
     url: /trips/
 
-  - title: 'Portfolio'
-    description: 'Portfolio'
+  - title: "Portfolio"
+    description: "Portfolio"
     url: /portfolio/
 
-  - title: 'Projetos'
-    description: 'Projetos'
+  - title: "Projetos"
+    description: "Projetos"
     url: /projetos/
     # TODO: Não funciona!
     children:
-      - title: 'Child Link 1'
+      - title: "Child Link 1"
         url: /child-1-page-url/
-      - title: 'Child Link 2'
+      - title: "Child Link 2"
         url: /child-2-page-url/
 
-  - title: '<i>Posts</i>'
+  - title: "<i>Posts</i>"
     url: /posts/
 
-
-# example navigation
+# Posts Navigation
 posts_nav:
-  - title: '<i>Posts</i>'
+  - title: "<i>Posts</i>"
     #url: /parent-1-page-url/
     children:
-      - title: 'por lista'
+      - title: "por lista"
         url: /posts/
-      - title: 'por Categoria'
+      - title: "por Categoria"
         url: /categories/
-      - title: 'por <i>tags</i>'
+      - title: "por <i>tags</i>"
         url: /tags/
-      - title: 'por ano'
+      - title: "por ano"
         url: /posts-year/
-      - title: 'por <i>array</i>'
+      - title: "por <i>array</i>"
         url: /tags-array/
 
-  - title: 'Por Categoria'
+  - title: "Por Categorias"
     # url: /parent-2-page-url/
     children:
-      - title: 'Minimal Mistakes'
-        url: /tags/MinimalMistakes/
+      - title: "Open Geodata"
+        url: /category/open-geodata/
 
-      - title: 'Test'
-        url: /tags/test/
+      - title: "Divisões Administrativas"
+        url: /category/div-admin/
+
+      - title: "GAEMA"
+        url: /category/gaema/
+
+      - title: "Minimal Mistakes"
+        url: /category/minimal-mistakes/
+
+  - title: "Por <i>tags</i>"
+    # url: /parent-2-page-url/
+    children:
+      - title: "Minimal Mistakes"
+        url: /tags/minimal-mistakes/

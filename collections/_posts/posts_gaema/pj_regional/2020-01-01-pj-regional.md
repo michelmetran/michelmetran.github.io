@@ -5,12 +5,10 @@ last_modified_at: 2023-06-12T12:00:00-03:00
 excerpt_separator: "<!--more-->"
 toc: false
 categories:
-  - Divisões Adminstrativas
+  - Divisões Administrativas
   - GAEMA
 tags:
-  - GAEMA
   - redes protetivas
-  - divisões adminstrativas
 classes: wide
 author: Michel Metran
 comments: false

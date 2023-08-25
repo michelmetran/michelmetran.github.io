@@ -1,6 +1,6 @@
 ---
-permalink: /sobre/
 title: "Sobre"
+permalink: /sobre/
 classes: wide
 author_profile: true
 ---

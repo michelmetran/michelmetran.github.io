@@ -5,7 +5,6 @@ permalink: /tags-array/
 author_profile: false
 sidebar:
   nav: posts_nav
-
 ---
 
 {% include group-by-array.html collection=site.posts field='tags' %}

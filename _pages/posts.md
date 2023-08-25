@@ -12,6 +12,7 @@ sidebar:
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 
+<!--
 [por lista](/list/){: .btn .btn--primary}
 [por categoria](/categories/){: .btn .btn--primary}
 [por <i>tags</i>](/tags/){: .btn .btn--primary}
@@ -20,3 +21,4 @@ sidebar:
 <br>
 [sobre "test"](/tags/test/){: .btn .btn--primary}
 [sobre "Minimal Mistakes"](/tags/MinimalMistakes/){: .btn .btn--primary}
+-->

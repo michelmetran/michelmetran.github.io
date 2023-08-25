@@ -1,0 +1,646 @@
+id_municipio,municipio_nome,id,unidade
+3500105,Adamantina,1,URAE 1 - Sudeste
+3500204,Adolfo,2,URAE 1 - Sudeste
+3500303,Aguaí,3,URAE 1 - Sudeste
+3500402,Águas da Prata,4,URAE 1 - Sudeste
+3500501,Águas de Lindóia,1,URAE 4 - Norte
+3500550,Águas de Santa Bárbara,1,URAE 2 - Centro
+3500600,Águas de São Pedro,5,URAE 1 - Sudeste
+3500709,Agudos,6,URAE 1 - Sudeste
+3500758,Alambari,7,URAE 1 - Sudeste
+3500808,Alfredo Marcondes,8,URAE 1 - Sudeste
+3500907,Altair,9,URAE 1 - Sudeste
+3501004,Altinópolis,2,URAE 4 - Norte
+3501103,Alto Alegre,10,URAE 1 - Sudeste
+3501152,Alumínio,11,URAE 1 - Sudeste
+3501202,Álvares Florence,3,URAE 4 - Norte
+3501301,Álvares Machado,12,URAE 1 - Sudeste
+3501400,Álvaro de Carvalho,13,URAE 1 - Sudeste
+3501509,Alvinlândia,14,URAE 1 - Sudeste
+3501608,Americana,1,URAE 3 - Leste
+3501707,Américo Brasiliense,4,URAE 4 - Norte
+3501806,Américo de Campos,5,URAE 4 - Norte
+3501905,Amparo,2,URAE 3 - Leste
+3502002,Analândia,2,URAE 2 - Centro
+3502101,Andradina,6,URAE 4 - Norte
+3502200,Angatuba,15,URAE 1 - Sudeste
+3502309,Anhembi,16,URAE 1 - Sudeste
+3502408,Anhumas,17,URAE 1 - Sudeste
+3502507,Aparecida,3,URAE 3 - Leste
+3502606,Aparecida d'Oeste,18,URAE 1 - Sudeste
+3502705,Apiaí,19,URAE 1 - Sudeste
+3502754,Araçariguama,20,URAE 1 - Sudeste
+3502804,Araçatuba,7,URAE 4 - Norte
+3502903,Araçoiaba da Serra,3,URAE 2 - Centro
+3503000,Aramina,8,URAE 4 - Norte
+3503109,Arandu,21,URAE 1 - Sudeste
+3503158,Arapeí,22,URAE 1 - Sudeste
+3503208,Araraquara,4,URAE 2 - Centro
+3503307,Araras,5,URAE 2 - Centro
+3503356,Arco-Íris,23,URAE 1 - Sudeste
+3503406,Arealva,24,URAE 1 - Sudeste
+3503505,Areias,4,URAE 3 - Leste
+3503604,Areiópolis,25,URAE 1 - Sudeste
+3503703,Ariranha,9,URAE 4 - Norte
+3503802,Artur Nogueira,5,URAE 3 - Leste
+3503901,Arujá,26,URAE 1 - Sudeste
+3503950,Aspásia,27,URAE 1 - Sudeste
+3504008,Assis,28,URAE 1 - Sudeste
+3504107,Atibaia,6,URAE 3 - Leste
+3504206,Auriflama,29,URAE 1 - Sudeste
+3504305,Avaí,30,URAE 1 - Sudeste
+3504404,Avanhandava,10,URAE 4 - Norte
+3504503,Avaré,31,URAE 1 - Sudeste
+3504602,Bady Bassitt,11,URAE 4 - Norte
+3504701,Balbinos,32,URAE 1 - Sudeste
+3504800,Bálsamo,12,URAE 4 - Norte
+3504909,Bananal,33,URAE 1 - Sudeste
+3505005,Barão de Antonina,34,URAE 1 - Sudeste
+3505104,Barbosa,13,URAE 4 - Norte
+3505203,Bariri,6,URAE 2 - Centro
+3505302,Barra Bonita,7,URAE 2 - Centro
+3505351,Barra do Chapéu,35,URAE 1 - Sudeste
+3505401,Barra do Turvo,36,URAE 1 - Sudeste
+3505500,Barretos,14,URAE 4 - Norte
+3505609,Barrinha,15,URAE 4 - Norte
+3505708,Barueri,37,URAE 1 - Sudeste
+3505807,Bastos,38,URAE 1 - Sudeste
+3505906,Batatais,16,URAE 4 - Norte
+3506003,Bauru,8,URAE 2 - Centro
+3506102,Bebedouro,17,URAE 4 - Norte
+3506201,Bento de Abreu,39,URAE 1 - Sudeste
+3506300,Bernardino de Campos,40,URAE 1 - Sudeste
+3506359,Bertioga,41,URAE 1 - Sudeste
+3506409,Bilac,18,URAE 4 - Norte
+3506508,Birigui,19,URAE 4 - Norte
+3506607,Biritiba-Mirim,42,URAE 1 - Sudeste
+3506706,Boa Esperança do Sul,9,URAE 2 - Centro
+3506805,Bocaina,43,URAE 1 - Sudeste
+3506904,Bofete,10,URAE 2 - Centro
+3507001,Boituva,44,URAE 1 - Sudeste
+3507100,Bom Jesus dos Perdões,7,URAE 3 - Leste
+3507159,Bom Sucesso de Itararé,45,URAE 1 - Sudeste
+3507209,Borá,46,URAE 1 - Sudeste
+3507308,Boracéia,47,URAE 1 - Sudeste
+3507407,Borborema,20,URAE 4 - Norte
+3507456,Borebi,11,URAE 2 - Centro
+3507506,Botucatu,48,URAE 1 - Sudeste
+3507605,Bragança Paulista,49,URAE 1 - Sudeste
+3507704,Braúna,21,URAE 4 - Norte
+3507753,Brejo Alegre,50,URAE 1 - Sudeste
+3507803,Brodowski,22,URAE 4 - Norte
+3507902,Brotas,12,URAE 2 - Centro
+3508009,Buri,51,URAE 1 - Sudeste
+3508108,Buritama,23,URAE 4 - Norte
+3508207,Buritizal,52,URAE 1 - Sudeste
+3508306,Cabrália Paulista,13,URAE 2 - Centro
+3508405,Cabreúva,53,URAE 1 - Sudeste
+3508504,Caçapava,54,URAE 1 - Sudeste
+3508603,Cachoeira Paulista,55,URAE 1 - Sudeste
+3508702,Caconde,24,URAE 4 - Norte
+3508801,Cafelândia,25,URAE 4 - Norte
+3508900,Caiabu,56,URAE 1 - Sudeste
+3509007,Caieiras,57,URAE 1 - Sudeste
+3509106,Caiuá,14,URAE 2 - Centro
+3509205,Cajamar,58,URAE 1 - Sudeste
+3509254,Cajati,59,URAE 1 - Sudeste
+3509304,Cajobi,26,URAE 4 - Norte
+3509403,Cajuru,60,URAE 1 - Sudeste
+3509452,Campina do Monte Alegre,61,URAE 1 - Sudeste
+3509502,Campinas,8,URAE 3 - Leste
+3509601,Campo Limpo Paulista,62,URAE 1 - Sudeste
+3509700,Campos do Jordão,63,URAE 1 - Sudeste
+3509809,Campos Novos Paulista,15,URAE 2 - Centro
+3509908,Cananéia,64,URAE 1 - Sudeste
+3509957,Canas,65,URAE 1 - Sudeste
+3510005,Cândido Mota,16,URAE 2 - Centro
+3510104,Cândido Rodrigues,66,URAE 1 - Sudeste
+3510153,Canitar,17,URAE 2 - Centro
+3510203,Capão Bonito,67,URAE 1 - Sudeste
+3510302,Capela do Alto,68,URAE 1 - Sudeste
+3510401,Capivari,18,URAE 2 - Centro
+3510500,Caraguatatuba,69,URAE 1 - Sudeste
+3510609,Carapicuíba,70,URAE 1 - Sudeste
+3510708,Cardoso,71,URAE 1 - Sudeste
+3510807,Casa Branca,27,URAE 4 - Norte
+3510906,Cássia dos Coqueiros,72,URAE 1 - Sudeste
+3511003,Castilho,28,URAE 4 - Norte
+3511102,Catanduva,29,URAE 4 - Norte
+3511201,Catiguá,73,URAE 1 - Sudeste
+3511300,Cedral,30,URAE 4 - Norte
+3511409,Cerqueira César,19,URAE 2 - Centro
+3511508,Cerquilho,20,URAE 2 - Centro
+3511607,Cesário Lange,74,URAE 1 - Sudeste
+3511706,Charqueada,75,URAE 1 - Sudeste
+3557204,Chavantes,21,URAE 2 - Centro
+3511904,Clementina,22,URAE 2 - Centro
+3512001,Colina,31,URAE 4 - Norte
+3512100,Colômbia,76,URAE 1 - Sudeste
+3512209,Conchal,23,URAE 2 - Centro
+3512308,Conchas,77,URAE 1 - Sudeste
+3512407,Cordeirópolis,24,URAE 2 - Centro
+3512506,Coroados,78,URAE 1 - Sudeste
+3512605,Coronel Macedo,79,URAE 1 - Sudeste
+3512704,Corumbataí,25,URAE 2 - Centro
+3512803,Cosmópolis,9,URAE 3 - Leste
+3512902,Cosmorama,32,URAE 4 - Norte
+3513009,Cotia,80,URAE 1 - Sudeste
+3513108,Cravinhos,33,URAE 4 - Norte
+3513207,Cristais Paulista,34,URAE 4 - Norte
+3513306,Cruzália,81,URAE 1 - Sudeste
+3513405,Cruzeiro,10,URAE 3 - Leste
+3513504,Cubatão,82,URAE 1 - Sudeste
+3513603,Cunha,11,URAE 3 - Leste
+3513702,Descalvado,35,URAE 4 - Norte
+3513801,Diadema,83,URAE 1 - Sudeste
+3513850,Dirce Reis,84,URAE 1 - Sudeste
+3513900,Divinolândia,85,URAE 1 - Sudeste
+3514007,Dobrada,36,URAE 4 - Norte
+3514106,Dois Córregos,26,URAE 2 - Centro
+3514205,Dolcinópolis,86,URAE 1 - Sudeste
+3514304,Dourado,27,URAE 2 - Centro
+3514403,Dracena,28,URAE 2 - Centro
+3514502,Duartina,87,URAE 1 - Sudeste
+3514601,Dumont,37,URAE 4 - Norte
+3514700,Echaporã,88,URAE 1 - Sudeste
+3514809,Eldorado,89,URAE 1 - Sudeste
+3514908,Elias Fausto,90,URAE 1 - Sudeste
+3514924,Elisiário,38,URAE 4 - Norte
+3514957,Embaúba,39,URAE 4 - Norte
+3515004,Embu das Artes,91,URAE 1 - Sudeste
+3515103,Embu-Guaçu,92,URAE 1 - Sudeste
+3515129,Emilianópolis,93,URAE 1 - Sudeste
+3515152,Engenheiro Coelho,12,URAE 3 - Leste
+3515186,Espírito Santo do Pinhal,94,URAE 1 - Sudeste
+3515194,Espírito Santo do Turvo,95,URAE 1 - Sudeste
+3557303,Estiva Gerbi,40,URAE 4 - Norte
+3515301,Estrela do Norte,97,URAE 1 - Sudeste
+3515202,Estrela d'Oeste,96,URAE 1 - Sudeste
+3515350,Euclides da Cunha Paulista,98,URAE 1 - Sudeste
+3515400,Fartura,99,URAE 1 - Sudeste
+3515608,Fernando Prestes,101,URAE 1 - Sudeste
+3515509,Fernandópolis,100,URAE 1 - Sudeste
+3515657,Fernão,102,URAE 1 - Sudeste
+3515707,Ferraz de Vasconcelos,103,URAE 1 - Sudeste
+3515806,Flora Rica,104,URAE 1 - Sudeste
+3515905,Floreal,105,URAE 1 - Sudeste
+3516002,Flórida Paulista,106,URAE 1 - Sudeste
+3516101,Florínea,107,URAE 1 - Sudeste
+3516200,Franca,108,URAE 1 - Sudeste
+3516309,Francisco Morato,109,URAE 1 - Sudeste
+3516408,Franco da Rocha,110,URAE 1 - Sudeste
+3516507,Gabriel Monteiro,111,URAE 1 - Sudeste
+3516606,Gália,112,URAE 1 - Sudeste
+3516705,Garça,29,URAE 2 - Centro
+3516804,Gastão Vidigal,113,URAE 1 - Sudeste
+3516853,Gavião Peixoto,30,URAE 2 - Centro
+3516903,General Salgado,114,URAE 1 - Sudeste
+3517000,Getulina,31,URAE 2 - Centro
+3517109,Glicério,115,URAE 1 - Sudeste
+3517208,Guaiçara,41,URAE 4 - Norte
+3517307,Guaimbê,32,URAE 2 - Centro
+3517406,Guaíra,42,URAE 4 - Norte
+3517505,Guapiaçu,43,URAE 4 - Norte
+3517604,Guapiara,116,URAE 1 - Sudeste
+3517703,Guará,44,URAE 4 - Norte
+3517802,Guaraçaí,45,URAE 4 - Norte
+3517901,Guaraci,46,URAE 4 - Norte
+3518008,Guarani d'Oeste,117,URAE 1 - Sudeste
+3518107,Guarantã,47,URAE 4 - Norte
+3518206,Guararapes,48,URAE 4 - Norte
+3518305,Guararema,118,URAE 1 - Sudeste
+3518404,Guaratinguetá,13,URAE 3 - Leste
+3518503,Guareí,119,URAE 1 - Sudeste
+3518602,Guariba,120,URAE 1 - Sudeste
+3518701,Guarujá,121,URAE 1 - Sudeste
+3518800,Guarulhos,122,URAE 1 - Sudeste
+3518859,Guatapará,49,URAE 4 - Norte
+3518909,Guzolândia,123,URAE 1 - Sudeste
+3519006,Herculândia,33,URAE 2 - Centro
+3519055,Holambra,14,URAE 3 - Leste
+3519071,Hortolândia,124,URAE 1 - Sudeste
+3519105,Iacanga,34,URAE 2 - Centro
+3519204,Iacri,125,URAE 1 - Sudeste
+3519253,Iaras,126,URAE 1 - Sudeste
+3519303,Ibaté,35,URAE 2 - Centro
+3519402,Ibirá,127,URAE 1 - Sudeste
+3519501,Ibirarema,36,URAE 2 - Centro
+3519600,Ibitinga,37,URAE 2 - Centro
+3519709,Ibiúna,128,URAE 1 - Sudeste
+3519808,Icém,129,URAE 1 - Sudeste
+3519907,Iepê,38,URAE 2 - Centro
+3520004,Igaraçu do Tietê,39,URAE 2 - Centro
+3520103,Igarapava,130,URAE 1 - Sudeste
+3520202,Igaratá,131,URAE 1 - Sudeste
+3520301,Iguape,132,URAE 1 - Sudeste
+3520426,Ilha Comprida,134,URAE 1 - Sudeste
+3520442,Ilha Solteira,50,URAE 4 - Norte
+3520400,Ilhabela,133,URAE 1 - Sudeste
+3520509,Indaiatuba,15,URAE 3 - Leste
+3520608,Indiana,40,URAE 2 - Centro
+3520707,Indiaporã,135,URAE 1 - Sudeste
+3520806,Inúbia Paulista,136,URAE 1 - Sudeste
+3520905,Ipaussu,41,URAE 2 - Centro
+3521002,Iperó,137,URAE 1 - Sudeste
+3521101,Ipeúna,42,URAE 2 - Centro
+3521150,Ipiguá,51,URAE 4 - Norte
+3521200,Iporanga,138,URAE 1 - Sudeste
+3521309,Ipuã,52,URAE 4 - Norte
+3521408,Iracemápolis,43,URAE 2 - Centro
+3521507,Irapuã,139,URAE 1 - Sudeste
+3521606,Irapuru,44,URAE 2 - Centro
+3521705,Itaberá,140,URAE 1 - Sudeste
+3521804,Itaí,141,URAE 1 - Sudeste
+3521903,Itajobi,53,URAE 4 - Norte
+3522000,Itaju,45,URAE 2 - Centro
+3522109,Itanhaém,142,URAE 1 - Sudeste
+3522158,Itaóca,143,URAE 1 - Sudeste
+3522208,Itapecerica da Serra,144,URAE 1 - Sudeste
+3522307,Itapetininga,145,URAE 1 - Sudeste
+3522406,Itapeva,146,URAE 1 - Sudeste
+3522505,Itapevi,147,URAE 1 - Sudeste
+3522604,Itapira,54,URAE 4 - Norte
+3522653,Itapirapuã Paulista,148,URAE 1 - Sudeste
+3522703,Itápolis,55,URAE 4 - Norte
+3522802,Itaporanga,149,URAE 1 - Sudeste
+3522901,Itapuí,46,URAE 2 - Centro
+3523008,Itapura,56,URAE 4 - Norte
+3523107,Itaquaquecetuba,150,URAE 1 - Sudeste
+3523206,Itararé,151,URAE 1 - Sudeste
+3523305,Itariri,152,URAE 1 - Sudeste
+3523404,Itatiba,153,URAE 1 - Sudeste
+3523503,Itatinga,154,URAE 1 - Sudeste
+3523602,Itirapina,47,URAE 2 - Centro
+3523701,Itirapuã,155,URAE 1 - Sudeste
+3523800,Itobi,156,URAE 1 - Sudeste
+3523909,Itu,48,URAE 2 - Centro
+3524006,Itupeva,157,URAE 1 - Sudeste
+3524105,Ituverava,57,URAE 4 - Norte
+3524204,Jaborandi,158,URAE 1 - Sudeste
+3524303,Jaboticabal,58,URAE 4 - Norte
+3524402,Jacareí,16,URAE 3 - Leste
+3524501,Jaci,59,URAE 4 - Norte
+3524600,Jacupiranga,159,URAE 1 - Sudeste
+3524709,Jaguariúna,17,URAE 3 - Leste
+3524808,Jales,160,URAE 1 - Sudeste
+3524907,Jambeiro,161,URAE 1 - Sudeste
+3525003,Jandira,162,URAE 1 - Sudeste
+3525102,Jardinópolis,60,URAE 4 - Norte
+3525201,Jarinu,163,URAE 1 - Sudeste
+3525300,Jaú,49,URAE 2 - Centro
+3525409,Jeriquara,164,URAE 1 - Sudeste
+3525508,Joanópolis,165,URAE 1 - Sudeste
+3525607,João Ramalho,50,URAE 2 - Centro
+3525706,José Bonifácio,61,URAE 4 - Norte
+3525805,Júlio Mesquita,51,URAE 2 - Centro
+3525854,Jumirim,52,URAE 2 - Centro
+3525904,Jundiaí,18,URAE 3 - Leste
+3526001,Junqueirópolis,53,URAE 2 - Centro
+3526100,Juquiá,166,URAE 1 - Sudeste
+3526209,Juquitiba,167,URAE 1 - Sudeste
+3526308,Lagoinha,168,URAE 1 - Sudeste
+3526407,Laranjal Paulista,169,URAE 1 - Sudeste
+3526506,Lavínia,62,URAE 4 - Norte
+3526605,Lavrinhas,170,URAE 1 - Sudeste
+3526704,Leme,54,URAE 2 - Centro
+3526803,Lençóis Paulista,55,URAE 2 - Centro
+3526902,Limeira,56,URAE 2 - Centro
+3527009,Lindóia,63,URAE 4 - Norte
+3527108,Lins,171,URAE 1 - Sudeste
+3527207,Lorena,172,URAE 1 - Sudeste
+3527256,Lourdes,173,URAE 1 - Sudeste
+3527306,Louveira,19,URAE 3 - Leste
+3527405,Lucélia,174,URAE 1 - Sudeste
+3527504,Lucianópolis,175,URAE 1 - Sudeste
+3527603,Luís Antônio,64,URAE 4 - Norte
+3527702,Luiziânia,176,URAE 1 - Sudeste
+3527801,Lupércio,177,URAE 1 - Sudeste
+3527900,Lutécia,178,URAE 1 - Sudeste
+3528007,Macatuba,57,URAE 2 - Centro
+3528106,Macaubal,65,URAE 4 - Norte
+3528205,Macedônia,179,URAE 1 - Sudeste
+3528304,Magda,180,URAE 1 - Sudeste
+3528403,Mairinque,58,URAE 2 - Centro
+3528502,Mairiporã,181,URAE 1 - Sudeste
+3528601,Manduri,59,URAE 2 - Centro
+3528700,Marabá Paulista,182,URAE 1 - Sudeste
+3528809,Maracaí,183,URAE 1 - Sudeste
+3528858,Marapoama,66,URAE 4 - Norte
+3528908,Mariápolis,184,URAE 1 - Sudeste
+3529005,Marília,60,URAE 2 - Centro
+3529104,Marinópolis,185,URAE 1 - Sudeste
+3529203,Martinópolis,61,URAE 2 - Centro
+3529302,Matão,67,URAE 4 - Norte
+3529401,Mauá,186,URAE 1 - Sudeste
+3529500,Mendonça,68,URAE 4 - Norte
+3529609,Meridiano,187,URAE 1 - Sudeste
+3529658,Mesópolis,188,URAE 1 - Sudeste
+3529708,Miguelópolis,189,URAE 1 - Sudeste
+3529807,Mineiros do Tietê,62,URAE 2 - Centro
+3530003,Mira Estrela,191,URAE 1 - Sudeste
+3529906,Miracatu,190,URAE 1 - Sudeste
+3530102,Mirandópolis,69,URAE 4 - Norte
+3530201,Mirante do Paranapanema,192,URAE 1 - Sudeste
+3530300,Mirassol,70,URAE 4 - Norte
+3530409,Mirassolândia,71,URAE 4 - Norte
+3530508,Mococa,193,URAE 1 - Sudeste
+3530706,Mogi Guaçu,72,URAE 4 - Norte
+3530607,Mogi das Cruzes,20,URAE 3 - Leste
+3530805,Mogi Mirim,73,URAE 4 - Norte
+3530904,Mombuca,194,URAE 1 - Sudeste
+3531001,Monções,195,URAE 1 - Sudeste
+3531100,Mongaguá,196,URAE 1 - Sudeste
+3531209,Monte Alegre do Sul,21,URAE 3 - Leste
+3531308,Monte Alto,197,URAE 1 - Sudeste
+3531407,Monte Aprazível,198,URAE 1 - Sudeste
+3531506,Monte Azul Paulista,74,URAE 4 - Norte
+3531605,Monte Castelo,63,URAE 2 - Centro
+3531803,Monte Mor,200,URAE 1 - Sudeste
+3531704,Monteiro Lobato,199,URAE 1 - Sudeste
+3531902,Morro Agudo,75,URAE 4 - Norte
+3532009,Morungaba,201,URAE 1 - Sudeste
+3532058,Motuca,76,URAE 4 - Norte
+3532108,Murutinga do Sul,77,URAE 4 - Norte
+3532157,Nantes,64,URAE 2 - Centro
+3532207,Narandiba,202,URAE 1 - Sudeste
+3532306,Natividade da Serra,22,URAE 3 - Leste
+3532405,Nazaré Paulista,203,URAE 1 - Sudeste
+3532504,Neves Paulista,78,URAE 4 - Norte
+3532603,Nhandeara,204,URAE 1 - Sudeste
+3532702,Nipoã,205,URAE 1 - Sudeste
+3532801,Nova Aliança,79,URAE 4 - Norte
+3532827,Nova Campina,206,URAE 1 - Sudeste
+3532843,Nova Canaã Paulista,207,URAE 1 - Sudeste
+3532868,Nova Castilho,80,URAE 4 - Norte
+3532900,Nova Europa,65,URAE 2 - Centro
+3533007,Nova Granada,208,URAE 1 - Sudeste
+3533106,Nova Guataporanga,66,URAE 2 - Centro
+3533205,Nova Independência,67,URAE 2 - Centro
+3533304,Nova Luzitânia,209,URAE 1 - Sudeste
+3533403,Nova Odessa,23,URAE 3 - Leste
+3533254,Novais,81,URAE 4 - Norte
+3533502,Novo Horizonte,210,URAE 1 - Sudeste
+3533601,Nuporanga,82,URAE 4 - Norte
+3533700,Ocauçu,68,URAE 2 - Centro
+3533809,Óleo,211,URAE 1 - Sudeste
+3533908,Olímpia,83,URAE 4 - Norte
+3534005,Onda Verde,212,URAE 1 - Sudeste
+3534104,Oriente,213,URAE 1 - Sudeste
+3534203,Orindiúva,214,URAE 1 - Sudeste
+3534302,Orlândia,84,URAE 4 - Norte
+3534401,Osasco,215,URAE 1 - Sudeste
+3534500,Oscar Bressane,216,URAE 1 - Sudeste
+3534609,Osvaldo Cruz,217,URAE 1 - Sudeste
+3534708,Ourinhos,69,URAE 2 - Centro
+3534807,Ouro Verde,70,URAE 2 - Centro
+3534757,Ouroeste,218,URAE 1 - Sudeste
+3534906,Pacaembu,71,URAE 2 - Centro
+3535002,Palestina,85,URAE 4 - Norte
+3535101,Palmares Paulista,219,URAE 1 - Sudeste
+3535200,Palmeira d'Oeste,220,URAE 1 - Sudeste
+3535309,Palmital,72,URAE 2 - Centro
+3535408,Panorama,73,URAE 2 - Centro
+3535507,Paraguaçu Paulista,221,URAE 1 - Sudeste
+3535606,Paraibuna,24,URAE 3 - Leste
+3535705,Paraíso,86,URAE 4 - Norte
+3535804,Paranapanema,222,URAE 1 - Sudeste
+3535903,Paranapuã,223,URAE 1 - Sudeste
+3536000,Parapuã,224,URAE 1 - Sudeste
+3536109,Pardinho,225,URAE 1 - Sudeste
+3536208,Pariquera-Açu,226,URAE 1 - Sudeste
+3536257,Parisi,87,URAE 4 - Norte
+3536307,Patrocínio Paulista,88,URAE 4 - Norte
+3536406,Paulicéia,74,URAE 2 - Centro
+3536505,Paulínia,227,URAE 1 - Sudeste
+3536570,Paulistânia,228,URAE 1 - Sudeste
+3536604,Paulo de Faria,229,URAE 1 - Sudeste
+3536703,Pederneiras,230,URAE 1 - Sudeste
+3536802,Pedra Bela,231,URAE 1 - Sudeste
+3536901,Pedranópolis,232,URAE 1 - Sudeste
+3537008,Pedregulho,233,URAE 1 - Sudeste
+3537107,Pedreira,25,URAE 3 - Leste
+3537156,Pedrinhas Paulista,234,URAE 1 - Sudeste
+3537206,Pedro de Toledo,235,URAE 1 - Sudeste
+3537305,Penápolis,89,URAE 4 - Norte
+3537404,Pereira Barreto,90,URAE 4 - Norte
+3537503,Pereiras,236,URAE 1 - Sudeste
+3537602,Peruíbe,237,URAE 1 - Sudeste
+3537701,Piacatu,238,URAE 1 - Sudeste
+3537800,Piedade,239,URAE 1 - Sudeste
+3537909,Pilar do Sul,240,URAE 1 - Sudeste
+3538006,Pindamonhangaba,241,URAE 1 - Sudeste
+3538105,Pindorama,91,URAE 4 - Norte
+3538204,Pinhalzinho,242,URAE 1 - Sudeste
+3538303,Piquerobi,243,URAE 1 - Sudeste
+3538501,Piquete,26,URAE 3 - Leste
+3538600,Piracaia,244,URAE 1 - Sudeste
+3538709,Piracicaba,75,URAE 2 - Centro
+3538808,Piraju,245,URAE 1 - Sudeste
+3538907,Pirajuí,92,URAE 4 - Norte
+3539004,Pirangi,93,URAE 4 - Norte
+3539103,Pirapora do Bom Jesus,246,URAE 1 - Sudeste
+3539202,Pirapozinho,247,URAE 1 - Sudeste
+3539301,Pirassununga,94,URAE 4 - Norte
+3539400,Piratininga,248,URAE 1 - Sudeste
+3539509,Pitangueiras,95,URAE 4 - Norte
+3539608,Planalto,249,URAE 1 - Sudeste
+3539707,Platina,250,URAE 1 - Sudeste
+3539806,Poá,251,URAE 1 - Sudeste
+3539905,Poloni,252,URAE 1 - Sudeste
+3540002,Pompéia,76,URAE 2 - Centro
+3540101,Pongaí,253,URAE 1 - Sudeste
+3540200,Pontal,96,URAE 4 - Norte
+3540259,Pontalinda,254,URAE 1 - Sudeste
+3540309,Pontes Gestal,255,URAE 1 - Sudeste
+3540408,Populina,256,URAE 1 - Sudeste
+3540507,Porangaba,257,URAE 1 - Sudeste
+3540606,Porto Feliz,77,URAE 2 - Centro
+3540705,Porto Ferreira,97,URAE 4 - Norte
+3540754,Potim,27,URAE 3 - Leste
+3540804,Potirendaba,98,URAE 4 - Norte
+3540853,Pracinha,258,URAE 1 - Sudeste
+3540903,Pradópolis,99,URAE 4 - Norte
+3541000,Praia Grande,259,URAE 1 - Sudeste
+3541059,Pratânia,260,URAE 1 - Sudeste
+3541109,Presidente Alves,261,URAE 1 - Sudeste
+3541208,Presidente Bernardes,262,URAE 1 - Sudeste
+3541307,Presidente Epitácio,263,URAE 1 - Sudeste
+3541406,Presidente Prudente,264,URAE 1 - Sudeste
+3541505,Presidente Venceslau,78,URAE 2 - Centro
+3541604,Promissão,100,URAE 4 - Norte
+3541653,Quadra,265,URAE 1 - Sudeste
+3541703,Quatá,266,URAE 1 - Sudeste
+3541802,Queiroz,267,URAE 1 - Sudeste
+3541901,Queluz,268,URAE 1 - Sudeste
+3542008,Quintana,269,URAE 1 - Sudeste
+3542107,Rafard,79,URAE 2 - Centro
+3542206,Rancharia,80,URAE 2 - Centro
+3542305,Redenção da Serra,270,URAE 1 - Sudeste
+3542404,Regente Feijó,271,URAE 1 - Sudeste
+3542503,Reginópolis,101,URAE 4 - Norte
+3542602,Registro,272,URAE 1 - Sudeste
+3542701,Restinga,273,URAE 1 - Sudeste
+3542800,Ribeira,274,URAE 1 - Sudeste
+3542909,Ribeirão Bonito,81,URAE 2 - Centro
+3543006,Ribeirão Branco,275,URAE 1 - Sudeste
+3543105,Ribeirão Corrente,276,URAE 1 - Sudeste
+3543204,Ribeirão do Sul,277,URAE 1 - Sudeste
+3543238,Ribeirão dos Índios,278,URAE 1 - Sudeste
+3543253,Ribeirão Grande,279,URAE 1 - Sudeste
+3543303,Ribeirão Pires,280,URAE 1 - Sudeste
+3543402,Ribeirão Preto,102,URAE 4 - Norte
+3543600,Rifaina,282,URAE 1 - Sudeste
+3543709,Rincão,103,URAE 4 - Norte
+3543808,Rinópolis,82,URAE 2 - Centro
+3543907,Rio Claro,83,URAE 2 - Centro
+3544004,Rio das Pedras,84,URAE 2 - Centro
+3544103,Rio Grande da Serra,283,URAE 1 - Sudeste
+3544202,Riolândia,284,URAE 1 - Sudeste
+3543501,Riversul,281,URAE 1 - Sudeste
+3544251,Rosana,285,URAE 1 - Sudeste
+3544301,Roseira,286,URAE 1 - Sudeste
+3544400,Rubiácea,287,URAE 1 - Sudeste
+3544509,Rubinéia,288,URAE 1 - Sudeste
+3544608,Sabino,104,URAE 4 - Norte
+3544707,Sagres,289,URAE 1 - Sudeste
+3544806,Sales,105,URAE 4 - Norte
+3544905,Sales Oliveira,106,URAE 4 - Norte
+3545001,Salesópolis,290,URAE 1 - Sudeste
+3545100,Salmourão,291,URAE 1 - Sudeste
+3545159,Saltinho,292,URAE 1 - Sudeste
+3545209,Salto,85,URAE 2 - Centro
+3545308,Salto de Pirapora,293,URAE 1 - Sudeste
+3545407,Salto Grande,86,URAE 2 - Centro
+3545506,Sandovalina,294,URAE 1 - Sudeste
+3545605,Santa Adélia,107,URAE 4 - Norte
+3545704,Santa Albertina,295,URAE 1 - Sudeste
+3545803,Santa Bárbara d'Oeste,28,URAE 3 - Leste
+3546009,Santa Branca,296,URAE 1 - Sudeste
+3546108,Santa Clara d'Oeste,297,URAE 1 - Sudeste
+3546207,Santa Cruz da Conceição,108,URAE 4 - Norte
+3546256,Santa Cruz da Esperança,298,URAE 1 - Sudeste
+3546306,Santa Cruz das Palmeiras,109,URAE 4 - Norte
+3546405,Santa Cruz do Rio Pardo,299,URAE 1 - Sudeste
+3546504,Santa Ernestina,300,URAE 1 - Sudeste
+3546603,Santa Fé do Sul,110,URAE 4 - Norte
+3546702,Santa Gertrudes,87,URAE 2 - Centro
+3546801,Santa Isabel,301,URAE 1 - Sudeste
+3546900,Santa Lúcia,111,URAE 4 - Norte
+3547007,Santa Maria da Serra,302,URAE 1 - Sudeste
+3547106,Santa Mercedes,303,URAE 1 - Sudeste
+3547502,Santa Rita do Passa Quatro,112,URAE 4 - Norte
+3547403,Santa Rita d'Oeste,113,URAE 4 - Norte
+3547601,Santa Rosa de Viterbo,306,URAE 1 - Sudeste
+3547650,Santa Salete,307,URAE 1 - Sudeste
+3547205,Santana da Ponte Pensa,304,URAE 1 - Sudeste
+3547304,Santana de Parnaíba,305,URAE 1 - Sudeste
+3547700,Santo Anastácio,308,URAE 1 - Sudeste
+3547809,Santo André,309,URAE 1 - Sudeste
+3547908,Santo Antônio da Alegria,114,URAE 4 - Norte
+3548005,Santo Antônio de Posse,29,URAE 3 - Leste
+3548054,Santo Antônio do Aracanguá,115,URAE 4 - Norte
+3548104,Santo Antônio do Jardim,310,URAE 1 - Sudeste
+3548203,Santo Antônio do Pinhal,311,URAE 1 - Sudeste
+3548302,Santo Expedito,312,URAE 1 - Sudeste
+3548401,Santópolis do Aguapeí,313,URAE 1 - Sudeste
+3548500,Santos,314,URAE 1 - Sudeste
+3548609,São Bento do Sapucaí,315,URAE 1 - Sudeste
+3548708,São Bernardo do Campo,316,URAE 1 - Sudeste
+3548807,São Caetano do Sul,30,URAE 3 - Leste
+3548906,São Carlos,88,URAE 2 - Centro
+3549003,São Francisco,317,URAE 1 - Sudeste
+3549102,São João da Boa Vista,318,URAE 1 - Sudeste
+3549201,São João das Duas Pontes,319,URAE 1 - Sudeste
+3549250,São João de Iracema,116,URAE 4 - Norte
+3549300,São João do Pau d'Alho,89,URAE 2 - Centro
+3549409,São Joaquim da Barra,117,URAE 4 - Norte
+3549508,São José da Bela Vista,118,URAE 4 - Norte
+3549607,São José do Barreiro,31,URAE 3 - Leste
+3549706,São José do Rio Pardo,119,URAE 4 - Norte
+3549805,São José do Rio Preto,120,URAE 4 - Norte
+3549904,São José dos Campos,320,URAE 1 - Sudeste
+3549953,São Lourenço da Serra,321,URAE 1 - Sudeste
+3550001,São Luís do Paraitinga,322,URAE 1 - Sudeste
+3550100,São Manuel,323,URAE 1 - Sudeste
+3550209,São Miguel Arcanjo,324,URAE 1 - Sudeste
+3550308,São Paulo,325,URAE 1 - Sudeste
+3550407,São Pedro,90,URAE 2 - Centro
+3550506,São Pedro do Turvo,91,URAE 2 - Centro
+3550605,São Roque,326,URAE 1 - Sudeste
+3550704,São Sebastião,327,URAE 1 - Sudeste
+3550803,São Sebastião da Grama,121,URAE 4 - Norte
+3550902,São Simão,122,URAE 4 - Norte
+3551009,São Vicente,328,URAE 1 - Sudeste
+3551108,Sarapuí,329,URAE 1 - Sudeste
+3551207,Sarutaiá,330,URAE 1 - Sudeste
+3551306,Sebastianópolis do Sul,331,URAE 1 - Sudeste
+3551405,Serra Azul,332,URAE 1 - Sudeste
+3551603,Serra Negra,333,URAE 1 - Sudeste
+3551504,Serrana,123,URAE 4 - Norte
+3551702,Sertãozinho,124,URAE 4 - Norte
+3551801,Sete Barras,334,URAE 1 - Sudeste
+3551900,Severínia,125,URAE 4 - Norte
+3552007,Silveiras,335,URAE 1 - Sudeste
+3552106,Socorro,126,URAE 4 - Norte
+3552205,Sorocaba,92,URAE 2 - Centro
+3552304,Sud Mennucci,336,URAE 1 - Sudeste
+3552403,Sumaré,32,URAE 3 - Leste
+3552551,Suzanápolis,127,URAE 4 - Norte
+3552502,Suzano,337,URAE 1 - Sudeste
+3552601,Tabapuã,128,URAE 4 - Norte
+3552700,Tabatinga,93,URAE 2 - Centro
+3552809,Taboão da Serra,338,URAE 1 - Sudeste
+3552908,Taciba,339,URAE 1 - Sudeste
+3553005,Taguaí,340,URAE 1 - Sudeste
+3553104,Taiaçu,129,URAE 4 - Norte
+3553203,Taiúva,130,URAE 4 - Norte
+3553302,Tambaú,131,URAE 4 - Norte
+3553401,Tanabi,132,URAE 4 - Norte
+3553500,Tapiraí,341,URAE 1 - Sudeste
+3553609,Tapiratiba,342,URAE 1 - Sudeste
+3553658,Taquaral,133,URAE 4 - Norte
+3553708,Taquaritinga,134,URAE 4 - Norte
+3553807,Taquarituba,343,URAE 1 - Sudeste
+3553856,Taquarivaí,344,URAE 1 - Sudeste
+3553906,Tarabai,345,URAE 1 - Sudeste
+3553955,Tarumã,346,URAE 1 - Sudeste
+3554003,Tatuí,347,URAE 1 - Sudeste
+3554102,Taubaté,348,URAE 1 - Sudeste
+3554201,Tejupá,349,URAE 1 - Sudeste
+3554300,Teodoro Sampaio,350,URAE 1 - Sudeste
+3554409,Terra Roxa,351,URAE 1 - Sudeste
+3554508,Tietê,94,URAE 2 - Centro
+3554607,Timburi,352,URAE 1 - Sudeste
+3554656,Torre de Pedra,353,URAE 1 - Sudeste
+3554706,Torrinha,354,URAE 1 - Sudeste
+3554755,Trabiju,95,URAE 2 - Centro
+3554805,Tremembé,355,URAE 1 - Sudeste
+3554904,Três Fronteiras,356,URAE 1 - Sudeste
+3554953,Tuiuti,33,URAE 3 - Leste
+3555000,Tupã,357,URAE 1 - Sudeste
+3555109,Tupi Paulista,96,URAE 2 - Centro
+3555208,Turiúba,358,URAE 1 - Sudeste
+3555307,Turmalina,359,URAE 1 - Sudeste
+3555356,Ubarana,135,URAE 4 - Norte
+3555406,Ubatuba,360,URAE 1 - Sudeste
+3555505,Ubirajara,361,URAE 1 - Sudeste
+3555604,Uchoa,136,URAE 4 - Norte
+3555703,União Paulista,362,URAE 1 - Sudeste
+3555802,Urânia,363,URAE 1 - Sudeste
+3555901,Uru,364,URAE 1 - Sudeste
+3556008,Urupês,137,URAE 4 - Norte
+3556107,Valentim Gentil,365,URAE 1 - Sudeste
+3556206,Valinhos,34,URAE 3 - Leste
+3556305,Valparaíso,138,URAE 4 - Norte
+3556354,Vargem,366,URAE 1 - Sudeste
+3556404,Vargem Grande do Sul,139,URAE 4 - Norte
+3556453,Vargem Grande Paulista,367,URAE 1 - Sudeste
+3556503,Várzea Paulista,368,URAE 1 - Sudeste
+3556602,Vera Cruz,97,URAE 2 - Centro
+3556701,Vinhedo,35,URAE 3 - Leste
+3556800,Viradouro,140,URAE 4 - Norte
+3556909,Vista Alegre do Alto,141,URAE 4 - Norte
+3556958,Vitória Brasil,369,URAE 1 - Sudeste
+3557006,Votorantim,98,URAE 2 - Centro
+3557105,Votuporanga,142,URAE 4 - Norte
+3557154,Zacarias,370,URAE 1 - Sudeste

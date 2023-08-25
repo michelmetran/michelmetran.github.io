@@ -1,0 +1,646 @@
+id_municipio,municipio_nome,unidade,nome_rm,nome_ugrhi
+3500105,Adamantina,URAE 1 - Sudeste,_Fora de RMs/AUs,Peixe
+3500204,Adolfo,URAE 1 - Sudeste,_Fora de RMs/AUs,Tietê / Batalha
+3500303,Aguaí,URAE 1 - Sudeste,_Fora de RMs/AUs,Mogi-Guaçu
+3500402,Águas da Prata,URAE 1 - Sudeste,_Fora de RMs/AUs,Mogi-Guaçu
+3500501,Águas de Lindóia,URAE 4 - Norte,_Fora de RMs/AUs,Mogi-Guaçu
+3500550,Águas de Santa Bárbara,URAE 2 - Centro,_Fora de RMs/AUs,Médio Paranapanema
+3500600,Águas de São Pedro,URAE 1 - Sudeste,Aglomeração Urbana de Piracicaba-AU- Piracicaba,Piracicaba / Capivari / Jundiaí
+3500709,Agudos,URAE 1 - Sudeste,_Fora de RMs/AUs,Tietê / Jacaré
+3500758,Alambari,URAE 1 - Sudeste,Região Metropolitana de Sorocaba,Tietê / Sorocaba
+3500808,Alfredo Marcondes,URAE 1 - Sudeste,_Fora de RMs/AUs,Peixe
+3500907,Altair,URAE 1 - Sudeste,_Fora de RMs/AUs,Baixo Pardo / Grande
+3501004,Altinópolis,URAE 4 - Norte,Região Metropolitana de Ribeirão Preto,Pardo
+3501103,Alto Alegre,URAE 1 - Sudeste,_Fora de RMs/AUs,Baixo Tietê
+3501152,Alumínio,URAE 1 - Sudeste,Região Metropolitana de Sorocaba,Tietê / Sorocaba
+3501202,Álvares Florence,URAE 4 - Norte,_Fora de RMs/AUs,Turvo / Grande
+3501301,Álvares Machado,URAE 1 - Sudeste,_Fora de RMs/AUs,Peixe
+3501400,Álvaro de Carvalho,URAE 1 - Sudeste,_Fora de RMs/AUs,Aguapeí
+3501509,Alvinlândia,URAE 1 - Sudeste,_Fora de RMs/AUs,Médio Paranapanema
+3501608,Americana,URAE 3 - Leste,Região Metropolitana de Campinas,Piracicaba / Capivari / Jundiaí
+3501707,Américo Brasiliense,URAE 4 - Norte,_Fora de RMs/AUs,Mogi-Guaçu
+3501806,Américo de Campos,URAE 4 - Norte,_Fora de RMs/AUs,Turvo / Grande
+3501905,Amparo,URAE 3 - Leste,_Fora de RMs/AUs,Piracicaba / Capivari / Jundiaí
+3502002,Analândia,URAE 2 - Centro,Aglomeração Urbana de Piracicaba-AU- Piracicaba,Piracicaba / Capivari / Jundiaí
+3502101,Andradina,URAE 4 - Norte,_Fora de RMs/AUs,Baixo Tietê
+3502200,Angatuba,URAE 1 - Sudeste,_Fora de RMs/AUs,Alto Paranapanema
+3502309,Anhembi,URAE 1 - Sudeste,_Fora de RMs/AUs,Tietê / Sorocaba
+3502408,Anhumas,URAE 1 - Sudeste,_Fora de RMs/AUs,Pontal do Paranapanema
+3502507,Aparecida,URAE 3 - Leste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Paraíba do Sul
+3502606,Aparecida d'Oeste,URAE 1 - Sudeste,_Fora de RMs/AUs,São José dos Dourados
+3502705,Apiaí,URAE 1 - Sudeste,_Fora de RMs/AUs,Ribeira de Iguape / Litoral Sul
+3502754,Araçariguama,URAE 1 - Sudeste,Região Metropolitana de Sorocaba,Tietê / Sorocaba
+3502804,Araçatuba,URAE 4 - Norte,_Fora de RMs/AUs,Baixo Tietê
+3502903,Araçoiaba da Serra,URAE 2 - Centro,Região Metropolitana de Sorocaba,Tietê / Sorocaba
+3503000,Aramina,URAE 4 - Norte,Aglomeração Urbana de Franca,Sapucaí / Grande
+3503109,Arandu,URAE 1 - Sudeste,_Fora de RMs/AUs,Alto Paranapanema
+3503158,Arapeí,URAE 1 - Sudeste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Paraíba do Sul
+3503208,Araraquara,URAE 2 - Centro,_Fora de RMs/AUs,Tietê / Jacaré
+3503307,Araras,URAE 2 - Centro,Aglomeração Urbana de Piracicaba-AU- Piracicaba,Mogi-Guaçu
+3503356,Arco-Íris,URAE 1 - Sudeste,_Fora de RMs/AUs,Aguapeí
+3503406,Arealva,URAE 1 - Sudeste,_Fora de RMs/AUs,Tietê / Jacaré
+3503505,Areias,URAE 3 - Leste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Paraíba do Sul
+3503604,Areiópolis,URAE 1 - Sudeste,_Fora de RMs/AUs,Tietê / Jacaré
+3503703,Ariranha,URAE 4 - Norte,_Fora de RMs/AUs,Turvo / Grande
+3503802,Artur Nogueira,URAE 3 - Leste,Região Metropolitana de Campinas,Piracicaba / Capivari / Jundiaí
+3503901,Arujá,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Alto Tietê
+3503950,Aspásia,URAE 1 - Sudeste,_Fora de RMs/AUs,Turvo / Grande
+3504008,Assis,URAE 1 - Sudeste,_Fora de RMs/AUs,Médio Paranapanema
+3504107,Atibaia,URAE 3 - Leste,_Fora de RMs/AUs,Piracicaba / Capivari / Jundiaí
+3504206,Auriflama,URAE 1 - Sudeste,_Fora de RMs/AUs,São José dos Dourados
+3504305,Avaí,URAE 1 - Sudeste,_Fora de RMs/AUs,Tietê / Batalha
+3504404,Avanhandava,URAE 4 - Norte,_Fora de RMs/AUs,Baixo Tietê
+3504503,Avaré,URAE 1 - Sudeste,_Fora de RMs/AUs,Médio Paranapanema
+3504602,Bady Bassitt,URAE 4 - Norte,_Fora de RMs/AUs,Tietê / Batalha
+3504701,Balbinos,URAE 1 - Sudeste,_Fora de RMs/AUs,Tietê / Batalha
+3504800,Bálsamo,URAE 4 - Norte,_Fora de RMs/AUs,Turvo / Grande
+3504909,Bananal,URAE 1 - Sudeste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Paraíba do Sul
+3505005,Barão de Antonina,URAE 1 - Sudeste,_Fora de RMs/AUs,Alto Paranapanema
+3505104,Barbosa,URAE 4 - Norte,_Fora de RMs/AUs,Baixo Tietê
+3505203,Bariri,URAE 2 - Centro,_Fora de RMs/AUs,Tietê / Jacaré
+3505302,Barra Bonita,URAE 2 - Centro,_Fora de RMs/AUs,Tietê / Jacaré
+3505351,Barra do Chapéu,URAE 1 - Sudeste,_Fora de RMs/AUs,Ribeira de Iguape / Litoral Sul
+3505401,Barra do Turvo,URAE 1 - Sudeste,_Fora de RMs/AUs,Ribeira de Iguape / Litoral Sul
+3505500,Barretos,URAE 4 - Norte,_Fora de RMs/AUs,Baixo Pardo / Grande
+3505609,Barrinha,URAE 4 - Norte,Região Metropolitana de Ribeirão Preto,Mogi-Guaçu
+3505708,Barueri,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Alto Tietê
+3505807,Bastos,URAE 1 - Sudeste,_Fora de RMs/AUs,Peixe
+3505906,Batatais,URAE 4 - Norte,Região Metropolitana de Ribeirão Preto,Sapucaí / Grande
+3506003,Bauru,URAE 2 - Centro,_Fora de RMs/AUs,Tietê / Jacaré
+3506102,Bebedouro,URAE 4 - Norte,_Fora de RMs/AUs,Baixo Pardo / Grande
+3506201,Bento de Abreu,URAE 1 - Sudeste,_Fora de RMs/AUs,Baixo Tietê
+3506300,Bernardino de Campos,URAE 1 - Sudeste,_Fora de RMs/AUs,Alto Paranapanema
+3506359,Bertioga,URAE 1 - Sudeste,Região Metropolitana da Baixada Santista,Baixada Santista
+3506409,Bilac,URAE 4 - Norte,_Fora de RMs/AUs,Baixo Tietê
+3506508,Birigui,URAE 4 - Norte,_Fora de RMs/AUs,Baixo Tietê
+3506607,Biritiba-Mirim,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Alto Tietê
+3506706,Boa Esperança do Sul,URAE 2 - Centro,_Fora de RMs/AUs,Tietê / Jacaré
+3506805,Bocaina,URAE 1 - Sudeste,_Fora de RMs/AUs,Tietê / Jacaré
+3506904,Bofete,URAE 2 - Centro,_Fora de RMs/AUs,Tietê / Sorocaba
+3507001,Boituva,URAE 1 - Sudeste,Região Metropolitana de Sorocaba,Tietê / Sorocaba
+3507100,Bom Jesus dos Perdões,URAE 3 - Leste,_Fora de RMs/AUs,Piracicaba / Capivari / Jundiaí
+3507159,Bom Sucesso de Itararé,URAE 1 - Sudeste,_Fora de RMs/AUs,Alto Paranapanema
+3507209,Borá,URAE 1 - Sudeste,_Fora de RMs/AUs,Peixe
+3507308,Boracéia,URAE 1 - Sudeste,_Fora de RMs/AUs,Tietê / Jacaré
+3507407,Borborema,URAE 4 - Norte,_Fora de RMs/AUs,Tietê / Batalha
+3507456,Borebi,URAE 2 - Centro,_Fora de RMs/AUs,Tietê / Jacaré
+3507506,Botucatu,URAE 1 - Sudeste,_Fora de RMs/AUs,Tietê / Sorocaba
+3507605,Bragança Paulista,URAE 1 - Sudeste,_Fora de RMs/AUs,Piracicaba / Capivari / Jundiaí
+3507704,Braúna,URAE 4 - Norte,_Fora de RMs/AUs,Baixo Tietê
+3507753,Brejo Alegre,URAE 1 - Sudeste,_Fora de RMs/AUs,Baixo Tietê
+3507803,Brodowski,URAE 4 - Norte,Região Metropolitana de Ribeirão Preto,Pardo
+3507902,Brotas,URAE 2 - Centro,_Fora de RMs/AUs,Tietê / Jacaré
+3508009,Buri,URAE 1 - Sudeste,_Fora de RMs/AUs,Alto Paranapanema
+3508108,Buritama,URAE 4 - Norte,_Fora de RMs/AUs,Baixo Tietê
+3508207,Buritizal,URAE 1 - Sudeste,Aglomeração Urbana de Franca,Sapucaí / Grande
+3508306,Cabrália Paulista,URAE 2 - Centro,_Fora de RMs/AUs,Médio Paranapanema
+3508405,Cabreúva,URAE 1 - Sudeste,Aglomeração Urbana de Jundiaí,Tietê / Sorocaba
+3508504,Caçapava,URAE 1 - Sudeste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Paraíba do Sul
+3508603,Cachoeira Paulista,URAE 1 - Sudeste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Paraíba do Sul
+3508702,Caconde,URAE 4 - Norte,_Fora de RMs/AUs,Pardo
+3508801,Cafelândia,URAE 4 - Norte,_Fora de RMs/AUs,Tietê / Batalha
+3508900,Caiabu,URAE 1 - Sudeste,_Fora de RMs/AUs,Peixe
+3509007,Caieiras,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Alto Tietê
+3509106,Caiuá,URAE 2 - Centro,_Fora de RMs/AUs,Pontal do Paranapanema
+3509205,Cajamar,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Alto Tietê
+3509254,Cajati,URAE 1 - Sudeste,_Fora de RMs/AUs,Ribeira de Iguape / Litoral Sul
+3509304,Cajobi,URAE 4 - Norte,_Fora de RMs/AUs,Turvo / Grande
+3509403,Cajuru,URAE 1 - Sudeste,Região Metropolitana de Ribeirão Preto,Pardo
+3509452,Campina do Monte Alegre,URAE 1 - Sudeste,_Fora de RMs/AUs,Alto Paranapanema
+3509502,Campinas,URAE 3 - Leste,Região Metropolitana de Campinas,Piracicaba / Capivari / Jundiaí
+3509601,Campo Limpo Paulista,URAE 1 - Sudeste,Aglomeração Urbana de Jundiaí,Piracicaba / Capivari / Jundiaí
+3509700,Campos do Jordão,URAE 1 - Sudeste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Mantiqueira
+3509809,Campos Novos Paulista,URAE 2 - Centro,_Fora de RMs/AUs,Médio Paranapanema
+3509908,Cananéia,URAE 1 - Sudeste,_Fora de RMs/AUs,Ribeira de Iguape / Litoral Sul
+3509957,Canas,URAE 1 - Sudeste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Paraíba do Sul
+3510005,Cândido Mota,URAE 2 - Centro,_Fora de RMs/AUs,Médio Paranapanema
+3510104,Cândido Rodrigues,URAE 1 - Sudeste,_Fora de RMs/AUs,Turvo / Grande
+3510153,Canitar,URAE 2 - Centro,_Fora de RMs/AUs,Médio Paranapanema
+3510203,Capão Bonito,URAE 1 - Sudeste,_Fora de RMs/AUs,Alto Paranapanema
+3510302,Capela do Alto,URAE 1 - Sudeste,Região Metropolitana de Sorocaba,Tietê / Sorocaba
+3510401,Capivari,URAE 2 - Centro,Aglomeração Urbana de Piracicaba-AU- Piracicaba,Piracicaba / Capivari / Jundiaí
+3510500,Caraguatatuba,URAE 1 - Sudeste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Litoral Norte
+3510609,Carapicuíba,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Alto Tietê
+3510708,Cardoso,URAE 1 - Sudeste,_Fora de RMs/AUs,Turvo / Grande
+3510807,Casa Branca,URAE 4 - Norte,_Fora de RMs/AUs,Pardo
+3510906,Cássia dos Coqueiros,URAE 1 - Sudeste,Região Metropolitana de Ribeirão Preto,Pardo
+3511003,Castilho,URAE 4 - Norte,_Fora de RMs/AUs,Baixo Tietê
+3511102,Catanduva,URAE 4 - Norte,_Fora de RMs/AUs,Turvo / Grande
+3511201,Catiguá,URAE 1 - Sudeste,_Fora de RMs/AUs,Turvo / Grande
+3511300,Cedral,URAE 4 - Norte,_Fora de RMs/AUs,Turvo / Grande
+3511409,Cerqueira César,URAE 2 - Centro,_Fora de RMs/AUs,Médio Paranapanema
+3511508,Cerquilho,URAE 2 - Centro,Região Metropolitana de Sorocaba,Tietê / Sorocaba
+3511607,Cesário Lange,URAE 1 - Sudeste,Região Metropolitana de Sorocaba,Tietê / Sorocaba
+3511706,Charqueada,URAE 1 - Sudeste,Aglomeração Urbana de Piracicaba-AU- Piracicaba,Piracicaba / Capivari / Jundiaí
+3557204,Chavantes,URAE 2 - Centro,_Fora de RMs/AUs,Médio Paranapanema
+3511904,Clementina,URAE 2 - Centro,_Fora de RMs/AUs,Aguapeí
+3512001,Colina,URAE 4 - Norte,_Fora de RMs/AUs,Baixo Pardo / Grande
+3512100,Colômbia,URAE 1 - Sudeste,_Fora de RMs/AUs,Baixo Pardo / Grande
+3512209,Conchal,URAE 2 - Centro,Aglomeração Urbana de Piracicaba-AU- Piracicaba,Mogi-Guaçu
+3512308,Conchas,URAE 1 - Sudeste,_Fora de RMs/AUs,Tietê / Sorocaba
+3512407,Cordeirópolis,URAE 2 - Centro,Aglomeração Urbana de Piracicaba-AU- Piracicaba,Piracicaba / Capivari / Jundiaí
+3512506,Coroados,URAE 1 - Sudeste,_Fora de RMs/AUs,Baixo Tietê
+3512605,Coronel Macedo,URAE 1 - Sudeste,_Fora de RMs/AUs,Alto Paranapanema
+3512704,Corumbataí,URAE 2 - Centro,Aglomeração Urbana de Piracicaba-AU- Piracicaba,Piracicaba / Capivari / Jundiaí
+3512803,Cosmópolis,URAE 3 - Leste,Região Metropolitana de Campinas,Piracicaba / Capivari / Jundiaí
+3512902,Cosmorama,URAE 4 - Norte,_Fora de RMs/AUs,Turvo / Grande
+3513009,Cotia,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Alto Tietê
+3513108,Cravinhos,URAE 4 - Norte,Região Metropolitana de Ribeirão Preto,Pardo
+3513207,Cristais Paulista,URAE 4 - Norte,Aglomeração Urbana de Franca,Sapucaí / Grande
+3513306,Cruzália,URAE 1 - Sudeste,_Fora de RMs/AUs,Médio Paranapanema
+3513405,Cruzeiro,URAE 3 - Leste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Paraíba do Sul
+3513504,Cubatão,URAE 1 - Sudeste,Região Metropolitana da Baixada Santista,Baixada Santista
+3513603,Cunha,URAE 3 - Leste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Paraíba do Sul
+3513702,Descalvado,URAE 4 - Norte,_Fora de RMs/AUs,Mogi-Guaçu
+3513801,Diadema,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Alto Tietê
+3513850,Dirce Reis,URAE 1 - Sudeste,_Fora de RMs/AUs,São José dos Dourados
+3513900,Divinolândia,URAE 1 - Sudeste,_Fora de RMs/AUs,Pardo
+3514007,Dobrada,URAE 4 - Norte,_Fora de RMs/AUs,Tietê / Batalha
+3514106,Dois Córregos,URAE 2 - Centro,_Fora de RMs/AUs,Tietê / Jacaré
+3514205,Dolcinópolis,URAE 1 - Sudeste,_Fora de RMs/AUs,Turvo / Grande
+3514304,Dourado,URAE 2 - Centro,_Fora de RMs/AUs,Tietê / Jacaré
+3514403,Dracena,URAE 2 - Centro,_Fora de RMs/AUs,Aguapeí
+3514502,Duartina,URAE 1 - Sudeste,_Fora de RMs/AUs,Médio Paranapanema
+3514601,Dumont,URAE 4 - Norte,Região Metropolitana de Ribeirão Preto,Mogi-Guaçu
+3514700,Echaporã,URAE 1 - Sudeste,_Fora de RMs/AUs,Médio Paranapanema
+3514809,Eldorado,URAE 1 - Sudeste,_Fora de RMs/AUs,Ribeira de Iguape / Litoral Sul
+3514908,Elias Fausto,URAE 1 - Sudeste,Aglomeração Urbana de Piracicaba-AU- Piracicaba,Piracicaba / Capivari / Jundiaí
+3514924,Elisiário,URAE 4 - Norte,_Fora de RMs/AUs,Tietê / Batalha
+3514957,Embaúba,URAE 4 - Norte,_Fora de RMs/AUs,Turvo / Grande
+3515004,Embu das Artes,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Alto Tietê
+3515103,Embu-Guaçu,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Alto Tietê
+3515129,Emilianópolis,URAE 1 - Sudeste,_Fora de RMs/AUs,Peixe
+3515152,Engenheiro Coelho,URAE 3 - Leste,Região Metropolitana de Campinas,Mogi-Guaçu
+3515186,Espírito Santo do Pinhal,URAE 1 - Sudeste,_Fora de RMs/AUs,Mogi-Guaçu
+3515194,Espírito Santo do Turvo,URAE 1 - Sudeste,_Fora de RMs/AUs,Médio Paranapanema
+3557303,Estiva Gerbi,URAE 4 - Norte,_Fora de RMs/AUs,Mogi-Guaçu
+3515301,Estrela do Norte,URAE 1 - Sudeste,_Fora de RMs/AUs,Pontal do Paranapanema
+3515202,Estrela d'Oeste,URAE 1 - Sudeste,_Fora de RMs/AUs,Turvo / Grande
+3515350,Euclides da Cunha Paulista,URAE 1 - Sudeste,_Fora de RMs/AUs,Pontal do Paranapanema
+3515400,Fartura,URAE 1 - Sudeste,_Fora de RMs/AUs,Alto Paranapanema
+3515608,Fernando Prestes,URAE 1 - Sudeste,_Fora de RMs/AUs,Turvo / Grande
+3515509,Fernandópolis,URAE 1 - Sudeste,_Fora de RMs/AUs,Turvo / Grande
+3515657,Fernão,URAE 1 - Sudeste,_Fora de RMs/AUs,Médio Paranapanema
+3515707,Ferraz de Vasconcelos,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Alto Tietê
+3515806,Flora Rica,URAE 1 - Sudeste,_Fora de RMs/AUs,Peixe
+3515905,Floreal,URAE 1 - Sudeste,_Fora de RMs/AUs,São José dos Dourados
+3516002,Flórida Paulista,URAE 1 - Sudeste,_Fora de RMs/AUs,Peixe
+3516101,Florínea,URAE 1 - Sudeste,_Fora de RMs/AUs,Médio Paranapanema
+3516200,Franca,URAE 1 - Sudeste,Aglomeração Urbana de Franca,Sapucaí / Grande
+3516309,Francisco Morato,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Alto Tietê
+3516408,Franco da Rocha,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Alto Tietê
+3516507,Gabriel Monteiro,URAE 1 - Sudeste,_Fora de RMs/AUs,Aguapeí
+3516606,Gália,URAE 1 - Sudeste,_Fora de RMs/AUs,Médio Paranapanema
+3516705,Garça,URAE 2 - Centro,_Fora de RMs/AUs,Aguapeí
+3516804,Gastão Vidigal,URAE 1 - Sudeste,_Fora de RMs/AUs,Baixo Tietê
+3516853,Gavião Peixoto,URAE 2 - Centro,_Fora de RMs/AUs,Tietê / Jacaré
+3516903,General Salgado,URAE 1 - Sudeste,_Fora de RMs/AUs,São José dos Dourados
+3517000,Getulina,URAE 2 - Centro,_Fora de RMs/AUs,Aguapeí
+3517109,Glicério,URAE 1 - Sudeste,_Fora de RMs/AUs,Baixo Tietê
+3517208,Guaiçara,URAE 4 - Norte,_Fora de RMs/AUs,Tietê / Batalha
+3517307,Guaimbê,URAE 2 - Centro,_Fora de RMs/AUs,Aguapeí
+3517406,Guaíra,URAE 4 - Norte,Aglomeração Urbana de Franca,Sapucaí / Grande
+3517505,Guapiaçu,URAE 4 - Norte,_Fora de RMs/AUs,Turvo / Grande
+3517604,Guapiara,URAE 1 - Sudeste,_Fora de RMs/AUs,Alto Paranapanema
+3517703,Guará,URAE 4 - Norte,Aglomeração Urbana de Franca,Sapucaí / Grande
+3517802,Guaraçaí,URAE 4 - Norte,_Fora de RMs/AUs,Baixo Tietê
+3517901,Guaraci,URAE 4 - Norte,_Fora de RMs/AUs,Baixo Pardo / Grande
+3518008,Guarani d'Oeste,URAE 1 - Sudeste,_Fora de RMs/AUs,Turvo / Grande
+3518107,Guarantã,URAE 4 - Norte,_Fora de RMs/AUs,Tietê / Batalha
+3518206,Guararapes,URAE 4 - Norte,_Fora de RMs/AUs,Baixo Tietê
+3518305,Guararema,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Paraíba do Sul
+3518404,Guaratinguetá,URAE 3 - Leste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Paraíba do Sul
+3518503,Guareí,URAE 1 - Sudeste,_Fora de RMs/AUs,Alto Paranapanema
+3518602,Guariba,URAE 1 - Sudeste,Região Metropolitana de Ribeirão Preto,Mogi-Guaçu
+3518701,Guarujá,URAE 1 - Sudeste,Região Metropolitana da Baixada Santista,Baixada Santista
+3518800,Guarulhos,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Alto Tietê
+3518859,Guatapará,URAE 4 - Norte,Região Metropolitana de Ribeirão Preto,Mogi-Guaçu
+3518909,Guzolândia,URAE 1 - Sudeste,_Fora de RMs/AUs,São José dos Dourados
+3519006,Herculândia,URAE 2 - Centro,_Fora de RMs/AUs,Aguapeí
+3519055,Holambra,URAE 3 - Leste,Região Metropolitana de Campinas,Piracicaba / Capivari / Jundiaí
+3519071,Hortolândia,URAE 1 - Sudeste,Região Metropolitana de Campinas,Piracicaba / Capivari / Jundiaí
+3519105,Iacanga,URAE 2 - Centro,_Fora de RMs/AUs,Tietê / Jacaré
+3519204,Iacri,URAE 1 - Sudeste,_Fora de RMs/AUs,Aguapeí
+3519253,Iaras,URAE 1 - Sudeste,_Fora de RMs/AUs,Médio Paranapanema
+3519303,Ibaté,URAE 2 - Centro,_Fora de RMs/AUs,Tietê / Jacaré
+3519402,Ibirá,URAE 1 - Sudeste,_Fora de RMs/AUs,Tietê / Batalha
+3519501,Ibirarema,URAE 2 - Centro,_Fora de RMs/AUs,Médio Paranapanema
+3519600,Ibitinga,URAE 2 - Centro,_Fora de RMs/AUs,Tietê / Jacaré
+3519709,Ibiúna,URAE 1 - Sudeste,Região Metropolitana de Sorocaba,Tietê / Sorocaba
+3519808,Icém,URAE 1 - Sudeste,_Fora de RMs/AUs,Baixo Pardo / Grande
+3519907,Iepê,URAE 2 - Centro,_Fora de RMs/AUs,Pontal do Paranapanema
+3520004,Igaraçu do Tietê,URAE 2 - Centro,_Fora de RMs/AUs,Tietê / Jacaré
+3520103,Igarapava,URAE 1 - Sudeste,Aglomeração Urbana de Franca,Sapucaí / Grande
+3520202,Igaratá,URAE 1 - Sudeste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Paraíba do Sul
+3520301,Iguape,URAE 1 - Sudeste,_Fora de RMs/AUs,Ribeira de Iguape / Litoral Sul
+3520426,Ilha Comprida,URAE 1 - Sudeste,_Fora de RMs/AUs,Ribeira de Iguape / Litoral Sul
+3520442,Ilha Solteira,URAE 4 - Norte,_Fora de RMs/AUs,São José dos Dourados
+3520400,Ilhabela,URAE 1 - Sudeste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Litoral Norte
+3520509,Indaiatuba,URAE 3 - Leste,Região Metropolitana de Campinas,Piracicaba / Capivari / Jundiaí
+3520608,Indiana,URAE 2 - Centro,_Fora de RMs/AUs,Peixe
+3520707,Indiaporã,URAE 1 - Sudeste,_Fora de RMs/AUs,Turvo / Grande
+3520806,Inúbia Paulista,URAE 1 - Sudeste,_Fora de RMs/AUs,Peixe
+3520905,Ipaussu,URAE 2 - Centro,_Fora de RMs/AUs,Alto Paranapanema
+3521002,Iperó,URAE 1 - Sudeste,Região Metropolitana de Sorocaba,Tietê / Sorocaba
+3521101,Ipeúna,URAE 2 - Centro,Aglomeração Urbana de Piracicaba-AU- Piracicaba,Piracicaba / Capivari / Jundiaí
+3521150,Ipiguá,URAE 4 - Norte,_Fora de RMs/AUs,Turvo / Grande
+3521200,Iporanga,URAE 1 - Sudeste,_Fora de RMs/AUs,Ribeira de Iguape / Litoral Sul
+3521309,Ipuã,URAE 4 - Norte,Aglomeração Urbana de Franca,Sapucaí / Grande
+3521408,Iracemápolis,URAE 2 - Centro,Aglomeração Urbana de Piracicaba-AU- Piracicaba,Piracicaba / Capivari / Jundiaí
+3521507,Irapuã,URAE 1 - Sudeste,_Fora de RMs/AUs,Tietê / Batalha
+3521606,Irapuru,URAE 2 - Centro,_Fora de RMs/AUs,Peixe
+3521705,Itaberá,URAE 1 - Sudeste,_Fora de RMs/AUs,Alto Paranapanema
+3521804,Itaí,URAE 1 - Sudeste,_Fora de RMs/AUs,Alto Paranapanema
+3521903,Itajobi,URAE 4 - Norte,_Fora de RMs/AUs,Tietê / Batalha
+3522000,Itaju,URAE 2 - Centro,_Fora de RMs/AUs,Tietê / Jacaré
+3522109,Itanhaém,URAE 1 - Sudeste,Região Metropolitana da Baixada Santista,Baixada Santista
+3522158,Itaóca,URAE 1 - Sudeste,_Fora de RMs/AUs,Ribeira de Iguape / Litoral Sul
+3522208,Itapecerica da Serra,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Alto Tietê
+3522307,Itapetininga,URAE 1 - Sudeste,Região Metropolitana de Sorocaba,Alto Paranapanema
+3522406,Itapeva,URAE 1 - Sudeste,_Fora de RMs/AUs,Alto Paranapanema
+3522505,Itapevi,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Alto Tietê
+3522604,Itapira,URAE 4 - Norte,_Fora de RMs/AUs,Mogi-Guaçu
+3522653,Itapirapuã Paulista,URAE 1 - Sudeste,_Fora de RMs/AUs,Ribeira de Iguape / Litoral Sul
+3522703,Itápolis,URAE 4 - Norte,_Fora de RMs/AUs,Tietê / Batalha
+3522802,Itaporanga,URAE 1 - Sudeste,_Fora de RMs/AUs,Alto Paranapanema
+3522901,Itapuí,URAE 2 - Centro,_Fora de RMs/AUs,Tietê / Jacaré
+3523008,Itapura,URAE 4 - Norte,_Fora de RMs/AUs,Baixo Tietê
+3523107,Itaquaquecetuba,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Alto Tietê
+3523206,Itararé,URAE 1 - Sudeste,_Fora de RMs/AUs,Alto Paranapanema
+3523305,Itariri,URAE 1 - Sudeste,_Fora de RMs/AUs,Ribeira de Iguape / Litoral Sul
+3523404,Itatiba,URAE 1 - Sudeste,Região Metropolitana de Campinas,Piracicaba / Capivari / Jundiaí
+3523503,Itatinga,URAE 1 - Sudeste,_Fora de RMs/AUs,Médio Paranapanema
+3523602,Itirapina,URAE 2 - Centro,_Fora de RMs/AUs,Tietê / Jacaré
+3523701,Itirapuã,URAE 1 - Sudeste,Aglomeração Urbana de Franca,Sapucaí / Grande
+3523800,Itobi,URAE 1 - Sudeste,_Fora de RMs/AUs,Pardo
+3523909,Itu,URAE 2 - Centro,Região Metropolitana de Sorocaba,Tietê / Sorocaba
+3524006,Itupeva,URAE 1 - Sudeste,Aglomeração Urbana de Jundiaí,Piracicaba / Capivari / Jundiaí
+3524105,Ituverava,URAE 4 - Norte,Aglomeração Urbana de Franca,Sapucaí / Grande
+3524204,Jaborandi,URAE 1 - Sudeste,_Fora de RMs/AUs,Baixo Pardo / Grande
+3524303,Jaboticabal,URAE 4 - Norte,Região Metropolitana de Ribeirão Preto,Mogi-Guaçu
+3524402,Jacareí,URAE 3 - Leste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Paraíba do Sul
+3524501,Jaci,URAE 4 - Norte,_Fora de RMs/AUs,Tietê / Batalha
+3524600,Jacupiranga,URAE 1 - Sudeste,_Fora de RMs/AUs,Ribeira de Iguape / Litoral Sul
+3524709,Jaguariúna,URAE 3 - Leste,Região Metropolitana de Campinas,Piracicaba / Capivari / Jundiaí
+3524808,Jales,URAE 1 - Sudeste,_Fora de RMs/AUs,São José dos Dourados
+3524907,Jambeiro,URAE 1 - Sudeste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Paraíba do Sul
+3525003,Jandira,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Alto Tietê
+3525102,Jardinópolis,URAE 4 - Norte,Região Metropolitana de Ribeirão Preto,Pardo
+3525201,Jarinu,URAE 1 - Sudeste,Aglomeração Urbana de Jundiaí,Piracicaba / Capivari / Jundiaí
+3525300,Jaú,URAE 2 - Centro,_Fora de RMs/AUs,Tietê / Jacaré
+3525409,Jeriquara,URAE 1 - Sudeste,Aglomeração Urbana de Franca,Sapucaí / Grande
+3525508,Joanópolis,URAE 1 - Sudeste,_Fora de RMs/AUs,Piracicaba / Capivari / Jundiaí
+3525607,João Ramalho,URAE 2 - Centro,_Fora de RMs/AUs,Médio Paranapanema
+3525706,José Bonifácio,URAE 4 - Norte,_Fora de RMs/AUs,Baixo Tietê
+3525805,Júlio Mesquita,URAE 2 - Centro,_Fora de RMs/AUs,Aguapeí
+3525854,Jumirim,URAE 2 - Centro,Região Metropolitana de Sorocaba,Tietê / Sorocaba
+3525904,Jundiaí,URAE 3 - Leste,Aglomeração Urbana de Jundiaí,Piracicaba / Capivari / Jundiaí
+3526001,Junqueirópolis,URAE 2 - Centro,_Fora de RMs/AUs,Peixe
+3526100,Juquiá,URAE 1 - Sudeste,_Fora de RMs/AUs,Ribeira de Iguape / Litoral Sul
+3526209,Juquitiba,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Ribeira de Iguape / Litoral Sul
+3526308,Lagoinha,URAE 1 - Sudeste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Paraíba do Sul
+3526407,Laranjal Paulista,URAE 1 - Sudeste,Aglomeração Urbana de Piracicaba-AU- Piracicaba,Tietê / Sorocaba
+3526506,Lavínia,URAE 4 - Norte,_Fora de RMs/AUs,Baixo Tietê
+3526605,Lavrinhas,URAE 1 - Sudeste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Paraíba do Sul
+3526704,Leme,URAE 2 - Centro,Aglomeração Urbana de Piracicaba-AU- Piracicaba,Mogi-Guaçu
+3526803,Lençóis Paulista,URAE 2 - Centro,_Fora de RMs/AUs,Tietê / Jacaré
+3526902,Limeira,URAE 2 - Centro,Aglomeração Urbana de Piracicaba-AU- Piracicaba,Piracicaba / Capivari / Jundiaí
+3527009,Lindóia,URAE 4 - Norte,_Fora de RMs/AUs,Mogi-Guaçu
+3527108,Lins,URAE 1 - Sudeste,_Fora de RMs/AUs,Tietê / Batalha
+3527207,Lorena,URAE 1 - Sudeste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Paraíba do Sul
+3527256,Lourdes,URAE 1 - Sudeste,_Fora de RMs/AUs,Baixo Tietê
+3527306,Louveira,URAE 3 - Leste,Aglomeração Urbana de Jundiaí,Piracicaba / Capivari / Jundiaí
+3527405,Lucélia,URAE 1 - Sudeste,_Fora de RMs/AUs,Aguapeí
+3527504,Lucianópolis,URAE 1 - Sudeste,_Fora de RMs/AUs,Médio Paranapanema
+3527603,Luís Antônio,URAE 4 - Norte,Região Metropolitana de Ribeirão Preto,Mogi-Guaçu
+3527702,Luiziânia,URAE 1 - Sudeste,_Fora de RMs/AUs,Aguapeí
+3527801,Lupércio,URAE 1 - Sudeste,_Fora de RMs/AUs,Médio Paranapanema
+3527900,Lutécia,URAE 1 - Sudeste,_Fora de RMs/AUs,Peixe
+3528007,Macatuba,URAE 2 - Centro,_Fora de RMs/AUs,Tietê / Jacaré
+3528106,Macaubal,URAE 4 - Norte,_Fora de RMs/AUs,Baixo Tietê
+3528205,Macedônia,URAE 1 - Sudeste,_Fora de RMs/AUs,Turvo / Grande
+3528304,Magda,URAE 1 - Sudeste,_Fora de RMs/AUs,Baixo Tietê
+3528403,Mairinque,URAE 2 - Centro,Região Metropolitana de Sorocaba,Tietê / Sorocaba
+3528502,Mairiporã,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Alto Tietê
+3528601,Manduri,URAE 2 - Centro,_Fora de RMs/AUs,Alto Paranapanema
+3528700,Marabá Paulista,URAE 1 - Sudeste,_Fora de RMs/AUs,Pontal do Paranapanema
+3528809,Maracaí,URAE 1 - Sudeste,_Fora de RMs/AUs,Médio Paranapanema
+3528858,Marapoama,URAE 4 - Norte,_Fora de RMs/AUs,Tietê / Batalha
+3528908,Mariápolis,URAE 1 - Sudeste,_Fora de RMs/AUs,Peixe
+3529005,Marília,URAE 2 - Centro,_Fora de RMs/AUs,Peixe
+3529104,Marinópolis,URAE 1 - Sudeste,_Fora de RMs/AUs,São José dos Dourados
+3529203,Martinópolis,URAE 2 - Centro,_Fora de RMs/AUs,Peixe
+3529302,Matão,URAE 4 - Norte,_Fora de RMs/AUs,Tietê / Batalha
+3529401,Mauá,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Alto Tietê
+3529500,Mendonça,URAE 4 - Norte,_Fora de RMs/AUs,Tietê / Batalha
+3529609,Meridiano,URAE 1 - Sudeste,_Fora de RMs/AUs,Turvo / Grande
+3529658,Mesópolis,URAE 1 - Sudeste,_Fora de RMs/AUs,Turvo / Grande
+3529708,Miguelópolis,URAE 1 - Sudeste,Aglomeração Urbana de Franca,Sapucaí / Grande
+3529807,Mineiros do Tietê,URAE 2 - Centro,_Fora de RMs/AUs,Tietê / Jacaré
+3530003,Mira Estrela,URAE 1 - Sudeste,_Fora de RMs/AUs,Turvo / Grande
+3529906,Miracatu,URAE 1 - Sudeste,_Fora de RMs/AUs,Ribeira de Iguape / Litoral Sul
+3530102,Mirandópolis,URAE 4 - Norte,_Fora de RMs/AUs,Baixo Tietê
+3530201,Mirante do Paranapanema,URAE 1 - Sudeste,_Fora de RMs/AUs,Pontal do Paranapanema
+3530300,Mirassol,URAE 4 - Norte,_Fora de RMs/AUs,Turvo / Grande
+3530409,Mirassolândia,URAE 4 - Norte,_Fora de RMs/AUs,Turvo / Grande
+3530508,Mococa,URAE 1 - Sudeste,Região Metropolitana de Ribeirão Preto,Pardo
+3530706,Mogi Guaçu,URAE 4 - Norte,_Fora de RMs/AUs,Mogi-Guaçu
+3530607,Mogi das Cruzes,URAE 3 - Leste,Região Metropolitana de São Paulo,Alto Tietê
+3530805,Mogi Mirim,URAE 4 - Norte,_Fora de RMs/AUs,Mogi-Guaçu
+3530904,Mombuca,URAE 1 - Sudeste,Aglomeração Urbana de Piracicaba-AU- Piracicaba,Piracicaba / Capivari / Jundiaí
+3531001,Monções,URAE 1 - Sudeste,_Fora de RMs/AUs,Baixo Tietê
+3531100,Mongaguá,URAE 1 - Sudeste,Região Metropolitana da Baixada Santista,Baixada Santista
+3531209,Monte Alegre do Sul,URAE 3 - Leste,_Fora de RMs/AUs,Piracicaba / Capivari / Jundiaí
+3531308,Monte Alto,URAE 1 - Sudeste,Região Metropolitana de Ribeirão Preto,Turvo / Grande
+3531407,Monte Aprazível,URAE 1 - Sudeste,_Fora de RMs/AUs,São José dos Dourados
+3531506,Monte Azul Paulista,URAE 4 - Norte,_Fora de RMs/AUs,Turvo / Grande
+3531605,Monte Castelo,URAE 2 - Centro,_Fora de RMs/AUs,Aguapeí
+3531803,Monte Mor,URAE 1 - Sudeste,Região Metropolitana de Campinas,Piracicaba / Capivari / Jundiaí
+3531704,Monteiro Lobato,URAE 1 - Sudeste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Paraíba do Sul
+3531902,Morro Agudo,URAE 4 - Norte,Região Metropolitana de Ribeirão Preto,Baixo Pardo / Grande
+3532009,Morungaba,URAE 1 - Sudeste,Região Metropolitana de Campinas,Piracicaba / Capivari / Jundiaí
+3532058,Motuca,URAE 4 - Norte,_Fora de RMs/AUs,Mogi-Guaçu
+3532108,Murutinga do Sul,URAE 4 - Norte,_Fora de RMs/AUs,Baixo Tietê
+3532157,Nantes,URAE 2 - Centro,_Fora de RMs/AUs,Pontal do Paranapanema
+3532207,Narandiba,URAE 1 - Sudeste,_Fora de RMs/AUs,Pontal do Paranapanema
+3532306,Natividade da Serra,URAE 3 - Leste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Paraíba do Sul
+3532405,Nazaré Paulista,URAE 1 - Sudeste,_Fora de RMs/AUs,Piracicaba / Capivari / Jundiaí
+3532504,Neves Paulista,URAE 4 - Norte,_Fora de RMs/AUs,São José dos Dourados
+3532603,Nhandeara,URAE 1 - Sudeste,_Fora de RMs/AUs,São José dos Dourados
+3532702,Nipoã,URAE 1 - Sudeste,_Fora de RMs/AUs,Baixo Tietê
+3532801,Nova Aliança,URAE 4 - Norte,_Fora de RMs/AUs,Tietê / Batalha
+3532827,Nova Campina,URAE 1 - Sudeste,_Fora de RMs/AUs,Alto Paranapanema
+3532843,Nova Canaã Paulista,URAE 1 - Sudeste,_Fora de RMs/AUs,São José dos Dourados
+3532868,Nova Castilho,URAE 4 - Norte,_Fora de RMs/AUs,Baixo Tietê
+3532900,Nova Europa,URAE 2 - Centro,_Fora de RMs/AUs,Tietê / Jacaré
+3533007,Nova Granada,URAE 1 - Sudeste,_Fora de RMs/AUs,Turvo / Grande
+3533106,Nova Guataporanga,URAE 2 - Centro,_Fora de RMs/AUs,Aguapeí
+3533205,Nova Independência,URAE 2 - Centro,_Fora de RMs/AUs,Aguapeí
+3533304,Nova Luzitânia,URAE 1 - Sudeste,_Fora de RMs/AUs,Baixo Tietê
+3533403,Nova Odessa,URAE 3 - Leste,Região Metropolitana de Campinas,Piracicaba / Capivari / Jundiaí
+3533254,Novais,URAE 4 - Norte,_Fora de RMs/AUs,Turvo / Grande
+3533502,Novo Horizonte,URAE 1 - Sudeste,_Fora de RMs/AUs,Tietê / Batalha
+3533601,Nuporanga,URAE 4 - Norte,Região Metropolitana de Ribeirão Preto,Sapucaí / Grande
+3533700,Ocauçu,URAE 2 - Centro,_Fora de RMs/AUs,Médio Paranapanema
+3533809,Óleo,URAE 1 - Sudeste,_Fora de RMs/AUs,Médio Paranapanema
+3533908,Olímpia,URAE 4 - Norte,_Fora de RMs/AUs,Turvo / Grande
+3534005,Onda Verde,URAE 1 - Sudeste,_Fora de RMs/AUs,Turvo / Grande
+3534104,Oriente,URAE 1 - Sudeste,_Fora de RMs/AUs,Peixe
+3534203,Orindiúva,URAE 1 - Sudeste,_Fora de RMs/AUs,Turvo / Grande
+3534302,Orlândia,URAE 4 - Norte,Região Metropolitana de Ribeirão Preto,Baixo Pardo / Grande
+3534401,Osasco,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Alto Tietê
+3534500,Oscar Bressane,URAE 1 - Sudeste,_Fora de RMs/AUs,Peixe
+3534609,Osvaldo Cruz,URAE 1 - Sudeste,_Fora de RMs/AUs,Peixe
+3534708,Ourinhos,URAE 2 - Centro,_Fora de RMs/AUs,Médio Paranapanema
+3534807,Ouro Verde,URAE 2 - Centro,_Fora de RMs/AUs,Peixe
+3534757,Ouroeste,URAE 1 - Sudeste,_Fora de RMs/AUs,Turvo / Grande
+3534906,Pacaembu,URAE 2 - Centro,_Fora de RMs/AUs,Aguapeí
+3535002,Palestina,URAE 4 - Norte,_Fora de RMs/AUs,Turvo / Grande
+3535101,Palmares Paulista,URAE 1 - Sudeste,_Fora de RMs/AUs,Turvo / Grande
+3535200,Palmeira d'Oeste,URAE 1 - Sudeste,_Fora de RMs/AUs,São José dos Dourados
+3535309,Palmital,URAE 2 - Centro,_Fora de RMs/AUs,Médio Paranapanema
+3535408,Panorama,URAE 2 - Centro,_Fora de RMs/AUs,Aguapeí
+3535507,Paraguaçu Paulista,URAE 1 - Sudeste,_Fora de RMs/AUs,Médio Paranapanema
+3535606,Paraibuna,URAE 3 - Leste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Paraíba do Sul
+3535705,Paraíso,URAE 4 - Norte,_Fora de RMs/AUs,Turvo / Grande
+3535804,Paranapanema,URAE 1 - Sudeste,_Fora de RMs/AUs,Alto Paranapanema
+3535903,Paranapuã,URAE 1 - Sudeste,_Fora de RMs/AUs,Turvo / Grande
+3536000,Parapuã,URAE 1 - Sudeste,_Fora de RMs/AUs,Aguapeí
+3536109,Pardinho,URAE 1 - Sudeste,_Fora de RMs/AUs,Médio Paranapanema
+3536208,Pariquera-Açu,URAE 1 - Sudeste,_Fora de RMs/AUs,Ribeira de Iguape / Litoral Sul
+3536257,Parisi,URAE 4 - Norte,_Fora de RMs/AUs,Turvo / Grande
+3536307,Patrocínio Paulista,URAE 4 - Norte,Aglomeração Urbana de Franca,Sapucaí / Grande
+3536406,Paulicéia,URAE 2 - Centro,_Fora de RMs/AUs,Aguapeí
+3536505,Paulínia,URAE 1 - Sudeste,Região Metropolitana de Campinas,Piracicaba / Capivari / Jundiaí
+3536570,Paulistânia,URAE 1 - Sudeste,_Fora de RMs/AUs,Médio Paranapanema
+3536604,Paulo de Faria,URAE 1 - Sudeste,_Fora de RMs/AUs,Turvo / Grande
+3536703,Pederneiras,URAE 1 - Sudeste,_Fora de RMs/AUs,Tietê / Jacaré
+3536802,Pedra Bela,URAE 1 - Sudeste,_Fora de RMs/AUs,Piracicaba / Capivari / Jundiaí
+3536901,Pedranópolis,URAE 1 - Sudeste,_Fora de RMs/AUs,Turvo / Grande
+3537008,Pedregulho,URAE 1 - Sudeste,Aglomeração Urbana de Franca,Sapucaí / Grande
+3537107,Pedreira,URAE 3 - Leste,Região Metropolitana de Campinas,Piracicaba / Capivari / Jundiaí
+3537156,Pedrinhas Paulista,URAE 1 - Sudeste,_Fora de RMs/AUs,Médio Paranapanema
+3537206,Pedro de Toledo,URAE 1 - Sudeste,_Fora de RMs/AUs,Ribeira de Iguape / Litoral Sul
+3537305,Penápolis,URAE 4 - Norte,_Fora de RMs/AUs,Baixo Tietê
+3537404,Pereira Barreto,URAE 4 - Norte,_Fora de RMs/AUs,Baixo Tietê
+3537503,Pereiras,URAE 1 - Sudeste,_Fora de RMs/AUs,Tietê / Sorocaba
+3537602,Peruíbe,URAE 1 - Sudeste,Região Metropolitana da Baixada Santista,Baixada Santista
+3537701,Piacatu,URAE 1 - Sudeste,_Fora de RMs/AUs,Aguapeí
+3537800,Piedade,URAE 1 - Sudeste,Região Metropolitana de Sorocaba,Tietê / Sorocaba
+3537909,Pilar do Sul,URAE 1 - Sudeste,Região Metropolitana de Sorocaba,Alto Paranapanema
+3538006,Pindamonhangaba,URAE 1 - Sudeste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Paraíba do Sul
+3538105,Pindorama,URAE 4 - Norte,_Fora de RMs/AUs,Turvo / Grande
+3538204,Pinhalzinho,URAE 1 - Sudeste,_Fora de RMs/AUs,Piracicaba / Capivari / Jundiaí
+3538303,Piquerobi,URAE 1 - Sudeste,_Fora de RMs/AUs,Peixe
+3538501,Piquete,URAE 3 - Leste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Paraíba do Sul
+3538600,Piracaia,URAE 1 - Sudeste,_Fora de RMs/AUs,Piracicaba / Capivari / Jundiaí
+3538709,Piracicaba,URAE 2 - Centro,Aglomeração Urbana de Piracicaba-AU- Piracicaba,Piracicaba / Capivari / Jundiaí
+3538808,Piraju,URAE 1 - Sudeste,_Fora de RMs/AUs,Alto Paranapanema
+3538907,Pirajuí,URAE 4 - Norte,_Fora de RMs/AUs,Tietê / Batalha
+3539004,Pirangi,URAE 4 - Norte,_Fora de RMs/AUs,Turvo / Grande
+3539103,Pirapora do Bom Jesus,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Alto Tietê
+3539202,Pirapozinho,URAE 1 - Sudeste,_Fora de RMs/AUs,Pontal do Paranapanema
+3539301,Pirassununga,URAE 4 - Norte,_Fora de RMs/AUs,Mogi-Guaçu
+3539400,Piratininga,URAE 1 - Sudeste,_Fora de RMs/AUs,Tietê / Batalha
+3539509,Pitangueiras,URAE 4 - Norte,Região Metropolitana de Ribeirão Preto,Mogi-Guaçu
+3539608,Planalto,URAE 1 - Sudeste,_Fora de RMs/AUs,Baixo Tietê
+3539707,Platina,URAE 1 - Sudeste,_Fora de RMs/AUs,Médio Paranapanema
+3539806,Poá,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Alto Tietê
+3539905,Poloni,URAE 1 - Sudeste,_Fora de RMs/AUs,Baixo Tietê
+3540002,Pompéia,URAE 2 - Centro,_Fora de RMs/AUs,Aguapeí
+3540101,Pongaí,URAE 1 - Sudeste,_Fora de RMs/AUs,Tietê / Batalha
+3540200,Pontal,URAE 4 - Norte,Região Metropolitana de Ribeirão Preto,Mogi-Guaçu
+3540259,Pontalinda,URAE 1 - Sudeste,_Fora de RMs/AUs,São José dos Dourados
+3540309,Pontes Gestal,URAE 1 - Sudeste,_Fora de RMs/AUs,Turvo / Grande
+3540408,Populina,URAE 1 - Sudeste,_Fora de RMs/AUs,Turvo / Grande
+3540507,Porangaba,URAE 1 - Sudeste,_Fora de RMs/AUs,Tietê / Sorocaba
+3540606,Porto Feliz,URAE 2 - Centro,Região Metropolitana de Sorocaba,Tietê / Sorocaba
+3540705,Porto Ferreira,URAE 4 - Norte,_Fora de RMs/AUs,Mogi-Guaçu
+3540754,Potim,URAE 3 - Leste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Paraíba do Sul
+3540804,Potirendaba,URAE 4 - Norte,_Fora de RMs/AUs,Tietê / Batalha
+3540853,Pracinha,URAE 1 - Sudeste,_Fora de RMs/AUs,Peixe
+3540903,Pradópolis,URAE 4 - Norte,Região Metropolitana de Ribeirão Preto,Mogi-Guaçu
+3541000,Praia Grande,URAE 1 - Sudeste,Região Metropolitana da Baixada Santista,Baixada Santista
+3541059,Pratânia,URAE 1 - Sudeste,_Fora de RMs/AUs,Médio Paranapanema
+3541109,Presidente Alves,URAE 1 - Sudeste,_Fora de RMs/AUs,Tietê / Batalha
+3541208,Presidente Bernardes,URAE 1 - Sudeste,_Fora de RMs/AUs,Pontal do Paranapanema
+3541307,Presidente Epitácio,URAE 1 - Sudeste,_Fora de RMs/AUs,Pontal do Paranapanema
+3541406,Presidente Prudente,URAE 1 - Sudeste,_Fora de RMs/AUs,Pontal do Paranapanema
+3541505,Presidente Venceslau,URAE 2 - Centro,_Fora de RMs/AUs,Pontal do Paranapanema
+3541604,Promissão,URAE 4 - Norte,_Fora de RMs/AUs,Baixo Tietê
+3541653,Quadra,URAE 1 - Sudeste,_Fora de RMs/AUs,Tietê / Sorocaba
+3541703,Quatá,URAE 1 - Sudeste,_Fora de RMs/AUs,Médio Paranapanema
+3541802,Queiroz,URAE 1 - Sudeste,_Fora de RMs/AUs,Aguapeí
+3541901,Queluz,URAE 1 - Sudeste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Paraíba do Sul
+3542008,Quintana,URAE 1 - Sudeste,_Fora de RMs/AUs,Aguapeí
+3542107,Rafard,URAE 2 - Centro,Aglomeração Urbana de Piracicaba-AU- Piracicaba,Piracicaba / Capivari / Jundiaí
+3542206,Rancharia,URAE 2 - Centro,_Fora de RMs/AUs,Médio Paranapanema
+3542305,Redenção da Serra,URAE 1 - Sudeste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Paraíba do Sul
+3542404,Regente Feijó,URAE 1 - Sudeste,_Fora de RMs/AUs,Pontal do Paranapanema
+3542503,Reginópolis,URAE 4 - Norte,_Fora de RMs/AUs,Tietê / Batalha
+3542602,Registro,URAE 1 - Sudeste,_Fora de RMs/AUs,Ribeira de Iguape / Litoral Sul
+3542701,Restinga,URAE 1 - Sudeste,Aglomeração Urbana de Franca,Sapucaí / Grande
+3542800,Ribeira,URAE 1 - Sudeste,_Fora de RMs/AUs,Ribeira de Iguape / Litoral Sul
+3542909,Ribeirão Bonito,URAE 2 - Centro,_Fora de RMs/AUs,Tietê / Jacaré
+3543006,Ribeirão Branco,URAE 1 - Sudeste,_Fora de RMs/AUs,Alto Paranapanema
+3543105,Ribeirão Corrente,URAE 1 - Sudeste,Aglomeração Urbana de Franca,Sapucaí / Grande
+3543204,Ribeirão do Sul,URAE 1 - Sudeste,_Fora de RMs/AUs,Médio Paranapanema
+3543238,Ribeirão dos Índios,URAE 1 - Sudeste,_Fora de RMs/AUs,Peixe
+3543253,Ribeirão Grande,URAE 1 - Sudeste,_Fora de RMs/AUs,Alto Paranapanema
+3543303,Ribeirão Pires,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Alto Tietê
+3543402,Ribeirão Preto,URAE 4 - Norte,Região Metropolitana de Ribeirão Preto,Pardo
+3543600,Rifaina,URAE 1 - Sudeste,Aglomeração Urbana de Franca,Sapucaí / Grande
+3543709,Rincão,URAE 4 - Norte,_Fora de RMs/AUs,Mogi-Guaçu
+3543808,Rinópolis,URAE 2 - Centro,_Fora de RMs/AUs,Aguapeí
+3543907,Rio Claro,URAE 2 - Centro,Aglomeração Urbana de Piracicaba-AU- Piracicaba,Piracicaba / Capivari / Jundiaí
+3544004,Rio das Pedras,URAE 2 - Centro,Aglomeração Urbana de Piracicaba-AU- Piracicaba,Piracicaba / Capivari / Jundiaí
+3544103,Rio Grande da Serra,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Alto Tietê
+3544202,Riolândia,URAE 1 - Sudeste,_Fora de RMs/AUs,Turvo / Grande
+3543501,Riversul,URAE 1 - Sudeste,_Fora de RMs/AUs,Alto Paranapanema
+3544251,Rosana,URAE 1 - Sudeste,_Fora de RMs/AUs,Pontal do Paranapanema
+3544301,Roseira,URAE 1 - Sudeste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Paraíba do Sul
+3544400,Rubiácea,URAE 1 - Sudeste,_Fora de RMs/AUs,Baixo Tietê
+3544509,Rubinéia,URAE 1 - Sudeste,_Fora de RMs/AUs,São José dos Dourados
+3544608,Sabino,URAE 4 - Norte,_Fora de RMs/AUs,Tietê / Batalha
+3544707,Sagres,URAE 1 - Sudeste,_Fora de RMs/AUs,Peixe
+3544806,Sales,URAE 4 - Norte,_Fora de RMs/AUs,Tietê / Batalha
+3544905,Sales Oliveira,URAE 4 - Norte,Região Metropolitana de Ribeirão Preto,Pardo
+3545001,Salesópolis,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Alto Tietê
+3545100,Salmourão,URAE 1 - Sudeste,_Fora de RMs/AUs,Aguapeí
+3545159,Saltinho,URAE 1 - Sudeste,Aglomeração Urbana de Piracicaba-AU- Piracicaba,Piracicaba / Capivari / Jundiaí
+3545209,Salto,URAE 2 - Centro,Região Metropolitana de Sorocaba,Piracicaba / Capivari / Jundiaí
+3545308,Salto de Pirapora,URAE 1 - Sudeste,Região Metropolitana de Sorocaba,Tietê / Sorocaba
+3545407,Salto Grande,URAE 2 - Centro,_Fora de RMs/AUs,Médio Paranapanema
+3545506,Sandovalina,URAE 1 - Sudeste,_Fora de RMs/AUs,Pontal do Paranapanema
+3545605,Santa Adélia,URAE 4 - Norte,_Fora de RMs/AUs,Turvo / Grande
+3545704,Santa Albertina,URAE 1 - Sudeste,_Fora de RMs/AUs,Turvo / Grande
+3545803,Santa Bárbara d'Oeste,URAE 3 - Leste,Região Metropolitana de Campinas,Piracicaba / Capivari / Jundiaí
+3546009,Santa Branca,URAE 1 - Sudeste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Paraíba do Sul
+3546108,Santa Clara d'Oeste,URAE 1 - Sudeste,_Fora de RMs/AUs,Turvo / Grande
+3546207,Santa Cruz da Conceição,URAE 4 - Norte,_Fora de RMs/AUs,Mogi-Guaçu
+3546256,Santa Cruz da Esperança,URAE 1 - Sudeste,Região Metropolitana de Ribeirão Preto,Pardo
+3546306,Santa Cruz das Palmeiras,URAE 4 - Norte,_Fora de RMs/AUs,Mogi-Guaçu
+3546405,Santa Cruz do Rio Pardo,URAE 1 - Sudeste,_Fora de RMs/AUs,Médio Paranapanema
+3546504,Santa Ernestina,URAE 1 - Sudeste,_Fora de RMs/AUs,Tietê / Batalha
+3546603,Santa Fé do Sul,URAE 4 - Norte,_Fora de RMs/AUs,São José dos Dourados
+3546702,Santa Gertrudes,URAE 2 - Centro,Aglomeração Urbana de Piracicaba-AU- Piracicaba,Piracicaba / Capivari / Jundiaí
+3546801,Santa Isabel,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Paraíba do Sul
+3546900,Santa Lúcia,URAE 4 - Norte,_Fora de RMs/AUs,Mogi-Guaçu
+3547007,Santa Maria da Serra,URAE 1 - Sudeste,Aglomeração Urbana de Piracicaba-AU- Piracicaba,Piracicaba / Capivari / Jundiaí
+3547106,Santa Mercedes,URAE 1 - Sudeste,_Fora de RMs/AUs,Aguapeí
+3547502,Santa Rita do Passa Quatro,URAE 4 - Norte,Região Metropolitana de Ribeirão Preto,Mogi-Guaçu
+3547403,Santa Rita d'Oeste,URAE 4 - Norte,_Fora de RMs/AUs,Turvo / Grande
+3547601,Santa Rosa de Viterbo,URAE 1 - Sudeste,Região Metropolitana de Ribeirão Preto,Pardo
+3547650,Santa Salete,URAE 1 - Sudeste,_Fora de RMs/AUs,São José dos Dourados
+3547205,Santana da Ponte Pensa,URAE 1 - Sudeste,_Fora de RMs/AUs,São José dos Dourados
+3547304,Santana de Parnaíba,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Alto Tietê
+3547700,Santo Anastácio,URAE 1 - Sudeste,_Fora de RMs/AUs,Pontal do Paranapanema
+3547809,Santo André,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Alto Tietê
+3547908,Santo Antônio da Alegria,URAE 4 - Norte,Região Metropolitana de Ribeirão Preto,Sapucaí / Grande
+3548005,Santo Antônio de Posse,URAE 3 - Leste,Região Metropolitana de Campinas,Piracicaba / Capivari / Jundiaí
+3548054,Santo Antônio do Aracanguá,URAE 4 - Norte,_Fora de RMs/AUs,Baixo Tietê
+3548104,Santo Antônio do Jardim,URAE 1 - Sudeste,_Fora de RMs/AUs,Mogi-Guaçu
+3548203,Santo Antônio do Pinhal,URAE 1 - Sudeste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Mantiqueira
+3548302,Santo Expedito,URAE 1 - Sudeste,_Fora de RMs/AUs,Peixe
+3548401,Santópolis do Aguapeí,URAE 1 - Sudeste,_Fora de RMs/AUs,Aguapeí
+3548500,Santos,URAE 1 - Sudeste,Região Metropolitana da Baixada Santista,Baixada Santista
+3548609,São Bento do Sapucaí,URAE 1 - Sudeste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Mantiqueira
+3548708,São Bernardo do Campo,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Alto Tietê
+3548807,São Caetano do Sul,URAE 3 - Leste,Região Metropolitana de São Paulo,Alto Tietê
+3548906,São Carlos,URAE 2 - Centro,_Fora de RMs/AUs,Tietê / Jacaré
+3549003,São Francisco,URAE 1 - Sudeste,_Fora de RMs/AUs,São José dos Dourados
+3549102,São João da Boa Vista,URAE 1 - Sudeste,_Fora de RMs/AUs,Mogi-Guaçu
+3549201,São João das Duas Pontes,URAE 1 - Sudeste,_Fora de RMs/AUs,São José dos Dourados
+3549250,São João de Iracema,URAE 4 - Norte,_Fora de RMs/AUs,São José dos Dourados
+3549300,São João do Pau d'Alho,URAE 2 - Centro,_Fora de RMs/AUs,Aguapeí
+3549409,São Joaquim da Barra,URAE 4 - Norte,Aglomeração Urbana de Franca,Sapucaí / Grande
+3549508,São José da Bela Vista,URAE 4 - Norte,Aglomeração Urbana de Franca,Sapucaí / Grande
+3549607,São José do Barreiro,URAE 3 - Leste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Paraíba do Sul
+3549706,São José do Rio Pardo,URAE 4 - Norte,_Fora de RMs/AUs,Pardo
+3549805,São José do Rio Preto,URAE 4 - Norte,_Fora de RMs/AUs,Turvo / Grande
+3549904,São José dos Campos,URAE 1 - Sudeste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Paraíba do Sul
+3549953,São Lourenço da Serra,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Ribeira de Iguape / Litoral Sul
+3550001,São Luís do Paraitinga,URAE 1 - Sudeste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Paraíba do Sul
+3550100,São Manuel,URAE 1 - Sudeste,_Fora de RMs/AUs,Tietê / Jacaré
+3550209,São Miguel Arcanjo,URAE 1 - Sudeste,Região Metropolitana de Sorocaba,Alto Paranapanema
+3550308,São Paulo,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Alto Tietê
+3550407,São Pedro,URAE 2 - Centro,Aglomeração Urbana de Piracicaba-AU- Piracicaba,Piracicaba / Capivari / Jundiaí
+3550506,São Pedro do Turvo,URAE 2 - Centro,_Fora de RMs/AUs,Médio Paranapanema
+3550605,São Roque,URAE 1 - Sudeste,Região Metropolitana de Sorocaba,Tietê / Sorocaba
+3550704,São Sebastião,URAE 1 - Sudeste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Litoral Norte
+3550803,São Sebastião da Grama,URAE 4 - Norte,_Fora de RMs/AUs,Pardo
+3550902,São Simão,URAE 4 - Norte,Região Metropolitana de Ribeirão Preto,Pardo
+3551009,São Vicente,URAE 1 - Sudeste,Região Metropolitana da Baixada Santista,Baixada Santista
+3551108,Sarapuí,URAE 1 - Sudeste,Região Metropolitana de Sorocaba,Tietê / Sorocaba
+3551207,Sarutaiá,URAE 1 - Sudeste,_Fora de RMs/AUs,Alto Paranapanema
+3551306,Sebastianópolis do Sul,URAE 1 - Sudeste,_Fora de RMs/AUs,São José dos Dourados
+3551405,Serra Azul,URAE 1 - Sudeste,Região Metropolitana de Ribeirão Preto,Pardo
+3551603,Serra Negra,URAE 1 - Sudeste,_Fora de RMs/AUs,Mogi-Guaçu
+3551504,Serrana,URAE 4 - Norte,Região Metropolitana de Ribeirão Preto,Pardo
+3551702,Sertãozinho,URAE 4 - Norte,Região Metropolitana de Ribeirão Preto,Mogi-Guaçu
+3551801,Sete Barras,URAE 1 - Sudeste,_Fora de RMs/AUs,Ribeira de Iguape / Litoral Sul
+3551900,Severínia,URAE 4 - Norte,_Fora de RMs/AUs,Turvo / Grande
+3552007,Silveiras,URAE 1 - Sudeste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Paraíba do Sul
+3552106,Socorro,URAE 4 - Norte,_Fora de RMs/AUs,Mogi-Guaçu
+3552205,Sorocaba,URAE 2 - Centro,Região Metropolitana de Sorocaba,Tietê / Sorocaba
+3552304,Sud Mennucci,URAE 1 - Sudeste,_Fora de RMs/AUs,Baixo Tietê
+3552403,Sumaré,URAE 3 - Leste,Região Metropolitana de Campinas,Piracicaba / Capivari / Jundiaí
+3552551,Suzanápolis,URAE 4 - Norte,_Fora de RMs/AUs,São José dos Dourados
+3552502,Suzano,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Alto Tietê
+3552601,Tabapuã,URAE 4 - Norte,_Fora de RMs/AUs,Turvo / Grande
+3552700,Tabatinga,URAE 2 - Centro,_Fora de RMs/AUs,Tietê / Jacaré
+3552809,Taboão da Serra,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Alto Tietê
+3552908,Taciba,URAE 1 - Sudeste,_Fora de RMs/AUs,Pontal do Paranapanema
+3553005,Taguaí,URAE 1 - Sudeste,_Fora de RMs/AUs,Alto Paranapanema
+3553104,Taiaçu,URAE 4 - Norte,_Fora de RMs/AUs,Turvo / Grande
+3553203,Taiúva,URAE 4 - Norte,Região Metropolitana de Ribeirão Preto,Turvo / Grande
+3553302,Tambaú,URAE 4 - Norte,Região Metropolitana de Ribeirão Preto,Pardo
+3553401,Tanabi,URAE 4 - Norte,_Fora de RMs/AUs,Turvo / Grande
+3553500,Tapiraí,URAE 1 - Sudeste,Região Metropolitana de Sorocaba,Ribeira de Iguape / Litoral Sul
+3553609,Tapiratiba,URAE 1 - Sudeste,_Fora de RMs/AUs,Pardo
+3553658,Taquaral,URAE 4 - Norte,Região Metropolitana de Ribeirão Preto,Mogi-Guaçu
+3553708,Taquaritinga,URAE 4 - Norte,_Fora de RMs/AUs,Tietê / Batalha
+3553807,Taquarituba,URAE 1 - Sudeste,_Fora de RMs/AUs,Alto Paranapanema
+3553856,Taquarivaí,URAE 1 - Sudeste,_Fora de RMs/AUs,Alto Paranapanema
+3553906,Tarabai,URAE 1 - Sudeste,_Fora de RMs/AUs,Pontal do Paranapanema
+3553955,Tarumã,URAE 1 - Sudeste,_Fora de RMs/AUs,Médio Paranapanema
+3554003,Tatuí,URAE 1 - Sudeste,Região Metropolitana de Sorocaba,Tietê / Sorocaba
+3554102,Taubaté,URAE 1 - Sudeste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Paraíba do Sul
+3554201,Tejupá,URAE 1 - Sudeste,_Fora de RMs/AUs,Alto Paranapanema
+3554300,Teodoro Sampaio,URAE 1 - Sudeste,_Fora de RMs/AUs,Pontal do Paranapanema
+3554409,Terra Roxa,URAE 1 - Sudeste,_Fora de RMs/AUs,Baixo Pardo / Grande
+3554508,Tietê,URAE 2 - Centro,Região Metropolitana de Sorocaba,Tietê / Sorocaba
+3554607,Timburi,URAE 1 - Sudeste,_Fora de RMs/AUs,Alto Paranapanema
+3554656,Torre de Pedra,URAE 1 - Sudeste,_Fora de RMs/AUs,Tietê / Sorocaba
+3554706,Torrinha,URAE 1 - Sudeste,_Fora de RMs/AUs,Tietê / Jacaré
+3554755,Trabiju,URAE 2 - Centro,_Fora de RMs/AUs,Tietê / Jacaré
+3554805,Tremembé,URAE 1 - Sudeste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Paraíba do Sul
+3554904,Três Fronteiras,URAE 1 - Sudeste,_Fora de RMs/AUs,São José dos Dourados
+3554953,Tuiuti,URAE 3 - Leste,_Fora de RMs/AUs,Piracicaba / Capivari / Jundiaí
+3555000,Tupã,URAE 1 - Sudeste,_Fora de RMs/AUs,Aguapeí
+3555109,Tupi Paulista,URAE 2 - Centro,_Fora de RMs/AUs,Aguapeí
+3555208,Turiúba,URAE 1 - Sudeste,_Fora de RMs/AUs,Baixo Tietê
+3555307,Turmalina,URAE 1 - Sudeste,_Fora de RMs/AUs,Turvo / Grande
+3555356,Ubarana,URAE 4 - Norte,_Fora de RMs/AUs,Baixo Tietê
+3555406,Ubatuba,URAE 1 - Sudeste,Região Metropolitana do Vale do Paraíba e Litoral Norte,Litoral Norte
+3555505,Ubirajara,URAE 1 - Sudeste,_Fora de RMs/AUs,Médio Paranapanema
+3555604,Uchoa,URAE 4 - Norte,_Fora de RMs/AUs,Turvo / Grande
+3555703,União Paulista,URAE 1 - Sudeste,_Fora de RMs/AUs,Baixo Tietê
+3555802,Urânia,URAE 1 - Sudeste,_Fora de RMs/AUs,Turvo / Grande
+3555901,Uru,URAE 1 - Sudeste,_Fora de RMs/AUs,Tietê / Batalha
+3556008,Urupês,URAE 4 - Norte,_Fora de RMs/AUs,Tietê / Batalha
+3556107,Valentim Gentil,URAE 1 - Sudeste,_Fora de RMs/AUs,Turvo / Grande
+3556206,Valinhos,URAE 3 - Leste,Região Metropolitana de Campinas,Piracicaba / Capivari / Jundiaí
+3556305,Valparaíso,URAE 4 - Norte,_Fora de RMs/AUs,Baixo Tietê
+3556354,Vargem,URAE 1 - Sudeste,_Fora de RMs/AUs,Piracicaba / Capivari / Jundiaí
+3556404,Vargem Grande do Sul,URAE 4 - Norte,_Fora de RMs/AUs,Pardo
+3556453,Vargem Grande Paulista,URAE 1 - Sudeste,Região Metropolitana de São Paulo,Tietê / Sorocaba
+3556503,Várzea Paulista,URAE 1 - Sudeste,Aglomeração Urbana de Jundiaí,Piracicaba / Capivari / Jundiaí
+3556602,Vera Cruz,URAE 2 - Centro,_Fora de RMs/AUs,Aguapeí
+3556701,Vinhedo,URAE 3 - Leste,Região Metropolitana de Campinas,Piracicaba / Capivari / Jundiaí
+3556800,Viradouro,URAE 4 - Norte,_Fora de RMs/AUs,Baixo Pardo / Grande
+3556909,Vista Alegre do Alto,URAE 4 - Norte,_Fora de RMs/AUs,Turvo / Grande
+3556958,Vitória Brasil,URAE 1 - Sudeste,_Fora de RMs/AUs,Turvo / Grande
+3557006,Votorantim,URAE 2 - Centro,Região Metropolitana de Sorocaba,Tietê / Sorocaba
+3557105,Votuporanga,URAE 4 - Norte,_Fora de RMs/AUs,Turvo / Grande
+3557154,Zacarias,URAE 1 - Sudeste,_Fora de RMs/AUs,Baixo Tietê

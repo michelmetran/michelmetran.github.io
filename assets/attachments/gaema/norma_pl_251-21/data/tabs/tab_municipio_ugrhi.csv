@@ -1,0 +1,646 @@
+id_municipio,nome_ugrhi
+3500105,Peixe
+3500204,Tietê / Batalha
+3500303,Mogi-Guaçu
+3500402,Mogi-Guaçu
+3500501,Mogi-Guaçu
+3500550,Médio Paranapanema
+3500600,Piracicaba / Capivari / Jundiaí
+3500709,Tietê / Jacaré
+3500758,Tietê / Sorocaba
+3500808,Peixe
+3500907,Baixo Pardo / Grande
+3501004,Pardo
+3501103,Baixo Tietê
+3501152,Tietê / Sorocaba
+3501202,Turvo / Grande
+3501301,Peixe
+3501400,Aguapeí
+3501509,Médio Paranapanema
+3501608,Piracicaba / Capivari / Jundiaí
+3501707,Mogi-Guaçu
+3501806,Turvo / Grande
+3501905,Piracicaba / Capivari / Jundiaí
+3502002,Piracicaba / Capivari / Jundiaí
+3502101,Baixo Tietê
+3502200,Alto Paranapanema
+3502309,Tietê / Sorocaba
+3502408,Pontal do Paranapanema
+3502507,Paraíba do Sul
+3502606,São José dos Dourados
+3502705,Ribeira de Iguape / Litoral Sul
+3502754,Tietê / Sorocaba
+3502804,Baixo Tietê
+3502903,Tietê / Sorocaba
+3503000,Sapucaí / Grande
+3503109,Alto Paranapanema
+3503158,Paraíba do Sul
+3503208,Tietê / Jacaré
+3503307,Mogi-Guaçu
+3503356,Aguapeí
+3503406,Tietê / Jacaré
+3503505,Paraíba do Sul
+3503604,Tietê / Jacaré
+3503703,Turvo / Grande
+3503802,Piracicaba / Capivari / Jundiaí
+3503901,Alto Tietê
+3503950,Turvo / Grande
+3504008,Médio Paranapanema
+3504107,Piracicaba / Capivari / Jundiaí
+3504206,São José dos Dourados
+3504305,Tietê / Batalha
+3504404,Baixo Tietê
+3504503,Médio Paranapanema
+3504602,Tietê / Batalha
+3504701,Tietê / Batalha
+3504800,Turvo / Grande
+3504909,Paraíba do Sul
+3505005,Alto Paranapanema
+3505104,Baixo Tietê
+3505203,Tietê / Jacaré
+3505302,Tietê / Jacaré
+3505351,Ribeira de Iguape / Litoral Sul
+3505401,Ribeira de Iguape / Litoral Sul
+3505500,Baixo Pardo / Grande
+3505609,Mogi-Guaçu
+3505708,Alto Tietê
+3505807,Peixe
+3505906,Sapucaí / Grande
+3506003,Tietê / Jacaré
+3506102,Baixo Pardo / Grande
+3506201,Baixo Tietê
+3506300,Alto Paranapanema
+3506359,Baixada Santista
+3506409,Baixo Tietê
+3506508,Baixo Tietê
+3506607,Alto Tietê
+3506706,Tietê / Jacaré
+3506805,Tietê / Jacaré
+3506904,Tietê / Sorocaba
+3507001,Tietê / Sorocaba
+3507100,Piracicaba / Capivari / Jundiaí
+3507159,Alto Paranapanema
+3507209,Peixe
+3507308,Tietê / Jacaré
+3507407,Tietê / Batalha
+3507456,Tietê / Jacaré
+3507506,Tietê / Sorocaba
+3507605,Piracicaba / Capivari / Jundiaí
+3507704,Baixo Tietê
+3507753,Baixo Tietê
+3507803,Pardo
+3507902,Tietê / Jacaré
+3508009,Alto Paranapanema
+3508108,Baixo Tietê
+3508207,Sapucaí / Grande
+3508306,Médio Paranapanema
+3508405,Tietê / Sorocaba
+3508504,Paraíba do Sul
+3508603,Paraíba do Sul
+3508702,Pardo
+3508801,Tietê / Batalha
+3508900,Peixe
+3509007,Alto Tietê
+3509106,Pontal do Paranapanema
+3509205,Alto Tietê
+3509254,Ribeira de Iguape / Litoral Sul
+3509304,Turvo / Grande
+3509403,Pardo
+3509452,Alto Paranapanema
+3509502,Piracicaba / Capivari / Jundiaí
+3509601,Piracicaba / Capivari / Jundiaí
+3509700,Mantiqueira
+3509809,Médio Paranapanema
+3509908,Ribeira de Iguape / Litoral Sul
+3509957,Paraíba do Sul
+3510005,Médio Paranapanema
+3510104,Turvo / Grande
+3510153,Médio Paranapanema
+3510203,Alto Paranapanema
+3510302,Tietê / Sorocaba
+3510401,Piracicaba / Capivari / Jundiaí
+3510500,Litoral Norte
+3510609,Alto Tietê
+3510708,Turvo / Grande
+3510807,Pardo
+3510906,Pardo
+3511003,Baixo Tietê
+3511102,Turvo / Grande
+3511201,Turvo / Grande
+3511300,Turvo / Grande
+3511409,Médio Paranapanema
+3511508,Tietê / Sorocaba
+3511607,Tietê / Sorocaba
+3511706,Piracicaba / Capivari / Jundiaí
+3557204,Médio Paranapanema
+3511904,Aguapeí
+3512001,Baixo Pardo / Grande
+3512100,Baixo Pardo / Grande
+3512209,Mogi-Guaçu
+3512308,Tietê / Sorocaba
+3512407,Piracicaba / Capivari / Jundiaí
+3512506,Baixo Tietê
+3512605,Alto Paranapanema
+3512704,Piracicaba / Capivari / Jundiaí
+3512803,Piracicaba / Capivari / Jundiaí
+3512902,Turvo / Grande
+3513009,Alto Tietê
+3513108,Pardo
+3513207,Sapucaí / Grande
+3513306,Médio Paranapanema
+3513405,Paraíba do Sul
+3513504,Baixada Santista
+3513603,Paraíba do Sul
+3513702,Mogi-Guaçu
+3513801,Alto Tietê
+3513850,São José dos Dourados
+3513900,Pardo
+3514007,Tietê / Batalha
+3514106,Tietê / Jacaré
+3514205,Turvo / Grande
+3514304,Tietê / Jacaré
+3514403,Aguapeí
+3514502,Médio Paranapanema
+3514601,Mogi-Guaçu
+3514700,Médio Paranapanema
+3514809,Ribeira de Iguape / Litoral Sul
+3514908,Piracicaba / Capivari / Jundiaí
+3514924,Tietê / Batalha
+3514957,Turvo / Grande
+3515004,Alto Tietê
+3515103,Alto Tietê
+3515129,Peixe
+3515152,Mogi-Guaçu
+3515186,Mogi-Guaçu
+3515194,Médio Paranapanema
+3557303,Mogi-Guaçu
+3515301,Pontal do Paranapanema
+3515202,Turvo / Grande
+3515350,Pontal do Paranapanema
+3515400,Alto Paranapanema
+3515608,Turvo / Grande
+3515509,Turvo / Grande
+3515657,Médio Paranapanema
+3515707,Alto Tietê
+3515806,Peixe
+3515905,São José dos Dourados
+3516002,Peixe
+3516101,Médio Paranapanema
+3516200,Sapucaí / Grande
+3516309,Alto Tietê
+3516408,Alto Tietê
+3516507,Aguapeí
+3516606,Médio Paranapanema
+3516705,Aguapeí
+3516804,Baixo Tietê
+3516853,Tietê / Jacaré
+3516903,São José dos Dourados
+3517000,Aguapeí
+3517109,Baixo Tietê
+3517208,Tietê / Batalha
+3517307,Aguapeí
+3517406,Sapucaí / Grande
+3517505,Turvo / Grande
+3517604,Alto Paranapanema
+3517703,Sapucaí / Grande
+3517802,Baixo Tietê
+3517901,Baixo Pardo / Grande
+3518008,Turvo / Grande
+3518107,Tietê / Batalha
+3518206,Baixo Tietê
+3518305,Paraíba do Sul
+3518404,Paraíba do Sul
+3518503,Alto Paranapanema
+3518602,Mogi-Guaçu
+3518701,Baixada Santista
+3518800,Alto Tietê
+3518859,Mogi-Guaçu
+3518909,São José dos Dourados
+3519006,Aguapeí
+3519055,Piracicaba / Capivari / Jundiaí
+3519071,Piracicaba / Capivari / Jundiaí
+3519105,Tietê / Jacaré
+3519204,Aguapeí
+3519253,Médio Paranapanema
+3519303,Tietê / Jacaré
+3519402,Tietê / Batalha
+3519501,Médio Paranapanema
+3519600,Tietê / Jacaré
+3519709,Tietê / Sorocaba
+3519808,Baixo Pardo / Grande
+3519907,Pontal do Paranapanema
+3520004,Tietê / Jacaré
+3520103,Sapucaí / Grande
+3520202,Paraíba do Sul
+3520301,Ribeira de Iguape / Litoral Sul
+3520426,Ribeira de Iguape / Litoral Sul
+3520442,São José dos Dourados
+3520400,Litoral Norte
+3520509,Piracicaba / Capivari / Jundiaí
+3520608,Peixe
+3520707,Turvo / Grande
+3520806,Peixe
+3520905,Alto Paranapanema
+3521002,Tietê / Sorocaba
+3521101,Piracicaba / Capivari / Jundiaí
+3521150,Turvo / Grande
+3521200,Ribeira de Iguape / Litoral Sul
+3521309,Sapucaí / Grande
+3521408,Piracicaba / Capivari / Jundiaí
+3521507,Tietê / Batalha
+3521606,Peixe
+3521705,Alto Paranapanema
+3521804,Alto Paranapanema
+3521903,Tietê / Batalha
+3522000,Tietê / Jacaré
+3522109,Baixada Santista
+3522158,Ribeira de Iguape / Litoral Sul
+3522208,Alto Tietê
+3522307,Alto Paranapanema
+3522406,Alto Paranapanema
+3522505,Alto Tietê
+3522604,Mogi-Guaçu
+3522653,Ribeira de Iguape / Litoral Sul
+3522703,Tietê / Batalha
+3522802,Alto Paranapanema
+3522901,Tietê / Jacaré
+3523008,Baixo Tietê
+3523107,Alto Tietê
+3523206,Alto Paranapanema
+3523305,Ribeira de Iguape / Litoral Sul
+3523404,Piracicaba / Capivari / Jundiaí
+3523503,Médio Paranapanema
+3523602,Tietê / Jacaré
+3523701,Sapucaí / Grande
+3523800,Pardo
+3523909,Tietê / Sorocaba
+3524006,Piracicaba / Capivari / Jundiaí
+3524105,Sapucaí / Grande
+3524204,Baixo Pardo / Grande
+3524303,Mogi-Guaçu
+3524402,Paraíba do Sul
+3524501,Tietê / Batalha
+3524600,Ribeira de Iguape / Litoral Sul
+3524709,Piracicaba / Capivari / Jundiaí
+3524808,São José dos Dourados
+3524907,Paraíba do Sul
+3525003,Alto Tietê
+3525102,Pardo
+3525201,Piracicaba / Capivari / Jundiaí
+3525300,Tietê / Jacaré
+3525409,Sapucaí / Grande
+3525508,Piracicaba / Capivari / Jundiaí
+3525607,Médio Paranapanema
+3525706,Baixo Tietê
+3525805,Aguapeí
+3525854,Tietê / Sorocaba
+3525904,Piracicaba / Capivari / Jundiaí
+3526001,Peixe
+3526100,Ribeira de Iguape / Litoral Sul
+3526209,Ribeira de Iguape / Litoral Sul
+3526308,Paraíba do Sul
+3526407,Tietê / Sorocaba
+3526506,Baixo Tietê
+3526605,Paraíba do Sul
+3526704,Mogi-Guaçu
+3526803,Tietê / Jacaré
+3526902,Piracicaba / Capivari / Jundiaí
+3527009,Mogi-Guaçu
+3527108,Tietê / Batalha
+3527207,Paraíba do Sul
+3527256,Baixo Tietê
+3527306,Piracicaba / Capivari / Jundiaí
+3527405,Aguapeí
+3527504,Médio Paranapanema
+3527603,Mogi-Guaçu
+3527702,Aguapeí
+3527801,Médio Paranapanema
+3527900,Peixe
+3528007,Tietê / Jacaré
+3528106,Baixo Tietê
+3528205,Turvo / Grande
+3528304,Baixo Tietê
+3528403,Tietê / Sorocaba
+3528502,Alto Tietê
+3528601,Alto Paranapanema
+3528700,Pontal do Paranapanema
+3528809,Médio Paranapanema
+3528858,Tietê / Batalha
+3528908,Peixe
+3529005,Peixe
+3529104,São José dos Dourados
+3529203,Peixe
+3529302,Tietê / Batalha
+3529401,Alto Tietê
+3529500,Tietê / Batalha
+3529609,Turvo / Grande
+3529658,Turvo / Grande
+3529708,Sapucaí / Grande
+3529807,Tietê / Jacaré
+3530003,Turvo / Grande
+3529906,Ribeira de Iguape / Litoral Sul
+3530102,Baixo Tietê
+3530201,Pontal do Paranapanema
+3530300,Turvo / Grande
+3530409,Turvo / Grande
+3530508,Pardo
+3530706,Mogi-Guaçu
+3530607,Alto Tietê
+3530805,Mogi-Guaçu
+3530904,Piracicaba / Capivari / Jundiaí
+3531001,Baixo Tietê
+3531100,Baixada Santista
+3531209,Piracicaba / Capivari / Jundiaí
+3531308,Turvo / Grande
+3531407,São José dos Dourados
+3531506,Turvo / Grande
+3531605,Aguapeí
+3531803,Piracicaba / Capivari / Jundiaí
+3531704,Paraíba do Sul
+3531902,Baixo Pardo / Grande
+3532009,Piracicaba / Capivari / Jundiaí
+3532058,Mogi-Guaçu
+3532108,Baixo Tietê
+3532157,Pontal do Paranapanema
+3532207,Pontal do Paranapanema
+3532306,Paraíba do Sul
+3532405,Piracicaba / Capivari / Jundiaí
+3532504,São José dos Dourados
+3532603,São José dos Dourados
+3532702,Baixo Tietê
+3532801,Tietê / Batalha
+3532827,Alto Paranapanema
+3532843,São José dos Dourados
+3532868,Baixo Tietê
+3532900,Tietê / Jacaré
+3533007,Turvo / Grande
+3533106,Aguapeí
+3533205,Aguapeí
+3533304,Baixo Tietê
+3533403,Piracicaba / Capivari / Jundiaí
+3533254,Turvo / Grande
+3533502,Tietê / Batalha
+3533601,Sapucaí / Grande
+3533700,Médio Paranapanema
+3533809,Médio Paranapanema
+3533908,Turvo / Grande
+3534005,Turvo / Grande
+3534104,Peixe
+3534203,Turvo / Grande
+3534302,Baixo Pardo / Grande
+3534401,Alto Tietê
+3534500,Peixe
+3534609,Peixe
+3534708,Médio Paranapanema
+3534807,Peixe
+3534757,Turvo / Grande
+3534906,Aguapeí
+3535002,Turvo / Grande
+3535101,Turvo / Grande
+3535200,São José dos Dourados
+3535309,Médio Paranapanema
+3535408,Aguapeí
+3535507,Médio Paranapanema
+3535606,Paraíba do Sul
+3535705,Turvo / Grande
+3535804,Alto Paranapanema
+3535903,Turvo / Grande
+3536000,Aguapeí
+3536109,Médio Paranapanema
+3536208,Ribeira de Iguape / Litoral Sul
+3536257,Turvo / Grande
+3536307,Sapucaí / Grande
+3536406,Aguapeí
+3536505,Piracicaba / Capivari / Jundiaí
+3536570,Médio Paranapanema
+3536604,Turvo / Grande
+3536703,Tietê / Jacaré
+3536802,Piracicaba / Capivari / Jundiaí
+3536901,Turvo / Grande
+3537008,Sapucaí / Grande
+3537107,Piracicaba / Capivari / Jundiaí
+3537156,Médio Paranapanema
+3537206,Ribeira de Iguape / Litoral Sul
+3537305,Baixo Tietê
+3537404,Baixo Tietê
+3537503,Tietê / Sorocaba
+3537602,Baixada Santista
+3537701,Aguapeí
+3537800,Tietê / Sorocaba
+3537909,Alto Paranapanema
+3538006,Paraíba do Sul
+3538105,Turvo / Grande
+3538204,Piracicaba / Capivari / Jundiaí
+3538303,Peixe
+3538501,Paraíba do Sul
+3538600,Piracicaba / Capivari / Jundiaí
+3538709,Piracicaba / Capivari / Jundiaí
+3538808,Alto Paranapanema
+3538907,Tietê / Batalha
+3539004,Turvo / Grande
+3539103,Alto Tietê
+3539202,Pontal do Paranapanema
+3539301,Mogi-Guaçu
+3539400,Tietê / Batalha
+3539509,Mogi-Guaçu
+3539608,Baixo Tietê
+3539707,Médio Paranapanema
+3539806,Alto Tietê
+3539905,Baixo Tietê
+3540002,Aguapeí
+3540101,Tietê / Batalha
+3540200,Mogi-Guaçu
+3540259,São José dos Dourados
+3540309,Turvo / Grande
+3540408,Turvo / Grande
+3540507,Tietê / Sorocaba
+3540606,Tietê / Sorocaba
+3540705,Mogi-Guaçu
+3540754,Paraíba do Sul
+3540804,Tietê / Batalha
+3540853,Peixe
+3540903,Mogi-Guaçu
+3541000,Baixada Santista
+3541059,Médio Paranapanema
+3541109,Tietê / Batalha
+3541208,Pontal do Paranapanema
+3541307,Pontal do Paranapanema
+3541406,Pontal do Paranapanema
+3541505,Pontal do Paranapanema
+3541604,Baixo Tietê
+3541653,Tietê / Sorocaba
+3541703,Médio Paranapanema
+3541802,Aguapeí
+3541901,Paraíba do Sul
+3542008,Aguapeí
+3542107,Piracicaba / Capivari / Jundiaí
+3542206,Médio Paranapanema
+3542305,Paraíba do Sul
+3542404,Pontal do Paranapanema
+3542503,Tietê / Batalha
+3542602,Ribeira de Iguape / Litoral Sul
+3542701,Sapucaí / Grande
+3542800,Ribeira de Iguape / Litoral Sul
+3542909,Tietê / Jacaré
+3543006,Alto Paranapanema
+3543105,Sapucaí / Grande
+3543204,Médio Paranapanema
+3543238,Peixe
+3543253,Alto Paranapanema
+3543303,Alto Tietê
+3543402,Pardo
+3543600,Sapucaí / Grande
+3543709,Mogi-Guaçu
+3543808,Aguapeí
+3543907,Piracicaba / Capivari / Jundiaí
+3544004,Piracicaba / Capivari / Jundiaí
+3544103,Alto Tietê
+3544202,Turvo / Grande
+3543501,Alto Paranapanema
+3544251,Pontal do Paranapanema
+3544301,Paraíba do Sul
+3544400,Baixo Tietê
+3544509,São José dos Dourados
+3544608,Tietê / Batalha
+3544707,Peixe
+3544806,Tietê / Batalha
+3544905,Pardo
+3545001,Alto Tietê
+3545100,Aguapeí
+3545159,Piracicaba / Capivari / Jundiaí
+3545209,Piracicaba / Capivari / Jundiaí
+3545308,Tietê / Sorocaba
+3545407,Médio Paranapanema
+3545506,Pontal do Paranapanema
+3545605,Turvo / Grande
+3545704,Turvo / Grande
+3545803,Piracicaba / Capivari / Jundiaí
+3546009,Paraíba do Sul
+3546108,Turvo / Grande
+3546207,Mogi-Guaçu
+3546256,Pardo
+3546306,Mogi-Guaçu
+3546405,Médio Paranapanema
+3546504,Tietê / Batalha
+3546603,São José dos Dourados
+3546702,Piracicaba / Capivari / Jundiaí
+3546801,Paraíba do Sul
+3546900,Mogi-Guaçu
+3547007,Piracicaba / Capivari / Jundiaí
+3547106,Aguapeí
+3547502,Mogi-Guaçu
+3547403,Turvo / Grande
+3547601,Pardo
+3547650,São José dos Dourados
+3547205,São José dos Dourados
+3547304,Alto Tietê
+3547700,Pontal do Paranapanema
+3547809,Alto Tietê
+3547908,Sapucaí / Grande
+3548005,Piracicaba / Capivari / Jundiaí
+3548054,Baixo Tietê
+3548104,Mogi-Guaçu
+3548203,Mantiqueira
+3548302,Peixe
+3548401,Aguapeí
+3548500,Baixada Santista
+3548609,Mantiqueira
+3548708,Alto Tietê
+3548807,Alto Tietê
+3548906,Tietê / Jacaré
+3549003,São José dos Dourados
+3549102,Mogi-Guaçu
+3549201,São José dos Dourados
+3549250,São José dos Dourados
+3549300,Aguapeí
+3549409,Sapucaí / Grande
+3549508,Sapucaí / Grande
+3549607,Paraíba do Sul
+3549706,Pardo
+3549805,Turvo / Grande
+3549904,Paraíba do Sul
+3549953,Ribeira de Iguape / Litoral Sul
+3550001,Paraíba do Sul
+3550100,Tietê / Jacaré
+3550209,Alto Paranapanema
+3550308,Alto Tietê
+3550407,Piracicaba / Capivari / Jundiaí
+3550506,Médio Paranapanema
+3550605,Tietê / Sorocaba
+3550704,Litoral Norte
+3550803,Pardo
+3550902,Pardo
+3551009,Baixada Santista
+3551108,Tietê / Sorocaba
+3551207,Alto Paranapanema
+3551306,São José dos Dourados
+3551405,Pardo
+3551603,Mogi-Guaçu
+3551504,Pardo
+3551702,Mogi-Guaçu
+3551801,Ribeira de Iguape / Litoral Sul
+3551900,Turvo / Grande
+3552007,Paraíba do Sul
+3552106,Mogi-Guaçu
+3552205,Tietê / Sorocaba
+3552304,Baixo Tietê
+3552403,Piracicaba / Capivari / Jundiaí
+3552551,São José dos Dourados
+3552502,Alto Tietê
+3552601,Turvo / Grande
+3552700,Tietê / Jacaré
+3552809,Alto Tietê
+3552908,Pontal do Paranapanema
+3553005,Alto Paranapanema
+3553104,Turvo / Grande
+3553203,Turvo / Grande
+3553302,Pardo
+3553401,Turvo / Grande
+3553500,Ribeira de Iguape / Litoral Sul
+3553609,Pardo
+3553658,Mogi-Guaçu
+3553708,Tietê / Batalha
+3553807,Alto Paranapanema
+3553856,Alto Paranapanema
+3553906,Pontal do Paranapanema
+3553955,Médio Paranapanema
+3554003,Tietê / Sorocaba
+3554102,Paraíba do Sul
+3554201,Alto Paranapanema
+3554300,Pontal do Paranapanema
+3554409,Baixo Pardo / Grande
+3554508,Tietê / Sorocaba
+3554607,Alto Paranapanema
+3554656,Tietê / Sorocaba
+3554706,Tietê / Jacaré
+3554755,Tietê / Jacaré
+3554805,Paraíba do Sul
+3554904,São José dos Dourados
+3554953,Piracicaba / Capivari / Jundiaí
+3555000,Aguapeí
+3555109,Aguapeí
+3555208,Baixo Tietê
+3555307,Turvo / Grande
+3555356,Baixo Tietê
+3555406,Litoral Norte
+3555505,Médio Paranapanema
+3555604,Turvo / Grande
+3555703,Baixo Tietê
+3555802,Turvo / Grande
+3555901,Tietê / Batalha
+3556008,Tietê / Batalha
+3556107,Turvo / Grande
+3556206,Piracicaba / Capivari / Jundiaí
+3556305,Baixo Tietê
+3556354,Piracicaba / Capivari / Jundiaí
+3556404,Pardo
+3556453,Tietê / Sorocaba
+3556503,Piracicaba / Capivari / Jundiaí
+3556602,Aguapeí
+3556701,Piracicaba / Capivari / Jundiaí
+3556800,Baixo Pardo / Grande
+3556909,Turvo / Grande
+3556958,Turvo / Grande
+3557006,Tietê / Sorocaba
+3557105,Turvo / Grande
+3557154,Baixo Tietê

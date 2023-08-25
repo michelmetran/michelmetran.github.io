@@ -1,6 +1,6 @@
 ---
 title: '<i>Posts</i> por Ano'
-permalink: /posts-year/
+permalink: /posts/year/
 layout: posts
 author_profile: false
 sidebar:

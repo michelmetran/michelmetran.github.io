@@ -1,7 +1,7 @@
 ---
 title: <i>Posts</i> da categoria "minimal-mistakes"
 layout: category
-permalink: /category/minimal-mistakes/
+permalink: /posts/category/minimal-mistakes/
 taxonomy: Minimal Mistakes
 author_profile: false
 sidebar:

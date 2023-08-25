@@ -1,7 +1,7 @@
 ---
 title: <i>Posts</i> da categoria "gaema"
 layout: category
-permalink: /category/gaema/
+permalink: /posts/category/gaema/
 taxonomy: GAEMA
 author_profile: false
 sidebar:

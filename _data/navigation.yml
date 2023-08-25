@@ -34,29 +34,29 @@ posts_nav:
       - title: "por Categoria"
         url: /categories/
       - title: "por <i>tags</i>"
-        url: /tags/
+        url: /posts/tags/
       - title: "por ano"
-        url: /posts-year/
+        url: /posts/year/
       - title: "por <i>array</i>"
-        url: /tags-array/
+        url: /posts/tags/array/
 
   - title: "Por Categorias"
     # url: /parent-2-page-url/
     children:
       - title: "Open Geodata"
-        url: /category/open-geodata/
+        url: /posts/category/open-geodata/
 
       - title: "Divisões Administrativas"
-        url: /category/div-admin/
+        url: /posts/category/div-admin/
 
       - title: "GAEMA"
-        url: /category/gaema/
+        url: /posts/category/gaema/
 
       - title: "Minimal Mistakes"
-        url: /category/minimal-mistakes/
+        url: /posts/category/minimal-mistakes/
 
   - title: "Por <i>tags</i>"
     # url: /parent-2-page-url/
     children:
       - title: "Minimal Mistakes"
-        url: /tags/minimal-mistakes/
+        url: /posts/tags/minimal-mistakes/

@@ -1,7 +1,7 @@
 ---
 title: <i>Posts</i> da categoria "open-geodata"
 layout: category
-permalink: /category/open-geodata/
+permalink: /posts/category/open-geodata/
 taxonomy: Open Geodata
 author_profile: false
 sidebar:

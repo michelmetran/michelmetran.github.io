@@ -1,7 +1,7 @@
 ---
 title: <i>Posts</i> por Array
 layout: archive
-permalink: /tags-array/
+permalink: /posts/tags/array/
 author_profile: false
 sidebar:
   nav: posts_nav

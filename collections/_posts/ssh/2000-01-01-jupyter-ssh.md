@@ -1,12 +1,23 @@
 ---
-title: 'Jupyter over SSH'
-excerpt_separator: '<!--more-->'
-tags: [python, pycharm, jupyter, package, pandas]
+title: "Jupyter over SSH"
+date: 2023-05-04T00:00:00-03:00
+last_modified_at: 2023-05-04T00:00:00-03:00
+
+excerpt_separator: "<!--more-->"
+categories:
+  - IT
+
+tags:
+  - python
+  - pycharm
+  - jupyter
+  - package
+  - pandas
 ---
 
 Imaginemos a situação: meu PC tem um sistema operacional Ubuntu, no qual uso o arquivos do Jupyter Notebook (\*_.ipynb_) sem qualquer problema de compatibilidade, correto?! A resposta que dou atualmente seria: quase!
 
-Explico: migrei para o Ubuntu após passar nervoso com o Windows e suas diversas complicações e ajustes necessários para fazer coisas simples usando o _python_. No Ubuntu superei muitos entraves que tive no início do aprendizado dessa linguagem de programação. Contudo, ainda assim, existem algumas bibliotecas do *python* que só funcionam do Windows, por fazerem a integração com softwares restritos ao Sistema Operacional do Bill Gates.
+Explico: migrei para o Ubuntu após passar nervoso com o Windows e suas diversas complicações e ajustes necessários para fazer coisas simples usando o _python_. No Ubuntu superei muitos entraves que tive no início do aprendizado dessa linguagem de programação. Contudo, ainda assim, existem algumas bibliotecas do _python_ que só funcionam do Windows, por fazerem a integração com softwares restritos ao Sistema Operacional do Bill Gates.
 
 Cito dois deles: ArcGIS e MetaTrader. O primeiro deles é um _software_ nativo para Windows, para trabalhar com geoprocessamento, e que tem uma biblioteca ArcPy. Em segundo lugar, a plataforma MetaTrader, que faz a negociação de ativos na bosla de valores e também conta com uma biblioteca de integração para python. Ambos só funcionam no Windows (ainda que existam gambiarras para sua instalação no Linux).
 
@@ -14,7 +25,7 @@ Portanto, busquei alternativas para conseguir, a partir do meu Ubuntu, rodar ess
 
 <br>
 
-----
+---
 
 ## Protocolo SSH
 
@@ -69,8 +80,7 @@ PS: Abri o Firewall
 
 <br>
 
-
-------
+---
 
 ## Alternativa 2: Acessando Windows na Rede Local
 

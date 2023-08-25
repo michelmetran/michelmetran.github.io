@@ -3,7 +3,15 @@ title: 'Oracle Linux'
 date: 2023-05-21T15:00:00-03:00
 last_modified_at: 2023-05-21T15:00:00-03:00
 excerpt_separator: '<!--more-->'
-tags: [python, pycharm, jupyter, package, pandas]
+categories:
+  - IT
+
+tags:
+  - python
+  - pycharm
+  - jupyter
+  - package
+  - pandas
 ---
 
 Em 20.05.2023 criei instâncias na oracle Cloud, gratuitamente. Uma das instâncias que criei utiliza como Sistema Operacional o [Oracle Linux](https://www.oracle.com/linux/).

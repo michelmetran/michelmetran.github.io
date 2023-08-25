@@ -1,19 +1,15 @@
 ---
-title: 'PostGreSQL'
+title: "PostGreSQL"
 date: 2019-06-13T15:34:30-04:00
 last_modified_at: 2021-07-09T16:20:02-05:00
-excerpt_separator: '<!--more-->'
-categories: [database]
-tags: [database, postgre, sql]
-#layout: post
-#title: Jupyter Notebook
-#subtitle: Exercícios e Referências
-#tags: [python, pycharm, jupyter, package]
-#image: /img/posts/jupyter_icon.png
-#bigimg: /img/posts/jupyter_big.png
-#gh-repo: michelmetran/package_jupyter
-#gh-badge: [follow, star, watch, fork]
-#comments: true
+excerpt_separator: "<!--more-->"
+categories:
+   -IT
+  - Database
+tags:
+  - database
+  - postgre
+  - sql
 ---
 
 O [**PostgreSQL**](https://www.postgresql.org/) é o banco de dados tenho mais interesse em aprender devido a extensão [_PostGIS_ (Spatial and Geographic Objects for PostgreSQL)](https://postgis.net/) empregada em análises com dados espaciais.
@@ -381,9 +377,6 @@ Arquivo responsável pelo controle de autenticação dos usuários no servidor _
 ## _pg_ident.conf_
 
 Arquivo responsável por mapear os usuários do sistema operacional com os usuários do bando de dados. Localizado no diretório de dados PGDATA de sua instalação. A opção _ident_ deve ser utilizada no arquivo _pg_hba.conf_.
-
-
-
 
 # Interface Gráfica
 

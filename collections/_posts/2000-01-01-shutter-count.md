@@ -4,9 +4,10 @@ date: 2019-04-18T15:00:00-03:00
 last_modified_at: 2021-09-23T16:00:00-03:00
 excerpt_separator: '<!--more-->'
 categories:
-  - Blog
+  - IT
+  - Hacks
 tags:
-  - Post Formats
+  - post formats
   - readability
   - standard
 #categories: [Blog]

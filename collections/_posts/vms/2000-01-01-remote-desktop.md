@@ -1,7 +1,18 @@
 ---
-title: 'Remote Desktop'
-excerpt_separator: '<!--more-->'
-tags: [python, pycharm, jupyter, package, pandas]
+title: "Remote Desktop"
+date: 2023-05-04T00:00:00-03:00
+last_modified_at: 2023-05-04T00:00:00-03:00
+
+excerpt_separator: "<!--more-->"
+categories:
+  - IT
+
+tags:
+  - python
+  - pycharm
+  - jupyter
+  - package
+  - pandas
 ---
 
 ### _Ubuntu_ para _Windows_

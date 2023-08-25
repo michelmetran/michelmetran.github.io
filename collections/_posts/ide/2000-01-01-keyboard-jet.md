@@ -1,6 +1,15 @@
 ---
-title: 'JetBrains e o teclado'
-tags: [pycharm, ide]
+title: "JetBrains e o teclado"
+date: 2023-05-04T00:00:00-03:00
+last_modified_at: 2023-05-04T00:00:00-03:00
+
+categories:
+  - IT
+
+tags:
+  - python
+  - pycharm
+  - ide
 ---
 
 Após algum tempo, vi que o PyCharm, o Rider e todas as IDEs da JetBrain começavam a apresentar _bugs_ estranhos relacionados ao teclado.

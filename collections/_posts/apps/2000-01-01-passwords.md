@@ -3,7 +3,11 @@ title: 'Passwords'
 date: 2023-02-28T15:34:30-04:00
 last_modified_at: 2023-02-28T15:34:30-04:00
 excerpt_separator: '<!--more-->'
-categories: [apps]
+categories:
+  - IT
+tags:
+  - aplicativos
+
 ---
 
 Gerenciadores de senha

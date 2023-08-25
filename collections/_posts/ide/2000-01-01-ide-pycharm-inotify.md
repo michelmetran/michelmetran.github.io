@@ -1,7 +1,17 @@
 ---
 title: 'JetBrains e o inotify'
+date: 2023-05-04T00:00:00-03:00
+last_modified_at: 2023-05-04T00:00:00-03:00
 excerpt_separator: '<!--more-->'
-tags: [python, pycharm, jupyter, package, pandas]
+categories:
+  - IT
+
+tags:
+  - python
+  - pycharm
+  - jupyter
+  - package
+
 ---
 
 Usando o IDE PyCharm no Ubuntu, passei a receber uma mensagem do _inotify_ e busquei corrigir o problema. Encontrei a seguinte solução: [How to fix these warnings "External file changes sync may be slow" and "The current inotify(7) watch limit is too low" in IntelliJ Project in Ubuntu](https://stackoverflow.com/questions/67927480/how-to-fix-these-warnings-external-file-changes-sync-may-be-slow-and-the-curr).

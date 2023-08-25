@@ -1,7 +1,18 @@
 ---
-title: 'Virtual Box: Mount'
-excerpt_separator: '<!--more-->'
-tags: [python, pycharm, jupyter, package, pandas]
+title: "Virtual Box: Mount"
+date: 2023-05-04T00:00:00-03:00
+last_modified_at: 2023-05-04T00:00:00-03:00
+
+excerpt_separator: "<!--more-->"
+categories:
+  - IT
+
+tags:
+  - python
+  - pycharm
+  - jupyter
+  - package
+  - pandas
 ---
 
 ## Compartilhando entre _host_ e _guest_

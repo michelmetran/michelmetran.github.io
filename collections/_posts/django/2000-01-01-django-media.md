@@ -1,7 +1,19 @@
 ---
 title: "Django: *media*"
+date: 2023-05-04T00:00:00-03:00
+last_modified_at: 2023-05-04T00:00:00-03:00
+
 excerpt_separator: "<!--more-->"
-tags: [python, pycharm, jupyter, package, pandas]
+categories:
+  - IT
+  - Front-end
+tags:
+  - python,
+  - pycharm
+  - jupyter
+  - package
+  - pandas
+
 ---
 
 Para adicionar imagens ou médias, é necessário criar uma pasta `media` na raiz do projeto.

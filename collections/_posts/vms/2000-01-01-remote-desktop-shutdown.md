@@ -2,7 +2,14 @@
 title: 'Remote Desktop: Windows'
 date: 2023-02-02T14:34:30-03:00
 last_modified_at: 2023-02-02T14:34:30-03:00
-tags: [vms, remote desktop, WOL]
+categories:
+  - IT
+  - Hacks
+
+tags:
+  - vms
+  - remote desktop
+  - WOL
 ---
 
 Uma vez utilizando *desktops* remotos (que tenham sistema operacional Windows), me deparei com um problema: por esquecimento, solicitava o desligamento da máquina e perdia acesso.

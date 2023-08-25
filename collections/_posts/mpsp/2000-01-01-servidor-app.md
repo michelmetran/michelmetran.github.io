@@ -3,7 +3,10 @@ title: 'Servidor de Aplicação'
 excerpt_separator: '<!--more-->'
 date: 2023-04-26T00:00:00-03:00
 last_modified_at: 2023-04-26T00:00:00-03:00
-tags: [ssh]
+categories:
+  - Hacks
+tags:
+  - ssh
 ---
 
 Um servidor de aplicação é um software que fornece um ambiente de execução para aplicativos de negócios baseados em servidor. Ele é responsável por gerenciar e disponibilizar recursos para as aplicações, como memória, processamento e conexões de rede. O servidor de aplicação também gerencia a comunicação entre as aplicações e outras partes do sistema, como bancos de dados e servidores de arquivos.

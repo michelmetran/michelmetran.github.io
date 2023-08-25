@@ -1,6 +1,19 @@
 ---
 title: "IDE: PyCharm"
-tags: [linux, git, github, gitpages, python, pycharm, anaconda, miniconda]
+date: 2023-05-04T00:00:00-03:00
+last_modified_at: 2023-05-04T00:00:00-03:00
+categories:
+  - IT
+
+tags:
+  - linux
+  - git
+  - github
+  - gitpages
+  - python
+  - pycharm
+  - anaconda
+  - miniconda
 ---
 
 O [**PyCharm**](https://www.jetbrains.com/pycharm/) é um ambiente de desenvolvimento integrado (ou IDE, do inglês '_Integrated Development Environment_') usado em programação de computadores, especificamente para a linguagem [**Python**](https://www.python.org/).

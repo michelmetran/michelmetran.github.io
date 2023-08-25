@@ -1,7 +1,19 @@
 ---
 title: "Django: *REST*"
+date: 2023-05-04T00:00:00-03:00
+last_modified_at: 2023-05-04T00:00:00-03:00
+
 excerpt_separator: "<!--more-->"
-tags: [python, pycharm, jupyter, package, pandas]
+categories:
+  - IT
+  - Front-end
+tags:
+  - python,
+  - pycharm
+  - jupyter
+  - package
+  - pandas
+
 ---
 
 Com o objetivo de estudar maneiras de usar os dados do modelo em um formato _json_, similar ao output de uma API, fui estudar como serializar dados do Django.

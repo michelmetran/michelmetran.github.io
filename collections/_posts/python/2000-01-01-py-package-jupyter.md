@@ -1,24 +1,32 @@
 ---
 title: "Jupyter Notebook"
+date: 2023-05-04T00:00:00-03:00
+last_modified_at: 2023-05-04T00:00:00-03:00
 excerpt_separator: "<!--more-->"
-tags: [python, pycharm, jupyter, package]
-categories: [blog]
+categories:
+  - IT
+  - Front-end
+tags:
+  - python
+  - pycharm
+  - jupyter
+  - package
 ---
 
-O *Jupyter Notebook* é a maneira que optei para escrever os códigos na linguagem *python*, visto que além de rodar os
+O _Jupyter Notebook_ é a maneira que optei para escrever os códigos na linguagem _python_, visto que além de rodar os
 códigos, é possível:
 
 <!--more-->
 
-1. Documentar os *scripts*, escrevendo o significado e objetivo de cada conjunto de comandos;
+1. Documentar os _scripts_, escrevendo o significado e objetivo de cada conjunto de comandos;
 2. Atualizar os meus repositórios na plataforma **GitHub**;
 3. Trabalhar com uma diversidade de opções de exportação do arquivo em formatos diversos, adaptados até mesmo para as
    simples leitura, como PDFs e Markdowns.
 
-Com tais caraterísticas, notei que é possível publicar *posts* diretamente do *Jupyter Notebook*. Aqui pretendo
+Com tais caraterísticas, notei que é possível publicar _posts_ diretamente do _Jupyter Notebook_. Aqui pretendo
 apresentar um pouco das funções que tenho explorado para aperfeiçoar e facilitar minhas publicações no meu site
-pessoal: https://michelmetran.github.io. E, pesquisando pela internet, descobri que não sou o único a [*Exploring Jupyer
-Notebook to write a Blog*](https://medium.com/gopypi/exploring-jupyer-notebook-to-write-a-blog-1e7eaa913274), tem muito
+pessoal: https://michelmetran.github.io. E, pesquisando pela internet, descobri que não sou o único a [_Exploring Jupyer
+Notebook to write a Blog_](https://medium.com/gopypi/exploring-jupyer-notebook-to-write-a-blog-1e7eaa913274), tem muito
 material a ser explorado...
 
 <div class="alert alert-warning">
@@ -49,19 +57,16 @@ from datetime import date
 [os.makedirs(i, exist_ok=True) for i in ['docs']]
 ```
 
-# Get *Jupyter Notebook* filename
+# Get _Jupyter Notebook_ filename
 
-
-Para as funções que serão apresentadas ao longo desse *script*, a obtenção do nome do arquivo *.ipynb* em uma variável
-seria de grande ajuda. Não há modo fácil de obter, visto que para todas as opções, é necessário o *java*, que não
+Para as funções que serão apresentadas ao longo desse _script_, a obtenção do nome do arquivo _.ipynb_ em uma variável
+seria de grande ajuda. Não há modo fácil de obter, visto que para todas as opções, é necessário o _java_, que não
 funciona quando é solicitado que todas as células rodem de uma só vez (Kernel > Run All).
-
 
 ## Diretamente na célula
 
-
-Testei diversos comandos para obter o nome do *Jupyter Notebook* em uma variável. A melhor opção que encontrei estava
-nesse [*post*](https://stackoverflow.com/questions/12544056/how-do-i-get-the-current-ipython-jupyter-notebook-name) que
+Testei diversos comandos para obter o nome do _Jupyter Notebook_ em uma variável. A melhor opção que encontrei estava
+nesse [_post_](https://stackoverflow.com/questions/12544056/how-do-i-get-the-current-ipython-jupyter-notebook-name) que
 tem diversas outras opções.
 
 ```javascript
@@ -94,10 +99,9 @@ kernel.execute(command);
 
 ## Com função
 
-
 Usei uma função que peguei na, provavelmente [aqui](https://github.com/jupyter/notebook/issues/1000), para pegar o nome
-do arquivo *.ipynb*. Atualmente preferi, nas funões que necessitam do nome do arquivo, em escreve-lo como uma
-constante... evitando o uso do *java* dentro do *Juptyter Notebook*.
+do arquivo _.ipynb_. Atualmente preferi, nas funões que necessitam do nome do arquivo, em escreve-lo como uma
+constante... evitando o uso do _java_ dentro do _Juptyter Notebook_.
 
 ```python
 # %load '../codes/files/get_jupyternotebook_name.py'
@@ -126,18 +130,15 @@ name
 
 # Markdown Cell
 
-
 ## Inserindo HTML
 
-
-Sabendo que tanto o *framework* Jerkll, quando o *Jupyter Notebook* utilizam
+Sabendo que tanto o _framework_ Jerkll, quando o _Jupyter Notebook_ utilizam
 o [BootStrap 4.0](https://getbootstrap.com/docs/4.0/components/alerts/), torna-se possível utilizar alguns parâmetros
-para renderizar, nas células *markdown* um conteúdo mais interessante, bastando inserir as ```<div>``` abaixo.
+para renderizar, nas células _markdown_ um conteúdo mais interessante, bastando inserir as `<div>` abaixo.
 
 ```html
-
 <div class="alert alert-success" role="alert">
-    This is a success alert—check it out!
+  This is a success alert—check it out!
 </div>
 ```
 
@@ -154,7 +155,7 @@ para renderizar, nas células *markdown* um conteúdo mais interessante, bastand
   This is a info alert—check it out!
 </div>
 
-Ainda é possível criar *box* mais elaborados, escrevendo com os códigos em HTML.
+Ainda é possível criar _box_ mais elaborados, escrevendo com os códigos em HTML.
 
 <div class="alert alert-success" role="alert">
   <strong class="alert-heading">Well done!</strong>
@@ -182,8 +183,7 @@ podem ser inseridas, por exemplo:
   </ul>
 </nav>
 
-
-## Variáveis em *Markdowns*
+## Variáveis em _Markdowns_
 
 ```python
 # {{a}}
@@ -194,7 +194,7 @@ Para inserir uma variável em uma célula markdow para eu inserir a variável en
 Logo, se eu alterar o valor de a para qualquer um terei que **a={{a}}**.
 
 O mesmo pode ser feito com tabelas. Em tentativa de inserir tabelas diretamente do Pandas não obtive sucesso... Depois
-temos dataframe modificado pelo *.to_html()*
+temos dataframe modificado pelo _.to_html()_
 , [função](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_html.html) que fornece várias
 opções a serem exploradas.
 
@@ -209,14 +209,12 @@ df_html = df_html.replace('\n', '')
 
 {{df_html}}
 
-
 ## Linhas de Tabelas
 
-
-Descobri que [nesse *
-post*](https://stackoverflow.com/questions/38783027/jupyter-notebook-display-two-pandas-tables-side-by-side) que é
-possível trabalhar para inserir também mais de uma tabela alinhada, mas isso se dá em uma célula de *output* (e não *
-markdown*).
+Descobri que [nesse _
+post_](https://stackoverflow.com/questions/38783027/jupyter-notebook-display-two-pandas-tables-side-by-side) que é
+possível trabalhar para inserir também mais de uma tabela alinhada, mas isso se dá em uma célula de _output_ (e não _
+markdown_).
 
 ```python
 import pandas as pd
@@ -238,9 +236,7 @@ display(df)
 
 <br>
 
-
 ## Comandos do Sistema
-
 
 Praticamente qualquer comando do sistema pode ser acessado usando previamente **!**, o qual passa qualquer comando
 subsequente diretamente para o sistema operacional. Você pode até usar variáveis python em comandos enviados para o
@@ -250,7 +246,7 @@ sistema operacional!
 !ls
 ```
 
-É possível trabalhar com variáveis entre o *python* e esses comandos do sistema.
+É possível trabalhar com variáveis entre o _python_ e esses comandos do sistema.
 
 ```python
 file_type = 'ipynb'
@@ -260,24 +256,20 @@ file_type = 'ipynb'
 
 <br>
 
-
 # Exportando o _Juptyter Notebook_
 
-
-Os arquivos *Jupyter Notebook* podem ser exportados em diversos formatos, seja através do menu de opções, ou através dos
+Os arquivos _Jupyter Notebook_ podem ser exportados em diversos formatos, seja através do menu de opções, ou através dos
 comandos. Ao exportar, é possível definir diversas opções que limitam o que será exportado, podendo escolher
 determinados tipos de células ou, até mesmo, células invidivuais.
 
-No *
-post* [Jupyter Notebook nbconvert without Magic Commands/ w/o Markdown](https://stackoverflow.com/questions/57701538/jupyter-notebook-nbconvert-without-magic-commands-w-o-markdown)
+No _
+post_ [Jupyter Notebook nbconvert without Magic Commands/ w/o Markdown](https://stackoverflow.com/questions/57701538/jupyter-notebook-nbconvert-without-magic-commands-w-o-markdown)
 é apresentado algumas opções de exportação. A página oficial do [NbConvert](https://nbconvert.readthedocs.io/) tem todos
-os parâmetros, tanto para linhas de comando quanto para *python*.
+os parâmetros, tanto para linhas de comando quanto para _python_.
 
 <br>
 
-
 ## Linha de Comando
-
 
 a maneira mais simples de exportar um arquivo é por meio do comando abaixo. O uso do ponto de explamação no início do
 comando é pelo fato desse comando ser "nativo" da linha de comando, e não do python.
@@ -289,7 +281,7 @@ html - -output
 docs / jupyter.html
 ```
 
-Uma vez compreendida a função e sabendo que é possível inserir variáveis criadas no *python* em comandos de "linha de
+Uma vez compreendida a função e sabendo que é possível inserir variáveis criadas no _python_ em comandos de "linha de
 comando", criei a seguinte rotina.
 
 ```python
@@ -324,14 +316,12 @@ tag = ("['" + '"remove_cell"' + ", " + '"yaml"' + "']")
 
 <br>
 
-
 ## Função
-
 
 Abaixo mostro uma função que escrevi para facilitar o processo de exportação do arquivo em diferentes locais do PC para,
 posteriormente, atualizar os repositórios contidos
-no <a title="Link do GitHub" href="https://github.com/michelmetran" target="_blank">*GitHub*</a>. Incorporei diversas
-opções para exportação no script *../codes/files/export_jupyter.py*, quando notei que seria mais fácil usar os códigos
+no <a title="Link do GitHub" href="https://github.com/michelmetran" target="_blank">_GitHub_</a>. Incorporei diversas
+opções para exportação no script _../codes/files/export_jupyter.py_, quando notei que seria mais fácil usar os códigos
 diretamente, sem funções.
 
 ```python
@@ -392,10 +382,9 @@ def export_jupyter(filename, path, extensions=['html', 'markdown', 'latex', 'pdf
 # export_jupyter(ipynb_filename, 'docs', ['html', 'markdown', 'pdf', 'python'], False)
 ```
 
-## Exportar para Word (*.doc*)
+## Exportar para Word (_.doc_)
 
-
-Usando [**Pandoc**](https://pandoc.org/) descobri que é possível exportar para ***.doc***.
+Usando [**Pandoc**](https://pandoc.org/) descobri que é possível exportar para **_.doc_**.
 Em tentativos, notei alguns problemas de incompatibilidade, mas pode auxiliar em algum momento.
 
 ```python
@@ -417,42 +406,37 @@ docx $file_md - -reference - links
 
 <br>
 
-
 # GitHub
 
+Diversos projetos que tenho feito, com _scripts_ do _Jupyter Notebook_, estão listados no _GitHub_. Alguns destes _
+scripts_ são, também, publicações no [meu site pessoal](https://michelmetran.github.io/), o qual também está hospedado
+no _GitHub_.
 
-Diversos projetos que tenho feito, com *scripts* do *Jupyter Notebook*, estão listados no *GitHub*. Alguns destes *
-scripts* são, também, publicações no [meu site pessoal](https://michelmetran.github.io/), o qual também está hospedado
-no *GitHub*.
-
-Dessa maneira, busquei fazer com que os comandos para atualização dos repositórios já constassem dentro dos *scripts*,
-de modo que modificações e ajustes fossem facilmente compartilhados. Ainda, como alguns *scripts* dão origem a *posts*
+Dessa maneira, busquei fazer com que os comandos para atualização dos repositórios já constassem dentro dos _scripts_,
+de modo que modificações e ajustes fossem facilmente compartilhados. Ainda, como alguns _scripts_ dão origem a _posts_
 em meu site, estes também são atualizados.
 
 <br>
 
+## _NbStripout_
 
-## *NbStripout*
-
-
-Inicialmente compreendi que é considerada como *best pratices* no *git* de projetos escritos em *Jupyter Notebook* a
-aplicação de um determinado código usando o package *nbstripout*, para "limpar o cache" do arquivo. No *post* [*How to
-Git Jupyter Notebooks the Right Way*](http://mateos.io/blog/jupyter-notebook-in-git) e no vídeo [*nbstripout: strip
-output from Jupyter and IPython notebooks*](https://www.youtube.com/watch?v=BEMP4xacrVc) é explicado detalhadamente o
+Inicialmente compreendi que é considerada como _best pratices_ no _git_ de projetos escritos em _Jupyter Notebook_ a
+aplicação de um determinado código usando o package _nbstripout_, para "limpar o cache" do arquivo. No _post_ [_How to
+Git Jupyter Notebooks the Right Way_](http://mateos.io/blog/jupyter-notebook-in-git) e no vídeo [_nbstripout: strip
+output from Jupyter and IPython notebooks_](https://www.youtube.com/watch?v=BEMP4xacrVc) é explicado detalhadamente o
 funcionamento.
 
 ```python
 !nbstripout - -install - -attributes.gitattributes
 ```
 
-## *Git* de linha de comando
+## _Git_ de linha de comando
 
-
-Basta atualizar o repositório com os comandos do *git* usualmente aplicados na linha de comando. Quando se deseja rodar
-comandos da linha decomando dentro de um *Jupyter Notebook*, basta adicionar o ponto de exclamação no início do comando.
+Basta atualizar o repositório com os comandos do _git_ usualmente aplicados na linha de comando. Quando se deseja rodar
+comandos da linha decomando dentro de um _Jupyter Notebook_, basta adicionar o ponto de exclamação no início do comando.
 
 **Atualmente é a minha solução preferida**, mas testei algumas outras anteriormente, conforme será demonstrado abaixo.
-Fiz essa opção pois acho mais prático utilizar os comandos "originais" do *git*, para manusear os repositórios, e me dá
+Fiz essa opção pois acho mais prático utilizar os comandos "originais" do _git_, para manusear os repositórios, e me dá
 a flexibilidade de me familharizar com os comandos para usar em outros projetos que não envolvam python (e integrações).
 
 ```python
@@ -468,21 +452,18 @@ commit - m
 push
 ```
 
-## Integrações do *Git*  com *Python*
-
+## Integrações do _Git_ com _Python_
 
 Existem diversos módulos para promover a integração do git e python. Dentre elas destaca-se o
-pacote [GitPython](https://gitpython.readthedocs.io/), porém existem outros. Muito foi discutido no *post* [***Python
-Git Module experiences?***](https://stackoverflow.com/questions/1456269/python-git-module-experiences). Testei algumas
+pacote [GitPython](https://gitpython.readthedocs.io/), porém existem outros. Muito foi discutido no _post_ [**_Python
+Git Module experiences?_**](https://stackoverflow.com/questions/1456269/python-git-module-experiences). Testei algumas
 delas mas preferi dedicar tempo a aprender outras coisas.
 
+## Funções e _Subprocess_
 
-## Funções e *Subprocess*
-
-
-Criei uma função, utilizando o *subprocess*, para exportar o *Jupyter Notebook* em diversos formatos. Aproveitei para
-incorporar o comando do ```nbstripout``` na função que faz o *commit*, visando simplificar as coisas. Com o tempo
-abandonei o uso, por não gostava dos *logs do outputs*.
+Criei uma função, utilizando o _subprocess_, para exportar o _Jupyter Notebook_ em diversos formatos. Aproveitei para
+incorporar o comando do `nbstripout` na função que faz o _commit_, visando simplificar as coisas. Com o tempo
+abandonei o uso, por não gostava dos _logs do outputs_.
 
 ```python
 # %load '../codes/git/update_github.py'
@@ -532,25 +513,22 @@ def git_full(repo, files, msg):
 
 # Erros
 
-
-Em uma tentativa de exportar o *Jupyter Notebook* para PDF tive problemas. O arquivo não era exportado e apresentava a
+Em uma tentativa de exportar o _Jupyter Notebook_ para PDF tive problemas. O arquivo não era exportado e apresentava a
 seguinte mensagem de erro:
 
-- *nbconvert failed: xelatex not found on PATH, if you have not installed xelatex you may need to do so. Find further
-  instructions at https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex.*
+- _nbconvert failed: xelatex not found on PATH, if you have not installed xelatex you may need to do so. Find further
+  instructions at https://nbconvert.readthedocs.io/en/latest/install.html#installing-tex._
 
 Para solucionar, descobri que é necessário instalar, no Linux, akguns pacotes de aplicativos com os seguintes comandos,
 sendo o primeiro uma instalação mais compacta e o segundo uma instalação completa.
 
-```sudo apt-get install texlive-xetex texlive-fonts-recommended texlive-generic-recommended```
+`sudo apt-get install texlive-xetex texlive-fonts-recommended texlive-generic-recommended`
 
-```sudo apt-get install texlive-full```
-
+`sudo apt-get install texlive-full`
 
 # Referêcias
 
-
-Há muita informação na internet sobre funcionalidades do *Jupyter Notebook*. Apenas para exemplificar, usei
+Há muita informação na internet sobre funcionalidades do _Jupyter Notebook_. Apenas para exemplificar, usei
 particialmente algumas das funções e truques apresentados em [**Jupyter Notebook
 Extensions**](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231) e [**28 Jupyter Notebook Tips,
 Tricks, and Shortcuts**](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts).

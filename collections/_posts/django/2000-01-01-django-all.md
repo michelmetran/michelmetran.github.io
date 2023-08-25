@@ -1,7 +1,18 @@
 ---
 title: "Django"
+date: 2023-05-04T00:00:00-03:00
+last_modified_at: 2023-05-04T00:00:00-03:00
 excerpt_separator: "<!--more-->"
-tags: [python, pycharm, jupyter, package, pandas]
+categories:
+  - IT
+  - Front-end
+
+tags:
+  - python
+  - pycharm
+  - jupyter
+  - package
+  - pandas
 ---
 
 <br>
@@ -120,7 +131,6 @@ default_app_config = 'core.apps.CoreConfig'
 <br>
 
 ---
-
 
 # URLs
 
@@ -267,7 +277,7 @@ from django.contrib.auth.decorators import login_required
 
 ---
 
-# *Sitemap*
+# _Sitemap_
 
 Rodei o tutorial no projeto do PL 251
 

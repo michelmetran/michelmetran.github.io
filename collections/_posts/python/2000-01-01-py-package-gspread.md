@@ -1,7 +1,15 @@
 ---
 title: "GSpread"
+date: 2023-05-04T00:00:00-03:00
+last_modified_at: 2023-05-04T00:00:00-03:00
+
 excerpt_separator: "<!--more-->"
-tags: [python, pycharm, jupyter, package, gspread]
+tags:
+  - python
+  - pycharm
+  - jupyter
+  - package
+  - gspread
 ---
 
 O <a title="Link do GSpread" href="https://gspread.readthedocs.io/en/latest/api.html" target="_blank">**_GSpread_**</a> é um pacote que possibilita a edição e obtenção de dados das planilhas do _Google SpreadSheet_, utilizando _Python_. Ou seja, é possível manipular os dados utiliznado toda uma variedade de _packages_ do _Python_ e inseri-los em _Google Spreadsheets_.

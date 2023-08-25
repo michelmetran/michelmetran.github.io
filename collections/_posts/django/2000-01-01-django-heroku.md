@@ -1,7 +1,18 @@
 ---
 title: "Django: *Heroku*"
+date: 2019-06-13T15:34:30-04:00
+last_modified_at: 2022-06-28T00:00:00-03:00
 excerpt_separator: "<!--more-->"
-tags: [python, pycharm, jupyter, package, pandas]
+categories:
+  - IT
+  - Front-end
+tags:
+  - python,
+  - pycharm
+  - jupyter
+  - package
+  - pandas
+
 ---
 
 Para fazer o _deploy_ de uma aplicação Django no Heroku, são necessários alguns passos. É preciso adicionar o seguinte código no arquivo **_settings.py_**

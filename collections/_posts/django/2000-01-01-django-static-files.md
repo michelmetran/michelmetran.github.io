@@ -1,7 +1,19 @@
 ---
 title: "Django: *staticfiles*"
+date: 2023-05-04T00:00:00-03:00
+last_modified_at: 2023-05-04T00:00:00-03:00
+
 excerpt_separator: "<!--more-->"
-tags: [python, pycharm, jupyter, package, pandas]
+categories:
+  - IT
+  - Front-end
+tags:
+  - python,
+  - pycharm
+  - jupyter
+  - package
+  - pandas
+
 ---
 
 Para fazer com que o Django utiliza arquivos estáticos --- usualmente acessários para renderizar os arquivos HTML (tais como _css_, _javascript_, _fonts_, _imagens_ etc) --- é necessário ajustar alguns parâmetros no arquivo _settings_, conforme abaixo:

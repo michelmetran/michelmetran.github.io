@@ -1,7 +1,14 @@
 ---
 title: "Requirements"
+date: 2023-05-04T00:00:00-03:00
+last_modified_at: 2023-05-04T00:00:00-03:00
+
 excerpt_separator: "<!--more-->"
-tags: [python, pycharm, jupyter, package]
+tags:
+  - python
+  - pycharm
+  - jupyter
+  - package
 ---
 
 O arquivo _requirements.txt_, usualmente localizado na pasta-raiz do projeto, tem a finalidade de listar quais são os _packages_ que foram utilizados naquele determinado projeto.

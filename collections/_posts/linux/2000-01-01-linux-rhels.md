@@ -3,7 +3,15 @@ title: 'Red Hat'
 date: 2023-04-05T15:00:00-03:00
 last_modified_at: 2023-04-05T15:00:00-03:00
 excerpt_separator: '<!--more-->'
-tags: [python, pycharm, jupyter, package, pandas]
+categories:
+  - IT
+
+tags:
+  - python
+  - pycharm
+  - jupyter
+  - package
+  - pandas
 ---
 
 Nessa postagem https://access.redhat.com/discussions/5585571

@@ -3,7 +3,11 @@ title: 'Chocolatey'
 date: 2019-06-13T15:34:30-04:00
 last_modified_at: 2022-06-28T11:00:00-03:00
 excerpt_separator: '<!--more-->'
-categories: [apps]
+categories:
+  - IT
+tags:
+  - aplicativos
+
 ---
 
 Nunca gostei de instalar aplicativos no Windows. É uma tarefa chata, após cada formatação (nos PCs pessoais, de amigos e família), era necessário acessar cada _site_ do aplicativo, fazer o _download_, e instalar.

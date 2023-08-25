@@ -1,6 +1,17 @@
 ---
 title: "Linux: Bluetooth"
-#tags: [python, pycharm, jupyter, package, pandas]
+date: 2023-05-04T00:00:00-03:00
+last_modified_at: 2023-05-04T00:00:00-03:00
+categories:
+  - IT
+
+tags:
+  - python
+  - pycharm
+  - jupyter
+  - package
+  - pandas
+
 ---
 
 Inicialmente encontrar os dispositivos conectados

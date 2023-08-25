@@ -1,7 +1,15 @@
 ---
-title: 'Git'
-excerpt_separator: '<!--more-->'
-tags: [git, github]
+title: "Git"
+date: 2023-05-04T00:00:00-03:00
+last_modified_at: 2023-05-04T00:00:00-03:00
+
+excerpt_separator: "<!--more-->"
+categories:
+  - IT
+
+tags:
+  - git
+  - github
 ---
 
 [Git](https://git-scm.com/) é um sistema de controle de versão distribuído gratuito e de código aberto projetado para lidar com tudo, desde projetos pequenos a muito grandes com velocidade e eficiência.
@@ -272,4 +280,5 @@ Git Atribute
 https://dev.to/deadlybyte/please-add-gitattributes-to-your-git-repository-1jld
 
 # Atualizar
+
 git update-git-for-windows

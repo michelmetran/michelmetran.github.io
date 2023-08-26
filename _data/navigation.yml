@@ -29,19 +29,19 @@ posts_nav:
   - title: "<i>Posts</i>"
     #url: /parent-1-page-url/
     children:
-      - title: "por lista"
+      - title: "por <i>grid</i>"
         url: /posts/
       - title: "por Categoria"
-        url: /categories/
+        url: /posts/categories/
       - title: "por <i>tags</i>"
         url: /posts/tags/
       - title: "por ano"
         url: /posts/year/
-      - title: "por <i>array</i>"
+      - title: "por lista"
         url: /posts/tags/array/
 
-  - title: "Por Categorias"
-    # url: /parent-2-page-url/
+  - title: "com Categoria"
+    url: /posts/categories/
     children:
       - title: "Open Geodata"
         url: /posts/category/open-geodata/
@@ -55,8 +55,8 @@ posts_nav:
       - title: "Minimal Mistakes"
         url: /posts/category/minimal-mistakes/
 
-  - title: "Por <i>tags</i>"
-    # url: /parent-2-page-url/
+  - title: "com <i>tag</i>"
+    url: /posts/tags/
     children:
       - title: "Minimal Mistakes"
         url: /posts/tags/minimal-mistakes/

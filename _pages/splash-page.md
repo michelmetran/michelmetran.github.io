@@ -1,5 +1,5 @@
 ---
-title: "..."
+title: ">>"
 layout: splash
 permalink: /
 date: 2023-08-22T08:00:00-03:00

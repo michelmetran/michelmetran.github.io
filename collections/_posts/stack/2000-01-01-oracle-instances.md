@@ -17,7 +17,7 @@ Para fazer _deploy_ das aplicações em _python_ optei por utilizar o [NGINX](ht
 
 Para instalar o NGINX instância, segue os procedimentos descritos em [Installing NGINX Open Source](https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-open-source/). Abri as portas da VM conforme descrito em [Chapter 2. Setting up and configuring NGINX](https://access.redhat.com/documentation/pt-br/red_hat_enterprise_linux/9/html/deploying_web_servers_and_reverse_proxies/setting-up-and-configuring-nginx_deploying-web-servers-and-reverse-proxies)
 
-```
+```shell
 sudo su
 firewall-cmd --permanent --add-port={80/tcp,443/tcp}
 firewall-cmd --reload

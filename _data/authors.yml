@@ -1,30 +1,30 @@
 Michel Metran:
-  name: 'Michel Metran'
-  avatar: '/assets/images/logo/avatar.png'
-  bio: 'Following the White Rabbit'
-  location: 'Piracicaba, SP'
+  name: "Michel Metran"
+  avatar: "/assets/images/logo/avatar.png"
+  bio: "A equação me propõe,<br>...computador me resolve!"
+  location: "Piracicaba, SP"
   links:
-    - label: 'Email'
-      icon: 'fas fa-fw fa-envelope-square'
-      url: 'mailto:michelmetran@gmail.com'
-    - label: 'Site'
-      icon: 'fas fa-fw fa-link'
-      url: 'https://michelmetran.github.io'
-    - label: 'Twitter'
-      icon: 'fab fa-fw fa-twitter-square'
-      url: 'https://twitter.com/michelmetran'
-    - label: 'GitHub'
-      icon: 'fab fa-fw fa-github'
-      url: 'https://github.com/michelmetran'
-    - label: 'Instagram'
-      icon: 'fab fa-fw fa-instagram'
-      url: 'https://instagram.com/michelmetran'
-    - label: 'Facebook'
-      icon: 'fab fa-fw fa-facebook-square'
-      url: 'https://facebook.com/michelmetran'
-    - label: 'StackOverflow'
-      icon: 'fab fa-fw fa-stack-overflow'
-      url: 'https://stackoverflow.com/users/6003328/michel-metran'
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/michelmetran"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/michelmetran"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/michelmetran"
+    - label: "StackOverflow"
+      icon: "fab fa-fw fa-stack-overflow"
+      url: "https://stackoverflow.com/users/6003328/michel-metran"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   url: "https://facebook.com/michelmetran"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "mailto:michelmetran@gmail.com"
+    # - label: "Site"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://michelmetran.github.io"
 
 
 Open Geodata:
@@ -40,8 +40,7 @@ Open Geodata:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/open-geodata"
 
-
-
+#
 GAEMA Piracicaba:
   name: "GAEMA Piracicaba"
   avatar: "/assets/images/logo.png"

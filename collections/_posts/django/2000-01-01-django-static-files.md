@@ -8,12 +8,11 @@ categories:
   - IT
   - Front-end
 tags:
-  - python,
+  - python
   - pycharm
   - jupyter
   - package
   - pandas
-
 ---
 
 Para fazer com que o Django utiliza arquivos estáticos --- usualmente acessários para renderizar os arquivos HTML (tais como _css_, _javascript_, _fonts_, _imagens_ etc) --- é necessário ajustar alguns parâmetros no arquivo _settings_, conforme abaixo:

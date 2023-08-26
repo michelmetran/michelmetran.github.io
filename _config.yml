@@ -19,8 +19,8 @@
 # Configurations
 title: Michel Metran
 masthead_title: "Michel Metran"
-subtitle: "<i>python</i>, SQL, <i>data science</i> e outras coisas mais" # Opcional
-title_separator: "|" # Opcional
+subtitle: "<i>DevOps</i>, <i>data science</i> e <i>data engineer</i>" # Opcional
+# title_separator: "|" # Opcional
 
 name: "Michel Metran"
 email: michelmetran@gmail.com
@@ -52,8 +52,6 @@ algolia:
   # files_to_exclude:
 google:
   search_engine_id: d4e7b7ef17cde45fa
-
-
 
 # Build settings
 remote_theme: mmistakes/minimal-mistakes@4.24.0
@@ -109,30 +107,7 @@ plugins:
   - jekyll-algolia
 
 # Autor
-author:
-  name: "Michel Metran"
-  avatar: "/assets/images/logo/avatar.png"
-  bio: "A equação me propõe,<br>...computador me resolve!"
-  location: "Piracicaba, SP"
-  links:
-    - label: "Site"
-      icon: "fas fa-fw fa-link"
-      url: "https://michelmetran.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/michelmetran"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/michelmetran"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/michelmetran"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/michelmetran"
-    - label: "StackOverflow"
-      icon: "fab fa-fw fa-stack-overflow"
-      url: "https://stackoverflow.com/users/6003328/michel-metran"
+author: Michel Metran
 
 # Rodapé
 footer:

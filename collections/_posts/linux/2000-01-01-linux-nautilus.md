@@ -11,7 +11,6 @@ tags:
   - jupyter
   - package
   - pandas
-
 ---
 
 ```

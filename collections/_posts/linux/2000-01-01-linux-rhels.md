@@ -1,11 +1,10 @@
 ---
-title: 'Red Hat'
+title: "Red Hat"
 date: 2023-04-05T15:00:00-03:00
 last_modified_at: 2023-04-05T15:00:00-03:00
-excerpt_separator: '<!--more-->'
+excerpt_separator: "<!--more-->"
 categories:
   - IT
-
 tags:
   - python
   - pycharm
@@ -15,7 +14,7 @@ tags:
 ---
 
 Nessa postagem https://access.redhat.com/discussions/5585571
-descobri, na fala de *Nate Lager*, que existe um programa de desenvolvedor, para testes...
+descobri, na fala de _Nate Lager_, que existe um programa de desenvolvedor, para testes...
 
 Ao acessar, vi que já tenho e, na realidade, está quase expirando (expira em 27.04.2023).
 
@@ -109,7 +108,7 @@ sudo dnf upgrade
 
 <br>
 
-----
+---
 
 ## Customize
 

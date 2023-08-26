@@ -6,7 +6,6 @@ excerpt_separator: "<!--more-->"
 categories:
   - IT
   - Front-end
-
 tags:
   - python
   - pycharm

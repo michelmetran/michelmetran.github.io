@@ -10,13 +10,6 @@ tags:
   - jupyter
   - package
   - folium
-#subtitle: Exercícios e Referências
-#layout: post
-#image: /img/posts/folium_icon.png
-#bigimg: /img/posts/folium_big.png
-#gh-repo: michelmetran/package_folium
-#gh-badge: [follow, star, watch, fork]
-#comments: true
 ---
 
 [aaa](https://giscrack.com/download-temperature-and-precipitation-data-from-anywhere-on-earth-using-google-earth/)

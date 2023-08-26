@@ -4,7 +4,6 @@ date: 2023-05-04T00:00:00-03:00
 last_modified_at: 2023-05-04T00:00:00-03:00
 categories:
   - IT
-
 tags:
   - linux
   - git
@@ -31,7 +30,6 @@ Simplificando ao máximo, basta aplicar o comando abaixo no terminal.
 ```bash
 sudo snap install pycharm-community --classic
 ```
-
 
 <br>
 

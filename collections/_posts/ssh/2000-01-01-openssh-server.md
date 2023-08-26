@@ -1,16 +1,12 @@
 ---
-title: 'OpenSSH Server'
+title: "OpenSSH Server"
 date: 2023-05-04T00:00:00-03:00
 last_modified_at: 2023-05-04T00:00:00-03:00
-
-excerpt_separator: '<!--more-->'
-
+excerpt_separator: "<!--more-->"
 categories:
   - IT
-
 tags:
   - ssh
-
 ---
 
 ## Server

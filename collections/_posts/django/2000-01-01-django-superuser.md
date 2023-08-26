@@ -8,12 +8,11 @@ categories:
   - IT
   - Front-end
 tags:
-  - python,
+  - python
   - pycharm
   - jupyter
   - package
   - pandas
-
 ---
 
 <br>

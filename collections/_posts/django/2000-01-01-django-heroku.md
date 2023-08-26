@@ -7,12 +7,11 @@ categories:
   - IT
   - Front-end
 tags:
-  - python,
+  - python
   - pycharm
   - jupyter
   - package
   - pandas
-
 ---
 
 Para fazer o _deploy_ de uma aplicação Django no Heroku, são necessários alguns passos. É preciso adicionar o seguinte código no arquivo **_settings.py_**

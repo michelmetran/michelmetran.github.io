@@ -2,14 +2,15 @@
 title: "Pandas"
 date: 2023-05-04T00:00:00-03:00
 last_modified_at: 2023-05-04T00:00:00-03:00
-
 excerpt_separator: "<!--more-->"
+categories:
+  - IT
+  - Python
 tags:
   - python
   - pycharm
   - jupyter
   - package
-
 ---
 
 O <a title="Link do Pandas" href="https://pandas.pydata.org/" target="_blank">**_Pandas_**</a> é um pacote que possibilita o manejo dos dados.

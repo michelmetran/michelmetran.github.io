@@ -1,5 +1,5 @@
 ---
-title: "MouseJiggler"
+title: "Mouse Jiggler"
 date: 2023-02-15T15:34:30-04:00
 last_modified_at: 2023-02-15T15:34:30-04:00
 toc: false
@@ -11,6 +11,6 @@ tags:
   - hardware
 ---
 
-MouseJiggler
+Mouse Jiggler
 
-https://github.com/arkane-systems/mousejiggler
+- https://github.com/arkane-systems/mousejiggler

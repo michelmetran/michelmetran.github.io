@@ -8,12 +8,11 @@ categories:
   - IT
   - Front-end
 tags:
-  - python,
+  - python
   - pycharm
   - jupyter
   - package
   - pandas
-
 ---
 
 Com o objetivo de estudar maneiras de usar os dados do modelo em um formato _json_, similar ao output de uma API, fui estudar como serializar dados do Django.
@@ -112,8 +111,6 @@ INSTALLED_APPS = [
 
 - [Django Rest Framework](http://www.django-rest-framework.org/)
 - [**YouTube**: Django + Chart.js // Learn to intergrate Chart.js with Django](https://www.youtube.com/watch?v=B4Vmm3yZPgc)
-
-
 
 <br>
 

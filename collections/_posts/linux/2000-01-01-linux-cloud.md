@@ -11,7 +11,6 @@ tags:
   - jupyter
   - package
   - pandas
-
 ---
 
 <br>
@@ -117,9 +116,9 @@ sudo systemctl enable google-drive-ocamlfuse-personal.service
 
 ### OneDrive
 
-https://github.com/jstaf/onedriver
-https://github.com/abraunegg/onedrive/blob/master/docs/INSTALL.md
-https://www.edivaldobrito.com.br/como-instalar-o-cliente-onedrive-onedriver-no-linux/
+- https://github.com/jstaf/onedriver
+- https://github.com/abraunegg/onedrive/blob/master/docs/INSTALL.md
+- https://www.edivaldobrito.com.br/como-instalar-o-cliente-onedrive-onedriver-no-linux/
 
 ```bash
 echo 'deb http://download.opensuse.org/repositories/home:/jstaf/xUbuntu_20.04/ /' | sudo tee /etc/apt/sources.list.d/home:jstaf.list

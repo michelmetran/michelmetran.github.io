@@ -3,14 +3,13 @@ title: "OneDrive"
 date: 2023-02-23T15:34:30-04:00
 last_modified_at: 2023-02-23T15:34:30-04:00
 excerpt_separator: "<!--more-->"
-
 categories:
   - IT
   - Hacks
-
 tags:
   - apps
-  - trampo
+  - firma
+  - cloud
 ---
 
 Error 80071129 OneDrive

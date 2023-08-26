@@ -7,7 +7,6 @@ categories:
   - IT
 tags:
   - aplicativos
-
 ---
 
 Nunca gostei de instalar aplicativos no Windows. É uma tarefa chata, após cada formatação (nos PCs pessoais, de amigos e família), era necessário acessar cada _site_ do aplicativo, fazer o _download_, e instalar.

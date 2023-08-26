@@ -5,11 +5,10 @@ last_modified_at: 2022-06-29T00:00:00-03:00
 excerpt_separator: "<!--more-->"
 categories:
   - IT
-
 tags:
   - command line
   - apps
-  - power shell
+  - powershell
 ---
 
 O [PowerShell](https://learn.microsoft.com/pt-br/powershell/scripting/overview?view=powershell-7.2) é uma solução de automação de tarefas multiplataforma que consiste em um shell de linha de comando, em uma linguagem de script e uma estrutura de gerenciamento de configuração. O PowerShell pode ser executado no Windows, Linux e macOS.
@@ -35,4 +34,4 @@ iex "& { $(irm https://aka.ms/install-powershell.ps1) } -UseMSI"
 
 Em out.22 o PowerShell deixou de funcionar no PC e descobri, com [How To Fix PowerShell Has Stopped Working or Not Opening In Windows 10](https://www.youtube.com/watch?v=QfCKCasBef4) que se fazia necessário.
 
-1. Command Line (*Run as Admin*) `sfc /scannow`
+1. Command Line (_Run as Admin_) `sfc /scannow`

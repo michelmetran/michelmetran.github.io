@@ -52,11 +52,11 @@ posts_nav:
       - title: "GAEMA"
         url: /posts/category/gaema/
 
-      - title: "Minimal Mistakes"
-        url: /posts/category/minimal-mistakes/
-
   - title: "com <i>tag</i>"
     url: /posts/tags/
     children:
       - title: "Minimal Mistakes"
         url: /posts/tags/minimal-mistakes/
+
+  - title: "<i>Help</i>"
+    url: /posts/category/minimal-mistakes/

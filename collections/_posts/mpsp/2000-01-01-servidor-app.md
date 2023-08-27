@@ -7,6 +7,9 @@ categories:
   - Hacks
 tags:
   - ssh
+  - firma
+  - rhel
+  - linux
 ---
 
 Um servidor de aplicação é um software que fornece um ambiente de execução para aplicativos de negócios baseados em servidor. Ele é responsável por gerenciar e disponibilizar recursos para as aplicações, como memória, processamento e conexões de rede. O servidor de aplicação também gerencia a comunicação entre as aplicações e outras partes do sistema, como bancos de dados e servidores de arquivos.

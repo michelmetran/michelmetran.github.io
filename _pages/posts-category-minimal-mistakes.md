@@ -8,4 +8,5 @@ sidebar:
   nav: posts_nav
 ---
 
-Sample post listing for the tag `category/minimal-mistakes`.
+_Posts_ do [_Minimal Mistakes_](https://mmistakes.github.io/minimal-mistakes/), o _theme_ que usei para fazer esse _site_.
+Ideal para testar possibilidades para formatar os demais _post_.

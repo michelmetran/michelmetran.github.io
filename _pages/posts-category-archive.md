@@ -1,7 +1,7 @@
 ---
 title: '<i>Posts</i> por Categorias'
 layout: categories
-permalink: /posts/categories/
+permalink: /categories/
 author_profile: false
 sidebar:
   nav: posts_nav

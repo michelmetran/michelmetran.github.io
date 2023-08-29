@@ -1,6 +1,6 @@
 ---
 title: '<i>Posts</i> por Tag'
-permalink: /posts/tags/
+permalink: /tags/
 layout: tags
 author_profile: false
 sidebar:

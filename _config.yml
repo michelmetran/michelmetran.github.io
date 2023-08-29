@@ -29,6 +29,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 repository: "michelmetran/michelmetran.github.io"
+logo: "/assets/images/logo/logo.png"
 #url: "https://michelmetran.com.br"
 
 # Social Sharing
@@ -74,12 +75,9 @@ analytics:
     tracking_id: "G-Z5ZC58R3DX"
     anonymize_ip: false # default
 
-
 # Posts
 date_format: "%d.%m.%Y"
 words_per_minute: 250
-
-logo: "/assets/images/logo/logo.png"
 
 # Conversion
 markdown: kramdown
@@ -89,7 +87,7 @@ excerpt_separator: "\n\n"
 incremental: false
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /posts/:title/ # /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 
@@ -195,12 +193,12 @@ defaults:
 
 # Archives
 category_archive:
-  type: liquid
-  path: /categories/
+  type: liquid # type: liquid
+  path: /categories/ # /categories/
 
 tag_archive:
   type: liquid
-  path: /tags/
+  path: /tags/ # /tags/
 
 # Scripts
 # head_scripts:

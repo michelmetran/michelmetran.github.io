@@ -125,6 +125,8 @@ choco install vscode -y
 choco install jetbrainstoolbox -y
 choco install javaruntime -y
 choco install git.install -y
+choco install azure-data-studio
+choco install daxstudio
 choco install dotnet-7.0-sdk -y
 choco install miniconda3 -y
 choco install miniconda3 --params="'/AddToPath:1'" -y

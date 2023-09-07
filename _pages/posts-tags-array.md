@@ -12,7 +12,6 @@ sidebar:
 <ul>
   {% for tag in group_names %}
     {% assign posts = group_items[forloop.index0] %}
-
     <li>
       <h2>{{ tag }}</h2>
       <ul>
@@ -23,7 +22,5 @@ sidebar:
         {% endfor %}
       </ul>
     </li>
-
 {% endfor %}
-
 </ul>

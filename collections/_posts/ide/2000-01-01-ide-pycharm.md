@@ -85,3 +85,4 @@ sudo snap refresh intellij-idea-community
 ## Referência
 
 - [Como instalar a incrível IDE Java IntelliJ IDEA no Linux](https://www.edivaldobrito.com.br/ide-intellij-idea-no-ubuntu-debian/)
+- [Issue: Isort | Integration with PyCharm](https://github.com/PyCQA/isort/issues/258)

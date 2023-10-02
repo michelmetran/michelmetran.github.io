@@ -1,12 +1,13 @@
 ---
-title: "Oracle Instances"
+title: "Oracle Cloud"
 date: 2019-06-13T15:34:30-04:00
-last_modified_at: 2022-06-29T00:00:00-03:00
+last_modified_at: 2023-10-01T00:00:00-03:00
 categories:
   - IT
   - Cloud
 tags:
-  - jobs
+  - devops
+  - nginx
 ---
 
 Em maio de 2023 criei uma instância na Oracle Cloud para fazer _deploy_ de aplicações _python_. Minha instância usa Oracle Linux 9, baseada em RHEL.
@@ -54,7 +55,7 @@ include /etc/nginx/sites-enabled/\*;
 
 Tentei iniciar a aplicação...
 
-```
+```shell
 sudo systemctl status nginx
 sudo systemctl enable nginx
 sudo systemctl start nginx
@@ -67,7 +68,7 @@ sudo nginx -s reload
 
 Por algum momento não deu certo pois a porta 80 estava em uso. Comandos para avalir o que está em uso. Descobri o que era e fechei.
 
-```
+```shell
 sudo fuser -k 443/tcp
 sudo fuser -k 80/tcp
 ```
@@ -135,7 +136,7 @@ client_max_body_size 10M;
 
 <br>
 
-Após bater cabeça, vi que a _Virtual Private Network_, na infra do Oracle, podria estar bloqueando o tráfego... corrigo com auxílio desse artigo [Opening up port 80 and 443 for Oracle Cloud servers](https://cleavr.io/cleavr-slice/opening-port-80-and-443-for-oracle-servers)
+Após bater cabeça, vi que a _Virtual Private Network_, na infra do Oracle, podria estar bloqueando o tráfego... corrigi com auxílio desse artigo [Opening up port 80 and 443 for Oracle Cloud servers](https://cleavr.io/cleavr-slice/opening-port-80-and-443-for-oracle-servers)
 
 <br>
 

@@ -1,5 +1,5 @@
 ---
-title: "Localhost"
+title: "LocalHost"
 date: 2019-04-18T15:00:00-03:00
 last_modified_at: 2023-09-07T16:00:00-03:00
 excerpt_separator: "<!--more-->"

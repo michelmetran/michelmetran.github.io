@@ -17,7 +17,7 @@ tags:
 
 Um modelo de dados no Power BI é uma forma de organizar e relacionar os dados que serão usados para criar relatórios e _dashboards_. Um modelo de dados pode conter várias tabelas, colunas, medidas, relações e hierarquias que definem como os dados são estruturados e como eles se conectam entre si. Um modelo de dados bem projetado pode facilitar a análise e a visualização dos dados, além de melhorar o desempenho e a escalabilidade do Power BI.
 
-Diante disso, enfrentada o problema: como lidar com **_Dimensões_** que apresentam diversas ocorrências que não existem na **_tabela Fato_**.
+Diante disso, enfrentava o seguinte problema: como lidar com **_Dimensões_** que apresentam diversas ocorrências que não existem na **_Tabela Fato_**.
 
 Para isso a solução que adotei é:
 
@@ -27,13 +27,13 @@ Para isso a solução que adotei é:
 
 <br>
 
-2. Usando o **PowerQuery**, fazer um _join_ obtendo apenas os registros que "pareiam" com a _tabela Fato_. No caso em tela, a _tabela Fato_ é _Atendimentos_.
+2. Usando o **PowerQuery**, fazer um _join_ obtendo apenas os registros que "pareiam" com a _Tabela Fato_. No caso em tela, a _Tabela Fato_ é _Atendimentos_.
 
 ```m
 = Table.NestedJoin(Situacao, {"IdSituacao"}, Atendimentos, {"IdSituacao"}, "Expand", JoinKind.Inner)
 ```
 
-![PowerQWuery Join](https://i.imgur.com/1EjCis0.png)
+![PowerQuery Join](https://i.imgur.com/1EjCis0.png)
 
 <br>
 

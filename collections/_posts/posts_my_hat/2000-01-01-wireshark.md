@@ -6,14 +6,11 @@ excerpt_separator: "<!--more-->"
 categories:
   - IT
   - Hacks
-
 tags:
   - firma
 ---
 
-O Wireshark é um programa que analisa o tráfego de rede, e o organiza por protocolos. As funcionalidades do Wireshark são parecidas com o tcpdump mas com uma interface gráfica, com mais informação e com a possibilidade da utilização de filtros.
-
-- https://www.wireshark.org
+O [Wireshark](https://www.wireshark.org) é um programa que analisa o tráfego de rede, e o organiza por protocolos. As funcionalidades do Wireshark são parecidas com o tcpdump mas com uma interface gráfica, com mais informação e com a possibilidade da utilização de filtros.
 
 <br>
 
@@ -37,6 +34,8 @@ sudo apt-get install wireshark
 Ao final da instalação, é possível definir que usuários possam capturar pacotes. Por equívoco, não habilitei isso.
 
 ![](https://i.imgur.com/sVoW8As.png)
+
+<br>
 
 E foi necessário rodar os seguintes comandos para corrigir. [Setting up wireshark for non root user](https://askubuntu.com/questions/246363/setting-up-wireshark-for-non-root-user).
 

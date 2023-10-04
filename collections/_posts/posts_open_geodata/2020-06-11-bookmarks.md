@@ -6,10 +6,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - Open Geodata
 tags:
-  - python
-  - jupyter
-  - package
-  - datageo
+  - geo
   - gis
 ---
 
@@ -17,4 +14,3 @@ tags:
 
 - [USGS Landsat](https://registry.opendata.aws/usgs-landsat/index.html)
 - [European Space Agency](https://www.esa.int/)
-

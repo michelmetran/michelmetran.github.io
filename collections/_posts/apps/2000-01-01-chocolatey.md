@@ -1,8 +1,8 @@
 ---
-title: 'Chocolatey'
+title: "Chocolatey"
 date: 2019-06-13T15:34:30-04:00
 last_modified_at: 2022-06-28T11:00:00-03:00
-excerpt_separator: '<!--more-->'
+excerpt_separator: "<!--more-->"
 categories:
   - IT
 tags:
@@ -70,7 +70,7 @@ Abaixo listei os aplicativos que eu uso, porém existem muito outros [_packages_
 
 ### Internet
 
-```powershell
+```shell
 choco install firefox -y
 choco install googlechrome -y
 choco install jre8 -y
@@ -80,37 +80,37 @@ choco install jre8 -y
 
 ### Office
 
-```powershell
-choco install notepadplusplus.install -y
-choco install adobereader -y
-choco install office365business -y
-choco install libreoffice-fresh -y
-choco install googledrive -y
-choco install pandoc -y
-choco install winrar -y
-choco install sshfs -y
-choco install miktex.install -y
+```shell
 choco install 7zip.install -y
+choco install adobereader -y
+choco install googledrive -y
+choco install libreoffice-fresh -y
+choco install miktex.install -y
+choco install notepadplusplus.install -y
+choco install office365business -y
+choco install pandoc -y
+choco install sshfs -y
+choco install winrar -y
 ```
 
 <br>
 
 ### Comunicação
 
-```powershell
-choco install microsoft-teams -y
-choco install teamviewer -y
-choco install slack -y
-choco install zoom -y
-choco install telegram -y
+```shell
 choco install discord -y
+choco install microsoft-teams -y
+choco install slack -y
+choco install teamviewer -y
+choco install telegram -y
+choco install zoom -y
 ```
 
 <br>
 
 ### Geo
 
-```powershell
+```shell
 choco install qgis -y
 choco install qgis-ltr -y
 choco install googleearthpro -y
@@ -120,62 +120,63 @@ choco install googleearthpro -y
 
 ### Codes
 
-```powershell
-choco install vscode -y
-choco install jetbrainstoolbox -y
-choco install javaruntime -y
-choco install git.install -y
+```shell
 choco install azure-data-studio
 choco install daxstudio
+choco install docker-desktop -y
+choco install dotnetfx -y
 choco install dotnet-7.0-sdk -y
+choco install filezilla -y
+choco install git.install -y
+choco install javaruntime -y
+choco install jetbrainstoolbox -y
 choco install miniconda3 -y
 choco install miniconda3 --params="'/AddToPath:1'" -y
 choco install microsoft-windows-terminal -y
-choco install dotnetfx -y
 choco install netfx-4.8-devpack -y
-choco install vcredist140 -y
+choco install powerbi -y
 choco install soapui -y
-choco install docker-desktop -y
-choco install filezilla -y
 choco install r.studio -y
 choco install r.project -y
 choco install r.project --force --params "/AddToPath"
-choco install visualstudio2022community -y
-choco install powerbi -y
 choco install tableau-public -y
+choco install vcredist140 -y
+choco install vscode -y
+choco install visualstudio2022community -y
 ```
 
 <br>
 
 ### Mídia
 
-```powershell
+```shell
+choco install audacity -y
+choco install audacity-lame -y
+choco install ghostscript -y
+choco install inkscape -y
+choco install obs-studio -y
+choco install screentogif -y
+choco install sharex -y
 choco install spotify -y
 choco install vlc -y
-choco install inkscape -y
-choco install ghostscript -y
-choco install obs-studio -y
-choco install audacity -y
-choco install screentogif -y
-choco install audacity-lame -y
 ```
 
 <br>
 
 ### Manutenção
 
-```powershell
+```shell
 choco install ccleaner -y
+choco install partitionwizard -y
 choco install treesizefree -y
 choco install zerotier-one -y
-choco install partitionwizard -y
 ```
 
 <br>
 
 ### Files
 
-```powershell
+```shell
 choco install virtualbox --params "/NoDesktopShortcut /CurrentUser /ExtensionPack"
 ```
 
@@ -183,7 +184,7 @@ choco install virtualbox --params "/NoDesktopShortcut /CurrentUser /ExtensionPac
 
 ### Others
 
-```powershell
+```shell
 choco install mouse-jiggler -y
 ```
 
@@ -191,7 +192,7 @@ choco install mouse-jiggler -y
 
 ### Conda
 
-```
+```shell
 '/InstallationType:AllUsers'
 choco install miniconda3 --params="'/AddToPath:1' '/RegisterPython:1' '/D:%USERPROFILE%\Documents\Conda'"
 

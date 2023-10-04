@@ -1,16 +1,17 @@
 ---
-title: 'Azure DevOps'
+title: "Azure DevOps: ssh"
 date: 2023-04-25T00:00:00-03:00
-last_modified_at: 2023-04-25T00:00:00-03:00
-excerpt_separator: '<!--more-->'
+last_modified_at: 2023-10-04T00:00:00-03:00
+excerpt_separator: "<!--more-->"
 categories:
   - IT
   - Hacks
 tags:
   - git
+  - ssh
 ---
 
-Assim como no GitHub, no Azure DevOps existem dois protocolos possíveis para se manejar os repositórios:
+Assim como no GitHub, no Azure DevOps existem dois protocolos possíveis para se manejar (_push_/_pull_) os repositórios:
 
 - SSH
 - HTTPs
@@ -19,7 +20,7 @@ Assim como no GitHub, no Azure DevOps existem dois protocolos possíveis para se
 
 No GitHub é possível [usar SSH na porta HTTPS](https://docs.github.com/pt/authentication/troubleshooting-ssh/using-ssh-over-the-https-port), ou seja, através do protocolo SSH (que utiliza a porta 22), alternar para a porta 443! Essa possibilidade é excelente para superar bloqueios de _firewalls_ corporativos.
 
-Contudo, o AzureDevOps não conta com essa possibilidade, sendo necessário usar o SSH na porta 22 ou HTTPs na porta 443 e fim de papo. Considerando que o _firewall_ me bloqueia na porta 22, não me resta outra opção a não ser usar a porta 443, ou seja, protocolo HTTPS!
+Contudo, o AzureDevOps não conta com essa possibilidade, sendo necessário usar o SSH na porta 22 ou HTTPs na porta 443 e fim de papo. Considerando que o _firewall_ corporativo me bloqueia na porta 22, não me resta outra opção a não ser usar a porta 443, ou seja, protocolo HTTPS!
 
 Para fins de teste, seguem dois comandos para testar o SSH na porta 22. Veja a diferença de resultados entre o GitHub e o AzureDevOps.
 
@@ -41,7 +42,7 @@ Quando utilizamos o protocolo HTTPs perdemos a praticidade e segurança proporci
 
 ## Senha _versus_ PAT
 
-Iportante destacar que ao optar pelo protocolo HTTPs, é necessário o uso de senha. Contudo, a "senha" que o DevOps usa não é a senha do usuário. Trata-se, na realidade, de um _Personal Access Token_ (PAT). Para mais informações sobre a gestão dos PATs, ler o artigo [_Learn:_ **Use personal access tokens**](https://learn.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate?view=azure-devops&tabs=Windows)
+Importante destacar que ao optar pelo protocolo HTTPs, é necessário o uso de senha. Contudo, a "senha" que o AzureDevOps usa não é a senha do usuário. Trata-se, na realidade, de um _Personal Access Token_ (PAT). Para mais informações sobre a gestão dos PATs, ler o artigo [_Learn:_ **Use personal access tokens**](https://learn.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate?view=azure-devops&tabs=Windows)
 
 ![](https://i.imgur.com/iFKch7Y.png)
 
@@ -51,7 +52,9 @@ Iportante destacar que ao optar pelo protocolo HTTPs, é necessário o uso de se
 
 ## Git Manager Credentials
 
-O Git Manager Credentials é um recurso que permite aos usuários armazenar suas credenciais de _login_ do Git em um local seguro e confiável. Com o [_Git Manager Credentials_](https://github.com/git-ecosystem/git-credential-manager), os usuários não precisam inserir suas credenciais de _login_ toda vez que se conectam a um repositório Git remoto. Em vez disso, as credenciais são armazenadas em um arquivo de configuração localizado em um diretório específico. Isso torna mais fácil para os usuários gerenciarem suas credenciais de _login_ do Git, ao mesmo tempo em que mantêm suas informações seguras e protegidas.
+O Git Manager Credentials é um recurso que permite aos usuários armazenar suas credenciais de _login_ do Git em um local seguro e confiável. Com o [_Git Manager Credentials_](https://github.com/git-ecosystem/git-credential-manager), os usuários não precisam inserir suas credenciais de _login_ toda vez que se conectam a um repositório Git remoto.
+
+Em vez disso, as credenciais são armazenadas em um arquivo de configuração localizado em um diretório específico. Isso torna mais fácil para os usuários gerenciarem suas credenciais de _login_ do Git, ao mesmo tempo em que mantêm suas informações seguras e protegidas.
 
 Para ver se o Git Manager Credentials está instalado basta dar o seguitnte comando:
 
@@ -62,7 +65,7 @@ git credential-manager
 
 <br>
 
-No artigo [git-credential-manager/credstores](https://github.com/git-ecosystem/git-credential-manager/blob/main/docs/credstores.md) descobri que eu poderia definir que
+No artigo [git-credential-manager/credstores](https://github.com/git-ecosystem/git-credential-manager/blob/main/docs/credstores.md) descobri que eu poderia definir onde guardar as chaves.
 
 ```powershell
 # Define que o password está em um arquivo

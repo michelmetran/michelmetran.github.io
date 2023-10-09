@@ -1,18 +1,16 @@
 ---
-title: 'Samba'
+title: "Samba"
 date: 2023-05-04T00:00:00-03:00
 last_modified_at: 2023-05-04T00:00:00-03:00
-excerpt_separator: '<!--more-->'
+excerpt_separator: "<!--more-->"
 categories:
   - IT
-
 tags:
   - python
   - pycharm
   - jupyter
   - package
   - pandas
-
 ---
 
 O Samba é um conjunto de ferramentas para lidar com o protocolo SMB (também conhecido como “CIFS”) no Linux. Esse protocolo é usado pelo Windows para compartilhamento de rede e impressoras compartilhadas.

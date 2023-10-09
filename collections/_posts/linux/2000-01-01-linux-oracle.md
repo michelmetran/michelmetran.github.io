@@ -5,7 +5,6 @@ last_modified_at: 2023-05-21T15:00:00-03:00
 excerpt_separator: '<!--more-->'
 categories:
   - IT
-
 tags:
   - python
   - pycharm
@@ -14,7 +13,7 @@ tags:
   - pandas
 ---
 
-Em 20.05.2023 criei instâncias na oracle Cloud, gratuitamente. Uma das instâncias que criei utiliza como Sistema Operacional o [Oracle Linux](https://www.oracle.com/linux/).
+Em 20.05.2023 criei instâncias na Oracle Cloud, gratuitamente. Uma das instâncias que criei utiliza como Sistema Operacional o [Oracle Linux](https://www.oracle.com/linux/).
 
 Toda a documentação pode ser encontrada [aqui](https://docs.oracle.com/en/operating-systems/oracle-linux/9/)
 

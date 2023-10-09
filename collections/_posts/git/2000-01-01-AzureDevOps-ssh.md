@@ -7,6 +7,7 @@ categories:
   - IT
   - Hacks
 tags:
+  - AzureDevOps
   - git
   - ssh
 ---

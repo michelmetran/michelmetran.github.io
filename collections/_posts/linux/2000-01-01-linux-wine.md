@@ -11,5 +11,4 @@ tags:
   - wine
 ---
 
-
 https://linuxhint.com/install-wine-pop-os/

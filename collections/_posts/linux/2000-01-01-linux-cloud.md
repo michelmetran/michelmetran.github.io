@@ -58,11 +58,9 @@ google-drive-ocamlfuse
 # Cria Diretório
 mkdir ~/Cloud/"GDrive"
 mkdir ~/Cloud/"GDrive Alumni"
-mkdir ~/Cloud/"GDrive USP"
 
 # Montar
 google-drive-ocamlfuse -label Personal ~/Cloud/"GDrive"/
-google-drive-ocamlfuse -label USP ~/Cloud/"GDrive USP"/
 google-drive-ocamlfuse -label Alumni ~/Cloud/"GDrive Alumni"/
 
 # Desmontar

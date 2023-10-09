@@ -203,3 +203,7 @@ tag_archive:
 # Scripts
 # head_scripts:
 #   - https://code.jquery.com/jquery-3.3.1.min.js
+#footer_scripts:
+#  - /assets/js/your-custom-footer-script.js
+#after_footer_scripts:
+#  - /assets/js/custom-script-loads-after-footer.js

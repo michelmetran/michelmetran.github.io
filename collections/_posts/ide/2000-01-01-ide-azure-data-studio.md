@@ -16,3 +16,11 @@ tags:
 ---
 
 [How to Fix Azure Data Studio Blank / Black Screen](https://metadataconsulting.blogspot.com/2019/03/How-to-Fix-Azure-Data-Studio-Blank-Black-Screen.html)
+
+<br>
+
+Para abrir o Azure Data Studio na linha de comando basta dar o seguinte comando
+
+```
+azuredatastudio .
+```

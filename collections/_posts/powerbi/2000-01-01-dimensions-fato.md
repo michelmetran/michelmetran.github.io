@@ -10,7 +10,7 @@ categories:
   - IT
   - Data Science
 tags:
-  - power bi
+  - PowerBI
   - dimensões
   - tabela fato
 ---

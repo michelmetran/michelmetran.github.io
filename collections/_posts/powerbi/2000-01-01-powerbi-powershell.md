@@ -17,7 +17,7 @@ Com os cmdlets do PowerBI, é possível automatizar tarefas como publicar relat�
 
 <br>
 
-----
+---
 
 ## PowerShell
 

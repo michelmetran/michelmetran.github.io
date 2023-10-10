@@ -21,12 +21,15 @@ ssh michel@192.168.0.112
 
 ```
 ssh michel@192.168.0.106
-ssh michelsilva@192.168.0.106
-ssh MP\michelsilva@192.168.0.106
-ssh -l michelsilva@MP 192.168.0.106
 ssh michel@192.168.0.106
 ssh michel@172.28.0.7
+
+ssh michelsilva@192.168.0.106
 ssh MP\michelsilva@192.168.0.106
+ssh MP\michelsilva@192.168.0.106
+ssh MP\michelsilva@192.168.0.106
+
+ssh -l michelsilva@MP 192.168.0.106
 ssh -l michelsilva@MP 192.168.0.106
 ```
 
@@ -40,6 +43,8 @@ woshub\max@server1 – NetBIOS name format
 - https://github.com/microsoft/vscode-remote-release/issues/5111
 
 <br>
+
+---
 
 # Conectando no Asus i7
 

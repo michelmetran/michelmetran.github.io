@@ -44,7 +44,7 @@ Portanto, busquei alternativas para conseguir, a partir do meu Ubuntu, rodar ess
 
 2. Nessa máquina virtual, instalar o _conda_, sendo recomendado inserir os _paths_ da instalação nas variáveis de ambiente... ou inserir manualmente.
 
-   ```bash
+   ```cmd
    C:\ProgramData\Miniconda3\Library\bin\conda.bat
    C:\ProgramData\Miniconda3\Scripts\conda.exe
    C:\ProgramData\Miniconda3\condabin\conda.bat
@@ -144,6 +144,8 @@ net use Z: \\asus-i7\Codes
 
 <br>
 
+---
+
 ### Finalizar Processo na Porta
 
 ```
@@ -154,9 +156,7 @@ lsof -ti:8889 | xargs kill -9
 
 <br>
 
-### SSH Agent
-
--
+---
 
 <br>
 

@@ -7,6 +7,7 @@ categories:
   - Hacks
 tags:
   - ssh
+  - scp
   - firma
   - rhel
   - linux

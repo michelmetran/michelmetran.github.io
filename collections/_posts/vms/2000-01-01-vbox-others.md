@@ -5,7 +5,6 @@ last_modified_at: 2023-05-04T00:00:00-03:00
 excerpt_separator: "<!--more-->"
 categories:
   - IT
-
 tags:
   - python
   - pycharm
@@ -23,7 +22,7 @@ Criei minhas VMs usando o disco com tamanho fixo, visto que o acesso ao HD virtu
 cd C:\Program Files\Oracle\VirtualBox
 
 # Compacta o Disco da VM do Win
-VBoxManage.exe clonemedium disk "C:\Users\michelsilva\VMs\Ubuntu\Ubuntu.vdi" "C:\Users\michelsilva\VMs\Ubuntu\Ubuntu-dynamic2.vdi" -variant Standard
+VBoxManage.exe clonemedium disk "C:\Users\michelsilva\VMs\Ubuntu\Ubuntu.vdi" "C:\Users\michelsilva\VMs\Ubuntu\Ubuntu-dynamic.vdi" -variant Standard
 
 # Compacta o Disco da VM do Ubuntu
 VBoxManage.exe clonemedium disk "C:\Users\michelsilva\VMs\Win\Win.vdi" "C:\Users\michelsilva\VMs\Win\Win-dynamic.vdi" -variant Standard
@@ -35,13 +34,13 @@ Agora é necessário compactar. Inicialmente faz-se isso:
 
 ```powershell
 # Compact
-VBoxManage.exe modifyhd --compact "C:\Users\michelsilva\VMs\Ubuntu\Ubuntu-dynamic2.vdi"
+VBoxManage.exe modifyhd --compact "C:\Users\michelsilva\VMs\Ubuntu\Ubuntu-dynamic.vdi"
 VBoxManage.exe modifyhd --compact "C:\Users\michelsilva\VMs\Win\Win-dynamic.vdi"
 ```
 
 <br>
 
-Mas ainda assim o ideal é compactar o Sistema Operacional do host. No Widows, trata-se do desframentador. No Linux é foda!, vários eros.
+Mas ainda assim o ideal é compactar o Sistema Operacional do *host*. No Windows, trata-se do desfragmentador. No Linux é foda!, vários eros.
 
 ```bash
 systemctl stop systemd-journald.socket

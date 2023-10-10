@@ -64,6 +64,8 @@ df
 sudo umount my_codes
 ```
 
+<br>
+
 ```bash
 # Uma vez que, manualmente, deu certo a montagem!
 sudo gedit /etc/fstab
@@ -86,12 +88,12 @@ vboxsf
 
 ## Compartilhando entre _host_ e _others devices_
 
-Cenário: uma vez com a virtual machine funcionando, criei um hotspot móvel para conectar outros dispositivos externos a rede que estão inserido.
+Cenário: uma vez com a virtual machine funcionando, criei um _hotspot_ móvel para conectar outros dispositivos externos a rede que estão inserido.
 
 Uma vez que criei uma rede secundária, posso "montar" unidades dentro da minha _virtual box_.
 No caso eu estava no pc do trabalho (_windows_), com um ubuntu em uma _virtual machine_ (guest).
 
-No Ubuntu eu me conectei ao meu notebook (ubuntu), por wi-fi, via hotspot. E queria montar unidades.
+No Ubuntu eu me conectei ao meu notebook (ubuntu), por wi-fi, via _hotspot_. E queria montar unidades.
 Na _virtual machine_ é necessário ter os pacotes necessários para montar unidades em outros sistemas de arquivos (diferentes do _ext4_).
 
 ```bash
@@ -101,7 +103,7 @@ sudo apt install cifs-utils
 
 <br>
 
-Identificar o IP dos dispositivos conectados pelo hotspot móvel.
+Identificar o IP dos dispositivos conectados pelo _hotspot_ móvel.
 
 ```bash
 arp -a
@@ -144,6 +146,8 @@ sudo mount -t vboxsf -o rw,uid=1000,gid=1000,dmode=755,fmode=644 Dropbox ~/Dropb
 ```
 
 <br>
+
+---
 
 ## Referência
 

@@ -6,7 +6,6 @@ last_modified_at: 2023-05-04T00:00:00-03:00
 excerpt_separator: "<!--more-->"
 categories:
   - IT
-
 tags:
   - python
   - pycharm
@@ -31,6 +30,8 @@ Notei que tutoriais mais antigos apresentavem uma série de passos adicionais pa
 
 <br>
 
+---
+
 ## Disk2vhd
 
 Utilizando o aplicativo SysInternal [Disk2vhd](https://docs.microsoft.com/pt-br/sysinternals/downloads/disk2vhd) é possível converter uma máquina física, ou seja, um Sistema operacional instalado em um PC, em um arquivo _.vhd_
@@ -45,6 +46,8 @@ O processo pode ser demorado e necessita que você tenho acesso de administrador
 
 <br>
 
+---
+
 ## Passos
 
 Após feito isso, usando o VirtualBox eu criei nova máquina, com configurações simples, e indiquei um disco existente, ou seja, o arquivo _.vhd_ recem criado.
@@ -52,6 +55,8 @@ Após feito isso, usando o VirtualBox eu criei nova máquina, com configuraçõe
 Abri minha máquina virtual, deletei alguns programas visando "dar uma limpada". Removi bastante coisa!
 
 <br>
+
+---
 
 ## Compactação
 
@@ -62,11 +67,15 @@ Após isso, com a máquina mais leve, converti a máquina para o formato _.vdi_,
 cd C:\Program Files\Oracle\VirtualBox
 
 # Outros
-VBoxManage.exe clonemedium disk "E:\P251672.vhd" "E:\P251672-dynamic.vdi" --variant Standard --format vdi
+VBoxManage.exe clonemedium disk "E:\hostname.vhd" "E:\hostname-dynamic.vdi" --variant Standard --format vdi
 
 # Infos
-VBoxManage.exe showmediuminfo "E:\P251672-dynamic.vdi"
+VBoxManage.exe showmediuminfo "E:\hostname-dynamic.vdi"
 
 # Compact
-VBoxManage.exe modifyhd --compact "E:\P251672-dynamic.vdi"
+VBoxManage.exe modifyhd --compact "E:\hostname-dynamic.vdi"
 ```
+
+<br>
+
+Após isso o arquivo _.vdi_ estápronto pra uso!

@@ -5,7 +5,6 @@ last_modified_at: 2023-05-12T14:00:00-03:00
 categories:
   - IT
   - Hacks
-
 tags:
   - vms
   - remote desktop
@@ -14,7 +13,8 @@ tags:
 
 Sempre que acesso uma máquina remota, no Windows, por meio do _Remote Desktop Connection_ eu precisava digitar a senha. Curiosamente o Windows não armazenada a senha, mesmo que na primeira tentativa eu habilita-se o _Remember-me_
 
-**OBS**: Isso ocorre quando estou me conectando em PCs que estão dentro de domínios, ou seja, o login de usuário está na estrutura `{domain}/{username}`.
+**Observação**: Isso ocorre quando estou me conectando em PCs que estão dentro de domínios, ou seja, o login de usuário está na estrutura `{domain}/{username}`.
+{: .notice--info}
 
 |                Antes                 |                Depois                |
 | :----------------------------------: | :----------------------------------: |

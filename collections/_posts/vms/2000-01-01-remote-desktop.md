@@ -2,11 +2,9 @@
 title: "Remote Desktop"
 date: 2023-05-04T00:00:00-03:00
 last_modified_at: 2023-05-04T00:00:00-03:00
-
 excerpt_separator: "<!--more-->"
 categories:
   - IT
-
 tags:
   - python
   - pycharm
@@ -37,6 +35,8 @@ Uma vez instalado, basta conectar-se ao Ubuntu, através do Windows, usando o co
 
 <br>
 
+---
+
 ### XfreeRDP
 
 Instalar
@@ -50,7 +50,7 @@ sudo apt-get install freerdp2-x11
 Usar
 
 ```bash
-xfreerdp /multimon /u:<username> /v:<remote windows machine name>
+xfreerdp /multimon /u:{username} /v:{remote windows machine name}
 xfreerdp /multimon /u:michel /v:192.168.0.106 -wallpaper
 xfreerdp /multimon /u:michel /v:asus-i5-mp
 xfreerdp /multimon /gu:workgroup\michel /v:asus-i5-mp
@@ -71,6 +71,10 @@ Tecla para alternar entre Remote e Host
 CTRL + ALT + Enter
 ```
 
+<br>
+
+---
+
 ### KVM
 
 ```bash
@@ -83,16 +87,13 @@ https://qastack.com.br/superuser/758463/getting-1920x1080-resolution-or-169-aspe
 
 <br>
 
-**Referências**
+---
+
+## Referências
 
 - [Linux : Remote desktop multiple monitor support](https://medium.com/analytics-vidhya/linux-remote-desktop-multiple-monitor-support-840974e9eb73)
 - [Conexão de área de trabalho remota do Windows no Linux com clientes RDP](https://kamarada.github.io/pt/2020/04/11/conexao-de-area-de-trabalho-remota-do-windows-no-linux-com-clientes-rdp/#.XzaSuxlv_AI)
 - [**YouTube**: Como Mudar do Windows Home para o Pro, sem Precisar FORMATAR o PC!](https://www.youtube.com/watch?v=uAW83G0Vxis)
 - [Como conectar à um servidor Linux via Remote Desktop (Windows)](https://medium.com/@fabianosarmento/como-conectar-%C3%A0-um-servidor-linux-via-remote-desktop-windows-aa5ce95405e8)
 - [Como se conectar a partir do Windows no Ubuntu usando o Remote Desktop](https://www.vivaolinux.com.br/dica/Como-se-conectar-a-partir-do-Windows-no-Ubuntu-usando-o-Remote-Desktop)
-
-https://learn.microsoft.com/en-us/windows/win32/termserv/terminal-services-shortcut-keys
-
-<br>
-
----
+- https://learn.microsoft.com/en-us/windows/win32/termserv/terminal-services-shortcut-keys

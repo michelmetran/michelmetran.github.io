@@ -1,18 +1,17 @@
 ---
-title: 'Remote Desktop: Windows'
+title: "Remote Desktop Connection: <i>Shutdown</i>"
 date: 2023-02-02T14:34:30-03:00
 last_modified_at: 2023-02-02T14:34:30-03:00
 categories:
   - IT
   - Hacks
-
 tags:
   - vms
   - remote desktop
   - WOL
 ---
 
-Uma vez utilizando *desktops* remotos (que tenham sistema operacional Windows), me deparei com um problema: por esquecimento, solicitava o desligamento da máquina e perdia acesso.
+Uma vez utilizando _desktops_ remotos (que tenham sistema operacional Windows), me deparei com um problema: por esquecimento, solicitava o desligamento da máquina e perdia acesso.
 
 Existem duas maneiras de contornar esse problema:
 
@@ -32,11 +31,13 @@ Tais informações foram obtidas no artigo [superuser: **How to remove shutdown 
 
 <br>
 
----
+**IMPORTANTE**: Habilitar a opção acima não impede os usuários de desligarem o PC. Os comandos que devem ser lembrados, quando necessário reiniciar o PC, são:
+{: .notice--primary}
 
-**IMPORTANTE**
+```powershell
+# Para desligar o computador
+shutdown /s
 
-Habilitar a opção acima não impede os usuários de desligarem o PC. Os comandos que devem ser lembrados, quando necessário reiniciar o PC, são:
-
-- `shutdown /s` para desligar o computador
-- `shutdown /r` para reiniciar o computador
+# Para reiniciar o computador
+shutdown /r
+```

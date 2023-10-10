@@ -12,10 +12,6 @@ tags:
 
 ## SSH
 
-```powershell
-# Reinicia PC
-shutdown -r -t 01
-```
 
 <br>
 
@@ -25,8 +21,8 @@ shutdown -r -t 01
 
 estudar e explicar scp no post do ssh
 
-```
-scp ~/.ssh/id_rsa.pub michelsilva@mpappbi01d-v:
+```shell
+scp ~/.ssh/id_rsa.pub user@host:
 ```
 
 https://kb.iu.edu/d/aews

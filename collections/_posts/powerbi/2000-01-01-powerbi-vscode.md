@@ -7,7 +7,7 @@ categories:
   - IT
   - Data Science
 tags:
-  - PowerBI
+  - Power BI
   - VsCode
 ---
 

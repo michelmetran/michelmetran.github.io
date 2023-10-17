@@ -7,11 +7,11 @@ categories:
   - IT
   - Data Science
 tags:
-  - PowerBI
+  - Power BI
   - PowerShell
 ---
 
-O PowerBI é uma ferramenta de análise de dados que permite criar relatórios e _dashboards_ interativos. Para manejar o PowerBI por meio do PowerShell, é preciso instalar os cmdlets do Power BI, que são comandos que permitem interagir com os recursos do PowerBI, como _workspaces_, relatórios, conjuntos de dados e muito mais.
+O Power BI é uma ferramenta de análise de dados que permite criar relatórios e _dashboards_ interativos. Para manejar o Power BI por meio do PowerShell, é preciso instalar os cmdlets do Power BI, que são comandos que permitem interagir com os recursos do Power BI, como _workspaces_, relatórios, conjuntos de dados e muito mais.
 
 Com os cmdlets do PowerBI, é possível automatizar tarefas como publicar relatórios, atualizar conjuntos de dados, gerenciar permissões e invocar a API do Power BI. Para usar os cmdlets do Power BI, é necessário se autenticar no Power BI usando o comando `Login-PowerBI` e fornecer as credenciais da conta ou do aplicativo. Depois disso, é possível usar os outros cmdlets para executar as ações desejadas no PowerBI.
 
@@ -21,7 +21,7 @@ Com os cmdlets do PowerBI, é possível automatizar tarefas como publicar relat�
 
 ## PowerShell
 
-Lendo o arrtigo [Cmdlets para PowerShell - Administrando o Power BI like a Pro!](http://www.rafaelmendonca.com/2019/07/power-bi-cmdlet-powershell-admin.html) passei a entender um pouco do uso do PowerShell para manejar o PowerBI.
+Lendo o artigo [Cmdlets para PowerShell - Administrando o Power BI like a Pro!](http://www.rafaelmendonca.com/2019/07/power-bi-cmdlet-powershell-admin.html) passei a entender um pouco do uso do PowerShell para manejar o PowerBI.
 
 Outro artigo que dá caminhos interessantes tanmbém para usar o PowerBi com o PowerShell é o [Working with PowerShell in Power BI](https://powerbi.microsoft.com/pt-br/blog/working-with-powershell-in-power-bi/)
 

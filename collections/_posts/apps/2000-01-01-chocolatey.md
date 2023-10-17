@@ -139,6 +139,7 @@ choco install soapui -y
 choco install r.studio -y
 choco install r.project -y
 choco install r.project --force --params "/AddToPath"
+choco install ruby -y
 choco install tableau-public -y
 choco install vcredist140 -y
 choco install vscode -y

@@ -29,6 +29,9 @@ Em resumo, o **_Ruby on Rails_** é um _framework_ que oferece uma abordagem ág
 
 <br>
 
+
+https://stackoverflow.com/questions/68799845/bundler-conflict-requirements-for-the-ruby-version
+
 ---
 
 ### Desenvolvimento Local
@@ -36,6 +39,9 @@ Em resumo, o **_Ruby on Rails_** é um _framework_ que oferece uma abordagem ág
 ```shell
 # Regenerate Gemfile.lock
 bundle install
+
+#
+bundle env
 
 # Roda
 bundle exec jekyll serve
@@ -50,4 +56,12 @@ bundle update
 bundle exec jekyll serve --open-url --livereload --incremental
 ```
 
-rubyinstaller-devkit-3.1.3-1-x64
+<br>
+
+Para instalar o Ruby
+
+```shell
+# Instala
+choco install ruby -y
+choco uninstall ruby -y
+```

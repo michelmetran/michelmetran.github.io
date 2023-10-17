@@ -7,7 +7,7 @@ categories:
   - IT
   - Data Science
 tags:
-  - PowerBI
+  - Power BI
 ---
 
 [DAX's PATH function equivalent Custom Column in Power Query](https://community.fabric.microsoft.com/t5/Quick-Measures-Gallery/DAX-s-PATH-function-equivalent-Custom-Column-in-Power-Query/m-p/800386)

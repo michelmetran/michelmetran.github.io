@@ -1,5 +1,5 @@
 ---
-title: "PowerShell"
+title: "PowerShell <i>Update</i>"
 date: 2019-06-13T15:34:30-04:00
 last_modified_at: 2022-06-29T00:00:00-03:00
 excerpt_separator: "<!--more-->"
@@ -8,7 +8,7 @@ categories:
 tags:
   - command line
   - apps
-  - powershell
+  - PowerShell
 ---
 
 O [PowerShell](https://learn.microsoft.com/pt-br/powershell/scripting/overview?view=powershell-7.2) é uma solução de automação de tarefas multiplataforma que consiste em um shell de linha de comando, em uma linguagem de script e uma estrutura de gerenciamento de configuração. O PowerShell pode ser executado no Windows, Linux e macOS.

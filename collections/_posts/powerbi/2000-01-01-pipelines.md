@@ -40,6 +40,9 @@ Abaixo seguem explicações para dar início a essa configuração!
 
 É também necessário **criar credenciais** para essa _Application_! Para isso basta ir em _Certificates & secrets_ e criar uma. Anote o _secret_ criado!
 
+**Notas:** Traçando paralelos, a aplicação criada atuará de forma similar à um usuário da organização que, por meio das credenciais, poderá publicar arquivos _.pbix_ nas _workspaces_ da organização!
+{: .notice--info}
+
 ![](https://i.imgur.com/L1Hwac6.png)
 
 <br>
@@ -60,6 +63,12 @@ No [PowerBI Admin Portal](https://app.powerbi.com/admin-portal/tenantSettings) �
 
 <br>
 
+Também é necessário adicionar a _Application_ (ou _Service Principal_) com a permissão de, no mínimo, membro.
+
+![](https://i.imgur.com/y2lgEOY.png)
+
+<br>
+
 ---
 
 ### No Ambiente do AzureDevOps
@@ -75,51 +84,79 @@ E, por fim, promover configução do _pipeline_. Em um primeiro momento fiz a co
 
 <br>
 
-Outra abordagem que usei foi definir todas as etapas no arquivo `azure-pipelines.yml`, com o seguinte conteúdo
+Outra abordagem que usei posteriormente, e **é mais _clean_ (e portanto, melhor!)** , foi definir todas as etapas no arquivo `azure-pipelines.yml`, localizado na raiz do repositório git, no AzureDevOps, com o seguinte conteúdo
 
 ```yaml
+# Pipeline criado para automatizar a publicação de
+# arquivos .pbix em workspaces do Power BI
+#
+# Michel Metran
+# Data: 05.10.2023
+# Atualizado em: 17.10.2023
+# -------------------------
+
 trigger:
   - main
 
-# Definição do Agent
+# Agent
 pool:
   vmImage: windows-2019
 
-# Definição de Variáveis
+# Variáveis
 variables:
-  system.debug: "true" # Ideal para debugar o pipeline
+  # AJUSTAR
+  NamePbixFile: "ANPPs.pbix"
+  WorkspaceName: "Testes"
+  PowerBIService: "power-bi-service-principal"
 
-  # Static Variable
-  NamePbixFile: "ANPP.pbix"
+  # Debugar Pipeline
+  system.debug: "true"
 
 steps:
-  # Copia o arquivo .pbix para a pasta de artifacts
+  # Copia o arquivo .pbix para Staging Directory
   - task: CopyFiles@2
     displayName: 'Copy Files to: "$(Build.ArtifactStagingDirectory)"'
     inputs:
       SourceFolder: $(Build.SourcesDirectory)
-      Contents: "bi/${{variables.NamePbixFile}}"
+      Contents: "**/${{variables.NamePbixFile}}"
       TargetFolder: $(Build.ArtifactStagingDirectory)
       flattenFolders: true
       OverWrite: true
 
-  # Copia o conteúdo da pasta de artifacts para o AzurePipelines
+  # Publica arquivo do Staging Directory no Artifact
+  # https://learn.microsoft.com/pt-br/azure/devops/pipelines/tasks/reference/publish-build-artifacts-v1
   - task: PublishBuildArtifacts@1
     displayName: "Publish Artifact to: $(Build.ArtifactStagingDirectory)"
     inputs:
       PathtoPublish: $(Build.ArtifactStagingDirectory)
-      ArtifactName: my_bi_artifact
-      publishLocation: FilePath
-      TargetPath: "$(Build.ArtifactStagingDirectory)"
+      ArtifactName: my_artifact
+      publishLocation: Container
+      MaxArtifactSize: 0
+      Parallel: false
+      StoreAsTar: false
 
-  # Release: publica na workspace
+  # Publica Artifact na workspace
   - task: maikvandergaag.maikvandergaag-power-bi-actions.PowerBIActions.PowerBIActions@5
-    displayName: "Power BI Action: Publish"
+    displayName: "Power BI: Publish in Workspace"
     inputs:
-      PowerBIServiceEndpoint: "power-bi-service-principal"
-      WorkspaceName: Testes
-      PowerBIPath: "$(Build.ArtifactStagingDirectory)/${{variables.NamePbixFile}}"
+      PowerBIServiceEndpoint: "$(PowerBIService)"
+      WorkspaceName: "$(WorkspaceName)"
+      PowerBIPath: "$(System.ArtifactsDirectory)/${{variables.NamePbixFile}}"
 ```
+
+<br>
+
+Ah!, e também é necessário definir o _Service Connection_, inserindo o _Application (Client) ID_, o _Directory (Tenant) ID_ e o _Secret_ da _Application_.
+
+![](https://i.imgur.com/1p9CQk5.png)
+
+<br>
+
+---
+
+## _Deploy_
+
+Após todas essas configurações, ao fazer qualquer modificação nos arquivos do repositório _git_ e fizer um _push_ para "subir" as modificações, o _pipeline_ será disparado e o arquivo _.pbix_ definido será publicada na _workspace_ também definida no arquivo `azure-pipelines.yml`.
 
 <br>
 
@@ -130,3 +167,5 @@ steps:
 Foram diversas as referências que usei para conseguir fazer o _deploy_ dos painéis automaticamente. Talvez o vídeo que importante foi o [PowerBI - CI/CD using Azure DevOps](https://youtu.be/qskIb2Hilv4?si=EmJS2bTw387IzZFh), de um indiano que foi explicando as etapas que segui.
 
 O vídeo [Power BI Dataset CI/CD Pipeline (Azure Dev Ops, XMLA Endpoint, Tabular Editor & Service Connection)](https://www.youtube.com/watch?v=8NHVFuvHwoI) avança nas configurações, por trazer também a possibilidade de fazer _deploy_ do modelo tabular!
+
+Ainda, durante a configuração do _pipeline_, tive dificuldades para fazer funcionar corretamente e, diante disso, escrevi a _issue_ [#508 Doesn't recognize my workspace](https://github.com/maikvandergaag/msft-extensions/issues/508) que pode trazer mais informações.

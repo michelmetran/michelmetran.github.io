@@ -30,6 +30,63 @@ iex "& { $(irm https://aka.ms/install-powershell.ps1) } -UseMSI"
 
 ---
 
+## Comandos
+
+```powershell
+# Install
+Install-Module -Name MSOnline -Verbose
+Install-Module -Name Az -Verbose
+Install-Module AzureAD
+
+# Update
+Update-Module -Name MSOnline -Verbose
+Update-Module -Name Az -Verbose # 
+
+# Uninstall
+Uninstall-Package -Name MSOnline -Verbose
+
+# Find Modules
+Find-Module -Name MSOnline -Repository PSGallery -Verbose
+
+# Pega Programas Instalados
+Get-WmiObject -Class Win32_Product | Select-Object -Property Name
+
+# Lista
+Get-PSRepository
+
+# Set Trusted
+Set-PSRepository -Name PSGallery -InstallationPolicy Trusted
+
+# Import
+Import-Module MSOnline
+Get-MsolServicePrincipal
+
+#
+Get-Host | Select-Object Version
+
+#
+[Net.ServicePointManager]::SecurityProtocol
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
+
+# Policy
+Get-ExecutionPolicy -List
+Set-ExecutionPolicy Unrestricted
+Set-ExecutionPolicy RemoteSigned
+
+#
+Install-PackageProvider -Name NuGet -MinimumVersion 2.8.5.201 -Force -Verbose
+
+
+#
+Get-PackageSource
+Unregister-PackageSource -Source nugetRepository
+Register-PackageSource -provider NuGet -name nugetRepository -location https://www.nuget.org/api/v2
+```
+
+<br>
+
+---
+
 ## Problemas e Soluções
 
 Em out.22 o PowerShell deixou de funcionar no PC e descobri, com [How To Fix PowerShell Has Stopped Working or Not Opening In Windows 10](https://www.youtube.com/watch?v=QfCKCasBef4) que se fazia necessário.

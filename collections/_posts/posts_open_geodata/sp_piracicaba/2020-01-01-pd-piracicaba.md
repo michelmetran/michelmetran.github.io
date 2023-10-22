@@ -18,7 +18,7 @@ excerpt: Webmap do Plano Diretor, com macrozoneamento, bairros etc.
 share: false
 related: false
 header:
-  overlay_image: /assets/sp_piracicaba/imgs/Panorâmica_Rio_Piracicaba.jpg
+  overlay_image: /assets/attachments/open_geodata/sp_piracicaba/imgs/Panorâmica_Rio_Piracicaba.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo by **Bruno Karklis** on [Wikipedia](https://pt.m.wikipedia.org/wiki/Ficheiro:Panor%C3%A2mica_Rio_Piracicaba.jpg)"
   actions:
@@ -30,6 +30,6 @@ Mapa do Plano Diretor de Piracicaba, definido pela **Lei Complementar nº405/201
 
 Mais informações, consultar o [site da prefeitura](http://planodiretor.piracicaba.sp.gov.br/plano-diretor-de-desenvolvimento-de-piracicaba/)
 
-Mapas extraídos do arquivo *Mapa_1_2_3_4_macrozonas_zonas_PLC.dwg*  em janeiro de 2021.
+Mapas extraídos do arquivo _Mapa_1_2_3_4_macrozonas_zonas_PLC.dwg_ em janeiro de 2021.
 
-<iframe src="https://open-geodata.github.io/assets/sp_piracicaba/data/map_pd_piracicaba.html" width="100%" height="480"  frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe src="/assets/attachments/open_geodata/sp_piracicaba/data/map_pd_piracicaba.html" width="100%" height="480"  frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>

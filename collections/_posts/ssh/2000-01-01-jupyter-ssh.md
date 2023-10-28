@@ -132,6 +132,9 @@ No Ubuntu, caso deseje digitar o _hostname_ ao invés do IP (192.168...), basta 
 sudo gedit /etc/hosts
 ```
 
+
+
+
 <br>
 
 ### Unidade de Rede

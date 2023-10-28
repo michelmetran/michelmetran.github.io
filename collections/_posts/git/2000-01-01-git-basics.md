@@ -87,10 +87,13 @@ Este comando apresenta o conteúdo do arquivo `~/.gitconfig` e é possível edit
 ssh-keygen -t rsa -b 4096 -C "michelmetran@gmail.com"
 ssh-keygen -t ed25519 -C "michelmetran@gmail.com"
 
-
-# Copia
+# Copia Bash
 cat ~/.ssh/id_rsa.pub
 cat ~/.ssh/id_ed25519.pub
+
+# Copia Powershell
+Get-Content ~\.ssh\id_rsa.pub | clip
+Get-Content ~\.ssh\id_ed25519.pub | clip
 ```
 
 <br>
@@ -280,3 +283,8 @@ https://dev.to/deadlybyte/please-add-gitattributes-to-your-git-repository-1jld
 # Atualizar
 
 git update-git-for-windows
+
+
+
+
+https://chrisjhart.com/Windows-10-ssh-copy-id/

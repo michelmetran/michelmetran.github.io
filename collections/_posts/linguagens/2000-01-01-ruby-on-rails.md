@@ -29,7 +29,6 @@ Em resumo, o **_Ruby on Rails_** é um _framework_ que oferece uma abordagem ág
 
 <br>
 
-
 https://stackoverflow.com/questions/68799845/bundler-conflict-requirements-for-the-ruby-version
 
 ---

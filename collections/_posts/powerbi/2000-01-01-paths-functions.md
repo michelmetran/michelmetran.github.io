@@ -16,8 +16,8 @@ Uma vez que eu organizei uma tabela usando as funções de HierarchyId, é poss�
 Inicialmente criamos duas colunas básicas, contendo o _path_ e a profundidade dos assuntos, ou seja, quantos níveis existem?!
 
 ```m
-Calc__Path = PATH(Assunto[IdAssuntoCNMP], Assunto[IdPaiCNMP])
-Calc__Lenght = PATHLENGTH (Assunto[Calc__Path] )
+Calc__Path = PATH('Assuntos CNMP'[IdAssuntoCNMP], 'Assuntos CNMP'[IdPaiCNMP])
+Calc__Lenght = PATHLENGTH ('Assuntos CNMP'[Calc__Path])
 ```
 
 <br>
@@ -26,72 +26,80 @@ A partir do número de níveis existentes, é possível criar uma sequência de 
 
 ```m
 Calc_Level1 = LOOKUPVALUE(
-    Assunto[AssuntoId],
-    Assunto[IdAssuntoCNMP], PATHITEM ( Assunto[Calc__Path], 1, INTEGER )
+    'Assuntos CNMP'[AssuntoId],
+    'Assuntos CNMP'[IdAssuntoCNMP], PATHITEM ( 'Assuntos CNMP'[Calc__Path], 1, INTEGER )
 )
 
 Calc_Level2 =
-IF ( PATHLENGTH (Assunto[Calc__Path] ) >= 2,
+IF ( PATHLENGTH ('Assuntos CNMP'[Calc__Path]) >= 2,
 LOOKUPVALUE(
-    Assunto[AssuntoId],
-    Assunto[IdAssuntoCNMP], PATHITEM ( Assunto[Calc__Path], 2, INTEGER )
+    'Assuntos CNMP'[AssuntoId],
+    'Assuntos CNMP'[IdAssuntoCNMP], PATHITEM ('Assuntos CNMP'[Calc__Path], 2, INTEGER )
 ),
-CONCATENATE("..", Assunto[Calc_Level1])
+BLANK()
 )
 
 Calc_Level3 =
-IF ( PATHLENGTH (Assunto[Calc__Path] ) >= 3,
+IF ( PATHLENGTH ('Assuntos CNMP'[Calc__Path]) >= 3,
 LOOKUPVALUE(
-    Assunto[AssuntoId],
-    Assunto[IdAssuntoCNMP], PATHITEM ( Assunto[Calc__Path], 3, INTEGER )
+    'Assuntos CNMP'[AssuntoId],
+    'Assuntos CNMP'[IdAssuntoCNMP], PATHITEM ('Assuntos CNMP'[Calc__Path], 3, INTEGER )
 ),
-CONCATENATE("..", Assunto[Calc_Level2])
+BLANK()
 )
 
 Calc_Level4 =
-IF ( PATHLENGTH (Assunto[Calc__Path] ) >= 4,
+IF ( PATHLENGTH ('Assuntos CNMP'[Calc__Path]) >= 4,
 LOOKUPVALUE(
-    Assunto[AssuntoId],
-    Assunto[IdAssuntoCNMP], PATHITEM ( Assunto[Calc__Path], 4, INTEGER )
+    'Assuntos CNMP'[AssuntoId],
+    'Assuntos CNMP'[IdAssuntoCNMP], PATHITEM ('Assuntos CNMP'[Calc__Path], 4, INTEGER )
 ),
-CONCATENATE("..", Assunto[Calc_Level3])
+BLANK()
 )
 
 Calc_Level5 =
-IF ( PATHLENGTH (Assunto[Calc__Path] ) >= 5,
+IF ( PATHLENGTH ('Assuntos CNMP'[Calc__Path]) >= 5,
 LOOKUPVALUE(
-    Assunto[AssuntoId],
-    Assunto[IdAssuntoCNMP], PATHITEM ( Assunto[Calc__Path], 5, INTEGER )
+    'Assuntos CNMP'[AssuntoId],
+    'Assuntos CNMP'[IdAssuntoCNMP], PATHITEM ( 'Assuntos CNMP'[Calc__Path], 5, INTEGER )
 ),
-CONCATENATE("..", Assunto[Calc_Level4])
+BLANK()
 )
 
 Calc_Level6 =
-IF ( PATHLENGTH (Assunto[Calc__Path] ) >= 6,
+IF ( PATHLENGTH ('Assuntos CNMP'[Calc__Path]) >= 6,
 LOOKUPVALUE(
-    Assunto[AssuntoId],
-    Assunto[IdAssuntoCNMP], PATHITEM ( Assunto[Calc__Path], 6, INTEGER )
+    'Assuntos CNMP'[AssuntoId],
+    'Assuntos CNMP'[IdAssuntoCNMP], PATHITEM ( 'Assuntos CNMP'[Calc__Path], 6, INTEGER )
 ),
-CONCATENATE("..", Assunto[Calc_Level5])
+BLANK()
 )
 
 Calc_Level7 =
-IF ( PATHLENGTH (Assunto[Calc__Path] ) >= 7,
+IF ( PATHLENGTH ('Assuntos CNMP'[Calc__Path]) >= 7,
 LOOKUPVALUE(
-    Assunto[AssuntoId],
-    Assunto[IdAssuntoCNMP], PATHITEM ( Assunto[Calc__Path], 7, INTEGER )
+    'Assuntos CNMP'[AssuntoId],
+    'Assuntos CNMP'[IdAssuntoCNMP], PATHITEM ( 'Assuntos CNMP'[Calc__Path], 7, INTEGER )
 ),
-CONCATENATE("..", Assunto[Calc_Level6])
+BLANK()
 )
 
 Calc_Level8 =
-IF ( PATHLENGTH (Assunto[Calc__Path] ) >= 8,
+IF ( PATHLENGTH ('Assuntos CNMP'[Calc__Path]) >= 8,
 LOOKUPVALUE(
-    Assunto[AssuntoId],
-    Assunto[IdAssuntoCNMP], PATHITEM ( Assunto[Calc__Path], 8, INTEGER )
+    'Assuntos CNMP'[AssuntoId],
+    'Assuntos CNMP'[IdAssuntoCNMP], PATHITEM ( 'Assuntos CNMP'[Calc__Path], 8, INTEGER )
 ),
-CONCATENATE("..", Assunto[Calc_Level7])
+BLANK()
 )
 ```
 
 [DAX's PATH function equivalent Custom Column in Power Query](https://community.fabric.microsoft.com/t5/Quick-Measures-Gallery/DAX-s-PATH-function-equivalent-Custom-Column-in-Power-Query/m-p/800386)
+
+Uma vez construída essa tabela, é possível criar uma segmentação de dados utilizando um _plugin_ que remove os _blanks_. O plugin se chama [Hierarchy Slicer](https://azurebi-docs.jppp.org/powerbi-visuals/hierarchy-slicer.html).
+
+Tomei conhecimento dele através do vídeo [Handling Empty Members and Ragged Hierarchies in a Hierarchy Slicer](https://www.youtube.com/watch?v=Q-fT10OI6uI), do canal [@HavensConsulting](https://www.youtube.com/@HavensConsulting). Esse canal também apresentou um vídeo sobre o tema, utilizando uma segmentação de dados "nativa" do Power BI. Contudo, não atende plenamente devido aos "brancos".
+
+O repositório do GitHub é o [azurebi-docs](https://github.com/liprec/azurebi-docs/issues).
+
+*TODO*: Preciso descobrir como colocar o campo de pesquisa.

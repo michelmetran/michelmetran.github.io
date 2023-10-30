@@ -121,8 +121,8 @@ choco install googleearthpro -y
 ### Codes
 
 ```shell
-choco install azure-data-studio
-choco install daxstudio
+choco install azure-data-studio -y
+choco install daxstudio -y
 choco install docker-desktop -y
 choco install dotnetfx -y
 choco install dotnet-7.0-sdk -y
@@ -186,6 +186,8 @@ choco install virtualbox --params "/NoDesktopShortcut /CurrentUser /ExtensionPac
 ### Others
 
 ```shell
+# GitHub: https://github.com/arkane-systems/mousejiggler
+# Choco: https://community.chocolatey.org/packages/mouse-jiggler
 choco install mouse-jiggler -y
 ```
 

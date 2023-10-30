@@ -9,8 +9,6 @@ tags:
   - ssh
 ---
 
-
-
 ## Conectando no Asus i7
 
 ```

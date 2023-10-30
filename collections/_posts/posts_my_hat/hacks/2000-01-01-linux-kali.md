@@ -1,83 +1,14 @@
 ---
-title: 'Kali'
+title: "Kali"
 date: 2019-01-01T00:00:00-03:00
 last_modified_at: 2022-06-28T00:00:00-03:00
-excerpt_separator: '<!--more-->'
+excerpt_separator: "<!--more-->"
 categories:
   - IT
   - Hacks
 
 tags:
   - firma
-
----
-
-## Adaptador USB
-
-Tenho um adaptador com chipset **Ralink RT2070**
-
-Adicionar na Maquina Virtual
-
-Vendo o [vídeo](https://www.youtube.com/watch?v=K1ETBeRQBs4), é indicado obter o _Vendor ID_ e _Product ID_. Isso é ensinado no Windows, porém no Ubuntu vi [outra informação](https://tuxthink.blogspot.com/2011/09/finding-vendor-id-and-product-id-of-usb.html?m=1) que explica que com o comando abaixo:
-
-```bash
-# Command
-usb-devices
-
-# Output
-T:  Bus=03 Lev=01 Prnt=01 Port=00 Cnt=01 Dev#= 14 Spd=480 MxCh= 0
-D:  Ver= 2.00 Cls=00(>ifc ) Sub=00 Prot=00 MxPS=64 #Cfgs=  1
-P:  Vendor=148f ProdID=2070 Rev=01.01
-S:  Manufacturer=Ralink
-S:  Product=802.11 g WLAN
-S:  SerialNumber=1.0
-C:  #Ifs= 1 Cfg#= 1 Atr=80 MxPwr=450mA
-I:  If#=0x0 Alt= 0 #EPs= 7 Cls=ff(vend.) Sub=ff Prot=ff Driver=rt2800usb
-```
-
-<br>
-
----
-
-## Change to Monitor Mode
-
-```bash
-# Ver interfaces
-iwconfig
-ip addr
-
-# Desabilitar
-sudo ifconfig wlan0 down
-
-# Kill all process
-sudo airmon-ng check kill
-
-# Habilitando o Monitor Mode
-sudo airmon-ng start wlan0
-
-# All in One Line
-sudo ifconfig wlan0 down && sudo airmon-ng check kill && sudo airmon-ng start wlan0 && iwconfig
-```
-
-```bash
-# Ver interfaces
-iwconfig
-
-# Desabilitar
-sudo ifconfig wlan0 down
-
-# Kill all process
-sudo airmon-ng check kill
-
-# Habilitando o Monitor Mode
-sudo iwconfig wlan0 mode monitor
-
-# Habilita
-sudo ifconfig wlan0 up
-```
-
-<br>
-
 ---
 
 ## Sniffing
@@ -357,5 +288,7 @@ Passa a passo
 1. Colocar o adaptar wifi em monitor mode
 2. Com wash, descobrir as redes com WPS na região
 3. Com reaver, brutal force wifi
+
+<br>
 
 Consegui êxito na minha rede pessoal em 12.424 segundos, ou seja, após ~4 horas.

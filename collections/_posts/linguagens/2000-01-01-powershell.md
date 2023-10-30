@@ -11,7 +11,7 @@ tags:
   - linguagens
 ---
 
-PowerShell é uma ferramenta de automação e configuração multiplataforma (Windows, Linux e macOS) que funciona bem com as suas ferramentas existentes e é otimizada para lidar com dados estruturados (por exemplo, JSON, CSV, XML, etc.), APIs REST e modelos de objetos. Ele inclui um _shell_ de linha de comando, um ambiente de script associado e um conjunto de cmdlets.
+PowerShell é uma ferramenta de automação e configuração multiplataforma (Windows, Linux e macOS) que funciona bem com as suas ferramentas existentes e é otimizada para lidar com dados estruturados (por exemplo, JSON, CSV, XML, etc.), APIs REST e modelos de objetos. Ele inclui um _shell_ de linha de comando, um ambiente de script associado e um conjunto de *cmdlets*.
 
 PowerShell é um _shell_ moderno que inclui as melhores características de outros _shells_ populares. Ao contrário da maioria dos _shells_ que só aceitam e retornam texto, o PowerShell aceita e retorna objetos .NET. O _shell_ inclui os seguintes recursos:
 

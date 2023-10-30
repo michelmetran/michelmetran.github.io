@@ -15,10 +15,6 @@ tags:
   - pandas
 ---
 
-
-
-
-
 O [_GeoServer_](https://geoserver.org/) é um software livre que permite o desenvolvimento de soluções de webmapping, ou seja, a visualização e edição de dados geoespaciais na web. Ele segue os padrões abertos da Open Geospatial Consortium ([_OGC_](https://www.ogc.org/)), que garantem a interoperabilidade entre diferentes sistemas e fontes de dados.
 
 Com o _GeoServer_, é possível publicar mapas e dados de vários formatos, como:

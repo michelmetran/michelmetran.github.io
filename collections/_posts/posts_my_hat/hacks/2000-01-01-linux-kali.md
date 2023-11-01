@@ -28,35 +28,6 @@ sudo airodump-ng --bssid 90:F6:52:F0:C5:B4 --channel 1 --write my_network wlan0m
 
 ---
 
-## Change Mac Address
-
-```bash
-# Ver Mac Address
-ip addr show wlan0mon
-
-# Help
-sudo macchanger --help
-
-# first put your wireless card off
-sudo ifconfig wlan0mon down
-
-# Random Mac Address
-sudo macchanger --random wlan0mon
-
-# Default Mac Address
-sudo macchanger --permanent wlan0mon
-
-# Specific Mac Address
-sudo macchanger -mac=XXX wlan0mon
-
-# Up
-sudo ifconfig wlan0mon up
-```
-
-<br>
-
----
-
 ## Wash
 
 ```bash
@@ -112,32 +83,6 @@ sudo aireplay-ng --help
 
 ---
 
-## WordLists
-
-```bash
-# Unzip
-cd /usr/share/wordlists
-sudo gzip -d /usr/share/wordlists/rockyou.txt.gz
-
-# Show first 10 lines
-head -10 /usr/share/wordlists/rockyou.txt
-
-# Number of passwords
-wc -l rockyou2021.txt
-```
-
-<br>
-
----
-
-# dd
-
-
-
-<br>
-
----
-
 ## AirCrack
 
 ```bash
@@ -146,7 +91,6 @@ aircrack-ng ~/Documents/gaulia-02.cap -w /usr/share/wordlists/rockyou.txt
 ```
 
 [David Bombal: AirCrack](https://www.youtube.com/watch?v=WfYxrLaqlN8)
-
 
 <br>
 

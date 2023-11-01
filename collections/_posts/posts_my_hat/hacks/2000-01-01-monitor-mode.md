@@ -1,7 +1,7 @@
 ---
 title: "Kali: <i>monitor mode</i>"
 date: 2019-01-01T00:00:00-03:00
-last_modified_at: 2022-06-28T00:00:00-03:00
+last_modified_at: 2023-11-01T00:00:00-03:00
 excerpt_separator: "<!--more-->"
 categories:
   - IT

@@ -132,7 +132,7 @@ wc -l rockyou2021.txt
 
 # dd
 
-https://github.com/ohmybahgosh/RockYou2021.txt#download-links
+
 
 <br>
 
@@ -147,19 +147,6 @@ aircrack-ng ~/Documents/gaulia-02.cap -w /usr/share/wordlists/rockyou.txt
 
 [David Bombal: AirCrack](https://www.youtube.com/watch?v=WfYxrLaqlN8)
 
-<br>
-
----
-
-## Wifite
-
-```bash
-#
-sudo wifite
-
-#
-sudo wifite --wpa --dict ~/Documents/Wordlists/rockyou2021/rockyou2021.txt --kill
-```
 
 <br>
 

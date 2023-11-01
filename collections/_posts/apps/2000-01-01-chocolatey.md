@@ -74,6 +74,7 @@ Abaixo listei os aplicativos que eu uso, porém existem muito outros [_packages_
 choco install firefox -y
 choco install googlechrome -y
 choco install jre8 -y
+choco install qbittorrent -y
 ```
 
 <br>
@@ -199,5 +200,7 @@ choco install mouse-jiggler -y
 '/InstallationType:AllUsers'
 choco install miniconda3 --params="'/AddToPath:1' '/RegisterPython:1' '/D:%USERPROFILE%\Documents\Conda'"
 
-start /wait "" Miniconda3-latest-Windows-x86_64.exe /InstallationType=JustMe /AddToPath=0 /RegisterPython=0 /NoRegistry=1 /D=%USERPROFILE%\Documents\Conda
+
+# Comand Line
+start /wait "" Miniconda3-latest-Windows-x86_64.exe /InstallationType=JustMe /AddToPath=1 /RegisterPython=1 /D=%USERPROFILE%\Documents\Conda
 ```

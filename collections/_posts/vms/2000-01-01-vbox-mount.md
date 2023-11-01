@@ -1,16 +1,13 @@
 ---
-title: "Virtual Box: Mount"
+title: "Virtual Box: <i>Mount</i>"
 date: 2023-05-04T00:00:00-03:00
 last_modified_at: 2023-05-04T00:00:00-03:00
 excerpt_separator: "<!--more-->"
 categories:
   - IT
 tags:
-  - python
-  - pycharm
-  - jupyter
-  - package
-  - pandas
+  - virtual machine
+  - virtualization
 ---
 
 ## Compartilhando entre _host_ e _guest_
@@ -50,9 +47,11 @@ Configura o ponto de pontantagem com um nome diferente... e sem habilitar nada! 
 ```bash
 # Cria pasta
 mkdir ~/Documents/Codes
+mkdir ~/Documents/Datasets
 
 # Monta a pasta do VBOX na pasta recem criada
 sudo mount -t vboxsf my_codes ~/Documents/Codes
+sudo mount -t vboxsf my_dataset ~/Documents/Datasets
 
 # [Opcional]
 sudo mount -t vboxsf -o uid=1000,gid=1000 my_codes ~/Documents/Codes

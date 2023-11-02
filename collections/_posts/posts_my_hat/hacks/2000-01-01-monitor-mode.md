@@ -73,7 +73,7 @@ Usando o *airmon-ng*
 iwconfig
 ip addr
 
-# Desabilitarkali
+# Desabilitar
 sudo ifconfig wlan0 down
 
 # Kill all process

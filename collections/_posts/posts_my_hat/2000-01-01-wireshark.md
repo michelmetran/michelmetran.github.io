@@ -59,13 +59,25 @@ sudo adduser michel wireshark
 
 ---
 
+## Filtros no _Wireshark_
+
+```bash
+# Filtra tudo de um IP específico
+id.addr == 192.168.1.23
+
+# Filtra tudo de um IP específico e com protocolo http
+id.addr == 192.168.1.23 && http
+
+# Filtra pacotes de handshake
+eapol
+```
+
+<br>
+
+---
+
 ## Referências
 
 - [Network traffic analysis for IR: TFTP with Wireshark](https://resources.infosecinstitute.com/topic/network-traffic-analysis-for-ir-tftp-with-wireshark/)
 - [Spy on Traffic from a Smartphone with Wireshark](https://null-byte.wonderhowto.com/how-to/spy-traffic-from-smartphone-with-wireshark-0198549/)
-
-<br>
-
-**Portais**
-
 - [Wonder How To](https://www.wonderhowto.com/)

@@ -3,6 +3,7 @@ title: "Remote Desktop Connection: <i>Audio</i>"
 date: 2023-10-10T14:34:30-03:00
 last_modified_at: 2023-10-10T14:34:30-03:00
 share: false
+comments: true
 categories:
   - IT
   - Hacks

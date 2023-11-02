@@ -39,7 +39,7 @@ https://stackoverflow.com/questions/68799845/bundler-conflict-requirements-for-t
 # Regenerate Gemfile.lock
 bundle install
 
-# 
+#
 bundle env
 
 # Corrige erro de ausencia de webrick

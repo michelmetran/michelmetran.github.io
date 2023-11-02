@@ -207,3 +207,9 @@ tag_archive:
 #  - /assets/js/your-custom-footer-script.js
 #after_footer_scripts:
 #  - /assets/js/custom-script-loads-after-footer.js
+
+# Adiciona Possibilitade de Copiar Code Blocks
+# https://github.com/mmistakes/minimal-mistakes/discussions/2795
+after_footer_scripts:
+  - https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js
+  - /assets/js/clipboardrouge.js

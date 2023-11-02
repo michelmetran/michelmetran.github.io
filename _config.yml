@@ -86,6 +86,15 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+# Comments
+# https://mmistakes.github.io/minimal-mistakes/docs/configuration/#comments
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "michelmetran.com"
+  discourse:
+    server: # meta.discourse.org
+
 # Outputting
 permalink: /posts/:title/ # /:categories/:title/
 paginate: 5 # amount of posts to show

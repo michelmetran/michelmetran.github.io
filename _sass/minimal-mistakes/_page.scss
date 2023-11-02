@@ -35,22 +35,10 @@ body {
   flex: 1 0 auto;
 }
 
-/*
-#FIXME
-Em 02.11.2023 tentei ampliar a área dos posts.
-Vendo a discussão https://github.com/mmistakes/minimal-mistakes/discussions/1373
-notei que o autor menciona sobre remover as fake margens.
-*/
-
 .page {
   @include breakpoint($large) {
     float: right;
-    /*
-    Original
     width: calc(100% - #{$right-sidebar-width-narrow});
-    padding-right: $right-sidebar-width-narrow;
-    */
-    width: calc(100%);
     padding-right: $right-sidebar-width-narrow;
   }
 

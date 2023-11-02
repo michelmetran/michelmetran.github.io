@@ -15,3 +15,14 @@ Mexi tb no archive
 
 https://github.com/copdips/copdips.github.io/blob/main/_sass/minimal-mistakes/_page.scss
 https://copdips.com/2023/10/hashing-files.html
+
+
+<br>
+
+----
+
+## Disable Previus and Next button
+
+Em 02.11.2023 removi os botões [#1592 Disable Previus and Next button](https://github.com/mmistakes/minimal-mistakes/issues/1592)
+
+

@@ -39,17 +39,17 @@ https://stackoverflow.com/questions/68799845/bundler-conflict-requirements-for-t
 # Regenerate Gemfile.lock
 bundle install
 
-#
+# 
 bundle env
-
-# Roda
-bundle exec jekyll serve
 
 # Corrige erro de ausencia de webrick
 bundle add webrick
 
 # Atualiza
 bundle update
+
+# Roda
+bundle exec jekyll serve
 
 # Update
 bundle exec jekyll serve --open-url --livereload --incremental

@@ -4,6 +4,8 @@ date: 2023-10-10T14:34:30-03:00
 last_modified_at: 2023-10-10T14:34:30-03:00
 share: false
 comments: true
+classes: wide
+toc: false
 categories:
   - IT
   - Hacks

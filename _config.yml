@@ -91,7 +91,7 @@ incremental: false
 comments:
   provider: "disqus"
   disqus:
-    shortname: "michelmetran.com"
+    shortname: "michelmetran"
   discourse:
     server: # meta.discourse.org
 

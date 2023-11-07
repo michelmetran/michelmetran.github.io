@@ -84,3 +84,11 @@ Acho que é de outro módulo
 # Loga
 Login-PowerBI
 ```
+
+<br>
+
+---
+
+## Referências
+
+O _post_ [Recuperando um Token Embedded de um relatório no PowerBI com Powershell](https://guidooliveira.com/recuperando-um-token-embedded-de-um-relatorio-no-powerbi-com-powershell/) apresenta uma forma de usar o _power shell_ para manejar o Power BI, por meio da geração de um _token_. Interessante! Estudar mais!

@@ -1,8 +1,8 @@
 ---
-title: 'Conda: <i>Enviroments</i>'
+title: "Conda: <i>Enviroments</i>"
 date: 2019-06-13T15:34:30-04:00
 last_modified_at: 2022-06-28T00:00:00-03:00
-excerpt_separator: '<!--more-->'
+excerpt_separator: "<!--more-->"
 categories:
   - IT
 
@@ -14,6 +14,10 @@ tags:
 
 Comandos para criar e clonar _enviroments_. A grande vantagem de criar um _enviroments_ com todos os _packages_ juntos é que já ocorre a resolução de conflitos das dependências.
 
+<br>
+
+---
+
 ### Pablo Carreira
 
 É o _enviroment_ que mais uso, que tem todas as ferramentas. O nome é uma homenagem a um amigo que publicou um livro sobre uso do _python_ no geoprocessamento. Na tentativa de acompanhar os tutorais, ainda usando o Windows, me deparei com diversos problemas de incompatibilidade entre pacotes, momento em que migrei para o Linux e uso do conda para eliminar esses problemas.
@@ -24,6 +28,8 @@ conda create --name pablocarreira-lastest python=3.10 jupyter jupyterlab jupyter
 
 <br>
 
+---
+
 ### Trade
 
 ```bash
@@ -31,6 +37,8 @@ conda create --name trade -c conda-forge -c cpaulik -c bioconda -c esri python=3
 ```
 
 <br>
+
+---
 
 ### R
 
@@ -40,6 +48,8 @@ conda create --name R -c conda-forge -c r r-recommended r-irkernel jupyter jupyt
 
 <br>
 
+---
+
 ### OneDrive
 
 ```bash
@@ -47,6 +57,8 @@ conda create --name onedrive-py35 -c conda-forge -c cpaulik -c bioconda -c ddbol
 ```
 
 <br>
+
+---
 
 ### _WebApps_
 
@@ -58,6 +70,8 @@ conda create --name webapp-py38 -c conda-forge python=3.8 django django-heroku g
 
 <br>
 
+---
+
 ### Colab
 
 _Enviroment_ usado para o projeto Django.
@@ -68,6 +82,8 @@ conda create --name colab-py37 -c conda-forge python=3.7 requests pandas geopand
 
 <br>
 
+---
+
 ### Finanças
 
 _Enviroment_ usado para o projeto Django do **Tesouro Direto**
@@ -77,6 +93,8 @@ conda create --name td-py38 -c conda-forge -c cpaulik python=3.8 django requests
 ```
 
 <br>
+
+---
 
 ### _Firebase_
 
@@ -91,6 +109,8 @@ conda install -c modoolar firebase-admin
 ```
 
 <br>
+
+---
 
 ### Wfuzz
 

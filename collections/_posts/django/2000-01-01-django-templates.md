@@ -1,5 +1,5 @@
 ---
-title: "Django: *templates*"
+title: "Django: <i>templates</i>"
 date: 2023-05-04T00:00:00-03:00
 last_modified_at: 2023-05-04T00:00:00-03:00
 excerpt_separator: "<!--more-->"
@@ -51,6 +51,8 @@ Criei três arquivos de modelo do HTML:
 Eles serão acessórios de outros que chamar.
 
 <br>
+
+---
 
 ### Referências
 

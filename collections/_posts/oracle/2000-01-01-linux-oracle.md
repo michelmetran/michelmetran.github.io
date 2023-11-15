@@ -1,8 +1,8 @@
 ---
-title: 'Oracle Linux'
+title: "Oracle Linux"
 date: 2023-05-21T15:00:00-03:00
 last_modified_at: 2023-05-21T15:00:00-03:00
-excerpt_separator: '<!--more-->'
+excerpt_separator: "<!--more-->"
 categories:
   - IT
 tags:

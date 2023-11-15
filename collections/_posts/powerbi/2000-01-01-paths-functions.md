@@ -94,6 +94,8 @@ BLANK()
 )
 ```
 
+<br>
+
 [DAX's PATH function equivalent Custom Column in Power Query](https://community.fabric.microsoft.com/t5/Quick-Measures-Gallery/DAX-s-PATH-function-equivalent-Custom-Column-in-Power-Query/m-p/800386)
 
 Uma vez construída essa tabela, é possível criar uma segmentação de dados utilizando um _plugin_ que remove os _blanks_. O plugin se chama [Hierarchy Slicer](https://azurebi-docs.jppp.org/powerbi-visuals/hierarchy-slicer.html).

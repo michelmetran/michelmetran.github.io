@@ -5,7 +5,6 @@ last_modified_at: 2022-06-28T00:00:00-03:00
 excerpt_separator: "<!--more-->"
 categories:
   - IT
-
 tags:
   - python
   - anaconda

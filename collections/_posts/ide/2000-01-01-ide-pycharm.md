@@ -77,6 +77,13 @@ sudo snap install intellij-idea-community --classic
 # Para Atualizar
 sudo snap refresh intellij-idea-community
 ```
+<br>
+
+---
+
+## Dicionário
+
+[IntelliJ.Portuguese.Brazil.Dictionary](https://github.com/rafaelsc/IntelliJ.Portuguese.Brazil.Dictionary)
 
 <br>
 

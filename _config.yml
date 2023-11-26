@@ -105,11 +105,12 @@ include:
 
 # Plugins
 plugins:
+  - jekyll-avatar
+  - jekyll-feed
+  - jekyll-archives
+  - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-archives
-  - jekyll-feed
   - jemoji
   - jekyll-include-cache
   - jekyll-algolia

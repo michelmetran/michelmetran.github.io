@@ -1,13 +1,34 @@
 ---
 title: "Kali"
 date: 2019-01-01T00:00:00-03:00
-last_modified_at: 2022-06-28T00:00:00-03:00
+last_modified_at: 2023-11-25T00:00:00-03:00
 excerpt_separator: "<!--more-->"
 categories:
   - IT
   - Hacks
 tags:
   - firma
+---
+
+## _Bugs_
+
+Em novembro de 2023 notei que o Kali não encontrava as redes. Lendo o _post_ [kali linux doesn't detect wireless networks](https://superuser.com/questions/892652/kali-linux-doesnt-detect-wireless-networks)
+
+```shell
+sudo nano /etc/NetworkManager/NetworkManager.conf
+```
+
+<br>
+
+Alterar para..
+
+```shell
+[ifupdown]
+managed=true
+```
+
+<br>
+
 ---
 
 ## Sniffing

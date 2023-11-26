@@ -74,6 +74,7 @@ Abaixo listei os aplicativos que eu uso, porém existem muito outros [_packages_
 choco install firefox -y
 choco install googlechrome -y
 choco install jre8 -y
+choco install webview2-runtime -y
 choco install qbittorrent -y
 ```
 

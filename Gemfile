@@ -24,9 +24,17 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 #   gem "jekyll-algolia"
 # end
 
+
+# gem "jekyll-archives" Adicionei em 25.11.2023
+# https://mmistakes.github.io/minimal-mistakes/docs/configuration/#archive-settings
+# https://sticklerm3.gitlab.io/technology/category-archives/
+
+
+
 group :jekyll_plugins do
     gem 'jekyll-avatar'
     gem 'jekyll-feed'
+    gem 'jekyll-archives'
     gem 'jekyll-gist'
     gem 'jekyll-paginate'
     gem 'jekyll-sitemap'
@@ -35,10 +43,8 @@ group :jekyll_plugins do
     gem "jekyll-algolia"
   end
 
-
-
 #
 gem "webrick", "~> 1.8"
 
-# Adionado em 22.08.2023
+# Adicionado em 22.08.2023
 gem 'faraday-retry', '~> 2.2'

@@ -16,6 +16,10 @@ Em novembro de 2023 notei que o Kali não encontrava as redes. Lendo o _post_ [k
 
 ```shell
 sudo nano /etc/NetworkManager/NetworkManager.conf
+
+systemctl status NetworkManager
+systemctl restart NetworkManager
+systemctl start NetworkManager
 ```
 
 <br>
@@ -25,23 +29,6 @@ Alterar para..
 ```shell
 [ifupdown]
 managed=true
-```
-
-<br>
-
----
-
-## Sniffing
-
-```bash
-# Vê os pacotes entre roteadores e devices
-sudo airdump-ng wlan0mon
-
-# Captura Pacotes
-sudo airodump-ng --bssid {mac_address} --channel {channel number} --write {filename}  wlan0mon
-sudo airodump-ng --bssid 90:F6:52:F0:C5:B4 --channel 1 --write my_network wlan0mon
-
-# Abre os pacotes no Wireshark
 ```
 
 <br>

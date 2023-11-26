@@ -170,6 +170,7 @@ choco install vlc -y
 
 ```shell
 choco install ccleaner -y
+choco install linux-reader -y
 choco install partitionwizard -y
 choco install treesizefree -y
 choco install zerotier-one -y

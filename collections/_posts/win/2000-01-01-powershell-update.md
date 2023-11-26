@@ -15,9 +15,6 @@ O [PowerShell](https://learn.microsoft.com/pt-br/powershell/scripting/overview?v
 
 <br>
 
-
-
-
 ---
 
 ## Atualiza

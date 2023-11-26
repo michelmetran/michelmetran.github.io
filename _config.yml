@@ -152,11 +152,15 @@ defaults:
     values:
       #author_profile: false
       comments: false
+      sidebar:
+        nav: posts_nav
   - scope:
       path: ""
       type: category
     values:
       comments: false
+      sidebar:
+        nav: posts_nav
   # Posts
   - scope:
       path: "_posts"

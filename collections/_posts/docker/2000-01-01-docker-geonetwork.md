@@ -1,5 +1,5 @@
 ---
-title: "Docker: *Geonetwok*"
+title: "Docker: <i>Geonetwok</i>"
 date: 2023-10-08T00:00:00-03:00
 last_modified_at: 2023-10-08T00:00:00-03:00
 excerpt_separator: "<!--more-->"

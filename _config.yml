@@ -109,6 +109,7 @@ plugins:
   - jekyll-feed
   - jekyll-archives
   - jekyll-gist
+  - jekyll-jupyter-notebook
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji

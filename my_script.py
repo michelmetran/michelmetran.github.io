@@ -1,5 +1,8 @@
 """
 Summary
+
+Michel Metran
+29.11.2023
 """
 
 import shutil
@@ -55,23 +58,31 @@ def convert2md(input_file, output_file):
 project_path = Path(__file__).parent
 post_path = project_path / 'collections' / '_posts'
 assets_path = project_path / 'assets'
+#attachments_path = assets_path / 'attachments'
 
 # Check Path
 if not post_path.is_dir():
     raise Exception(f'{post_path} is not a directory')
 
 
-for ipynb in list(post_path.rglob('*/*.ipynb')):
-    # ddd
-    print(ipynb)
-    print(ipynb.parent)
-
-    # Convert to Markdown
-    convert2md(input_file=ipynb, output_file=ipynb.parent / f'{ipynb.stem}.md')
-
-    # Copy File
-    shutil.copy2(src=ipynb, dst=assets_path)
-
-
 if __name__ == '__main__':
-    print('Helloooooo')
+    for ipynb in list(post_path.rglob('*/*.ipynb')):
+        # Pastas
+        print(f'Arquivo: {ipynb}')
+        print(f'Pasta do Arquivo: {ipynb.parent}')
+
+        # Define Caminho Relativo dos posts pro projeto
+        relative = ipynb.parent.relative_to(project_path)
+
+        # Add relative path in attachments path
+        out_relative_path = assets_path / relative
+        out_relative_path.mkdir(exist_ok=True, parents=True)
+        print(f'Pasta Relativa: {out_relative_path}')
+
+        # Convert to Markdown
+        convert2md(
+            input_file=ipynb, output_file=ipynb.parent / f'{ipynb.stem}.md'
+        )
+
+        # Copy File
+        shutil.copy2(src=ipynb, dst=out_relative_path)

@@ -3,7 +3,6 @@ title: "Divisão Administrativa do MPSP"
 date: 2023-06-12T12:00:00-03:00
 last_modified_at: 2023-11-29T12:00:00-03:00
 excerpt_separator: "<!--more-->"
-
 categories:
   - Divisões Administrativas
   - GAEMA

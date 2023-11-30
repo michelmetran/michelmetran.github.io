@@ -3,22 +3,23 @@ title: "Divisão Administrativa do MPSP"
 date: 2023-06-12T12:00:00-03:00
 last_modified_at: 2023-11-29T12:00:00-03:00
 excerpt_separator: "<!--more-->"
-toc: false
+
 categories:
   - Divisões Administrativas
   - GAEMA
 tags:
   - mpsp
-classes: wide
+# classes: wide
 author: Michel Metran
+excerpt: GAECOS, GAEMAs, Redes Protetivas, Áreas Regionais, Macrorregiões e outras...
 comments: true
-excerpt: GAECOS, GAEMAs, Redes Protetivas, Áreas Regionais, Macrorregiões
 share: false
+toc: true
 related: false
 header:
   overlay_image: /assets/attachments/open_geodata/sp_mpsp_divadmin/fg173738.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Compilado por [** Instituto Geográfico e Geológico (IGG) **](https://www.al.sp.gov.br/noticia/?id=366288)"
+  caption: "Organizado pelo [**Instituto Geográfico e Geológico (IGG)**](https://www.al.sp.gov.br/noticia/?id=366288)"
   actions:
     - label: "GitHub"
       url: "https://github.com/open-geodata/sp_mpsp_divadmin"
@@ -49,7 +50,9 @@ Informações sobre as Áreas Regionais do MPSP foram obtidas em Setembro de 201
 
 ## Área Criminal
 
-O **Grupo de Atuação Especial de Combate ao Crime Organizado (GAECO)** tem sua divisão definida conforme [Ato Normativo 1.113, de 27.09.2018](https://biblioteca.mpsp.mp.br//phl_img/atos/1113.pdf), por meio do qual foi possível criar o mapa^1.
+O **Grupo de Atuação Especial de Combate ao Crime Organizado (GAECO)** tem sua divisão definida conforme [Ato Normativo 1.113, de 27.09.2018](https://biblioteca.mpsp.mp.br//phl_img/atos/1113.pdf), por meio do qual foi possível criar o mapa[^1].
+
+[^1]: O Ato Normativo é de 27.09.2018 e indica as *comarcas* de cada GAECO. Na relação das *comarcas*, não é indicada à qual grupo pertence a *comarca de Cesário Lange*. Pesquisando encontrei [notícia do TJSP](https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=53960) que informa que a *comarca* havia sido recem instalada e pertencia, anteriormente, à ***comarca de Tatuí***.
 
 <br>
 

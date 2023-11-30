@@ -58,7 +58,7 @@ def convert2md(input_file, output_file):
 project_path = Path(__file__).parent
 post_path = project_path / 'collections' / '_posts'
 assets_path = project_path / 'assets'
-#attachments_path = assets_path / 'attachments'
+# attachments_path = assets_path / 'attachments'
 
 # Check Path
 if not post_path.is_dir():

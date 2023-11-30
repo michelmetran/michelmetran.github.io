@@ -11,22 +11,29 @@ tags:
 classes: wide
 author: Michel Metran
 comments: false
-excerpt: GAEMAs, Redes Protetivas, Áreas Regionais, Macrorregiões
+excerpt: Agências Ambientais
 share: false
 related: false
 header:
-  overlay_image: /assets/attachments/gaema/norma_pl_251-21/imgs/ivan-bandura.jpg
+  overlay_image: /assets/attachments/open_geodata/sp_cetesb_divadmin/CETESB.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo by [**Ivan Bandura**](https://unsplash.com/@unstable_affliction?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/sewage?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+  caption: "Foto da [notícia](https://cetesb.sp.gov.br/blog/2022/12/22/veiculos-modernos-sao-entregues-para-agilizar-acoes-da-cetesb/) de 22.12.2022"
+
   actions:
     - label: "GitHub"
       url: "https://github.com/open-geodata/sp_cetesb_divadmin"
 ---
 
-<iframe src="/assets/attachments/div_admin/cetesb_map.html" width="100%" height="480"  frameborder="0" allowfullscreen></iframe>
+A Companhia Ambiental do Estado de São Paulo ([CETESB](https://cetesb.sp.gov.br/)) é o órgão delegado do Governo do Estado de São Paulo nos campos do controle da poluição e da aplicação da legislação florestal, órgão executor do Sistema Estadual de Administração da Qualidade Ambiental, Proteção, Controle e Desenvolvimento do Meio Ambiente e Uso Adequado dos Recursos Naturais (SEAQUA) e órgão do Sistema Integrado de Gerenciamento de Recursos Hídricos ([SigRH](https://sigrh.sp.gov.br/)).
+
+Atua na execução das políticas de meio ambiente e de desenvolvimento sustentável, notadamente no âmbito das questões afetas às mudanças climáticas e emissão de poluentes atmosféricos, da avaliação de impacto ambiental, dos resíduos, da prevenção de riscos ambientais graves, da prevenção e controle integrado da poluição, da proteção aos mananciais e da educação ambiental, assegurando a participação e informação da população do Estado de São Paulo.
+
+A divisão administrativa se dá através das mais de 40 Agências Ambientais, onde é realizado o licenciamento ambiental de diversos empreendimentos, apresentadas no mapa abaixo.
+
+<iframe src="/assets/attachments/open_geodata/sp_cetesb_divadmin/cetesb_map.html" width="100%" height="480"  frameborder="0" allowfullscreen></iframe>
 
 <br>
 
-Para quem quiser, é possível baixar os arquivos de mapas em formato _geopackage_ (extensão _.gpkg_) para uso em _softwares_ de geoprocessamento.
+Informações sobre as Agências Ambientais foram obtidas em ***27.11.2023***, por meio do [_site_ da CETESB](https://licenciamento.cetesb.sp.gov.br/agencias/municipios.asp). Para quem quiser, é possível baixar os arquivos de mapas em formato _geopackage_ (extensão _.gpkg_) para uso em _softwares_ de geoprocessamento.
 
-<a href="/assets/attachments/div_admin/sp_cetesb.gpkg" class="btn btn--primary">CETESB</a>
+<a href="/assets/attachments/open_geodata/sp_cetesb_divadmin/sp_cetesb.gpkg" class="btn btn--primary">CETESB</a>

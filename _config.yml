@@ -32,6 +32,9 @@ repository: "michelmetran/michelmetran.github.io"
 logo: "/assets/images/logo/logo.png"
 url: "https://michelmetran.com.br"
 
+# disabled by default
+breadcrumbs: true
+
 # Social Sharing
 twitter_username: michelmetran
 github_username: michelmetran

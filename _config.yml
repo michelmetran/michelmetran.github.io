@@ -107,12 +107,12 @@ include:
   - _pages
 
 # Plugins
+  #- jekyll-jupyter-notebook
 plugins:
   - jekyll-avatar
   - jekyll-feed
   - jekyll-archives
   - jekyll-gist
-  - jekyll-jupyter-notebook
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji

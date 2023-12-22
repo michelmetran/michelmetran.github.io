@@ -37,7 +37,7 @@ group :jekyll_plugins do
     gem 'jekyll-archives'
     gem 'jekyll-gist'
     gem 'jekyll-paginate'
-    gem 'jekyll-jupyter-notebook'
+    # gem 'jekyll-jupyter-notebook'
     gem 'jekyll-sitemap'
     gem 'jemoji'
     gem 'jekyll-include-cache'

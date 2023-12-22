@@ -51,7 +51,7 @@ Informações sobre as Áreas Regionais do MPSP foram obtidas em Setembro de 201
 
 O **Grupo de Atuação Especial de Combate ao Crime Organizado (GAECO)** tem sua divisão definida conforme [Ato Normativo 1.113, de 27.09.2018](https://biblioteca.mpsp.mp.br//phl_img/atos/1113.pdf), por meio do qual foi possível criar o mapa[^1].
 
-[^1]: O Ato Normativo é de 27.09.2018 e indica as *comarcas* de cada GAECO. Na relação das *comarcas*, não é indicada à qual grupo pertence a *comarca de Cesário Lange*. Pesquisando encontrei [notícia do TJSP](https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=53960) que informa que a *comarca* havia sido recem instalada e pertencia, anteriormente, à ***comarca de Tatuí***.
+[^1]: O Ato Normativo é de 27.09.2018 e indica as _comarcas_ de cada GAECO. Na relação das _comarcas_, não é indicada à qual grupo pertence a _comarca de Cesário Lange_. Pesquisando encontrei [notícia do TJSP](https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=53960) que informa que a _comarca_ havia sido recem instalada e pertencia, anteriormente, à **_comarca de Tatuí_**.
 
 <br>
 
@@ -85,7 +85,6 @@ A divisão administrativa em macroregiões é utilizada pelo CAEx para divisão 
 - **Macrorregião IV**: Áreas Regionais de Araçatuba, de Bauru e de Presidente Prudente
 - **Macrorregião V**: Áreas Regionais de Franca, de Ribeirão Preto e de São José do Rio Preto
 
-
 <br>
 
 ## Mapa
@@ -100,9 +99,9 @@ Abaixo é apresentado um mapa _online_ que é possível ver todas as divisões m
 
 Para quem quiser, é possível baixar os arquivos de mapas em formato _geopackage_ (extensão _.gpkg_) para uso em _softwares_ de geoprocessamento.
 
-<a href="/assets/attachments/open_geodata/sp_mpsp_divadmin/sp_mpsp_gaema.gpkg" class="btn btn--primary">GAEMA</a>
-<a href="/assets/attachments/open_geodata/sp_mpsp_divadmin/sp_mpsp_macrorregioes.gpkg" class="btn btn--primary">Macrorregiões</a>
-<a href="/assets/attachments/open_geodata/sp_mpsp_divadmin/sp_mpsp_pjreg.gpkg" class="btn btn--primary">PJ Regional</a>
-<a href="/assets/attachments/open_geodata/sp_mpsp_divadmin/sp_mpsp_rp.gpkg" class="btn btn--primary">Redes Protetivas</a>
-<a href="/assets/attachments/open_geodata/sp_mpsp_divadmin/sp_mpsp_ar.gpkg" class="btn btn--primary">Áreas Regionais</a>
-<a href="/assets/attachments/open_geodata/sp_mpsp_divadmin/sp_mpsp_geaco.gpkg" class="btn btn--primary">GAECO</a>
+<a href="/assets/attachments/open_geodata/sp_mpsp_divadmin/sp_mpsp_ar.gpkg" class="btn btn--primary">Áreas Regionais</a><br>
+<a href="/assets/attachments/open_geodata/sp_mpsp_divadmin/sp_mpsp_rp.gpkg" class="btn btn--primary">Redes Protetivas</a><br>
+<a href="/assets/attachments/open_geodata/sp_mpsp_divadmin/sp_mpsp_gaema.gpkg" class="btn btn--primary">GAEMA</a><br>
+<a href="/assets/attachments/open_geodata/sp_mpsp_divadmin/sp_mpsp_geaco.gpkg" class="btn btn--primary">GAECO</a><br>
+<a href="/assets/attachments/open_geodata/sp_mpsp_divadmin/sp_mpsp_pjreg.gpkg" class="btn btn--primary">PJ Regional</a><br>
+<a href="/assets/attachments/open_geodata/sp_mpsp_divadmin/sp_mpsp_macrorregioes.gpkg" class="btn btn--primary">Macrorregiões</a><br>

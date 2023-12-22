@@ -6,7 +6,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - Divisões Administrativas
 tags:
-  - tjsp
+  - TJSP, Comarcas, Circunscrições Judiciárias, Regiões Administrativas Judiciárias
 # classes: wide
 author: Michel Metran
 excerpt: Comarcas, Circunscrições Judiciárias e Regiões Administrativas Judiciárias
@@ -47,4 +47,4 @@ Abaixo é apresentado um mapa _online_ que é possível ver todas as divisões m
 
 Para quem quiser, é possível baixar os arquivos de mapas em formato _geopackage_ (extensão _.gpkg_) para uso em _softwares_ de geoprocessamento.
 
-<a href="/assets/attachments/open_geodata/sp_tjsp_divadmin/sp_tjsp_divadmin.gpkg" class="btn btn--primary">Áreas Regionais</a><br>
+<a href="/assets/attachments/open_geodata/sp_tjsp_divadmin/sp_tjsp_divadmin.gpkg" class="btn btn--primary">Divisões TJSP</a><br>

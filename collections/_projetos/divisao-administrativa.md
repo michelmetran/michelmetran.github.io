@@ -28,8 +28,8 @@ Para isso passei a elaborar mapas que eu pudesse consultar, rapidamente, para en
   <a class="thumbnail" href="/posts/div-admin-cetesb/">
       <img alt="..." src="/assets/images/divadmin/logo_cetesb.png">
   </a>
-  <a class="thumbnail" href="/bombeiro/">
-      <img alt="..." src="/assets/images/divadmin/logo_bombeiros.png">
+  <a class="thumbnail" href="/posts/div-admin-tjsp/">
+      <img alt="..." src="/assets/images/divadmin/logo_tjsp.png">
   </a>
 </figure>
 
@@ -54,9 +54,10 @@ Para isso passei a elaborar mapas que eu pudesse consultar, rapidamente, para en
       <img alt="..." src="/assets/images/divadmin/logo_eda.png">
   </a>
 
-  <a class="thumbnail" href="/tjsp/">
-      <img alt="..." src="/assets/images/divadmin/logo_tjsp.png">
+  <a class="thumbnail" href="/bombeiro/">
+      <img alt="..." src="/assets/images/divadmin/logo_bombeiros.png">
   </a>
+
 </figure>
 
 <figure class="third">

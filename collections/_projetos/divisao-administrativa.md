@@ -1,6 +1,6 @@
 ---
 title: 'Divisão Administrativa'
-excerpt: 'Fizz Bang design system including logo mark, website design, and branding applications.'
+excerpt: 'O projeto Divisão Administrativa foi idealizado com objetivo de identificar qual a regional que atua em cada um dos 645 municípios do Estado de São Paulo, de diversas intituições públicas que atuam na área ambiental'
 header:
   image: /assets/images/cover/unsplash-gallery-image-2.jpg
   #teaser: assets/images/unsplash-gallery-image-2-th.jpg
@@ -24,8 +24,69 @@ gallery:
     alt: 'placeholder image 3'
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+A idealização do projeto ocorreu durante minha atuação no GAEMA Piracicaba. Na ocasião, faziamos diversas reuniões interinstitucionais, envolvendo diversos órgãos do governo estadual e era necessário entender a área de atuação de cada regional.
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+Para isso passei a elaborar mapas que eu pudesse consultar, rapidamente, para entender qual regional tem a atribuição de qual município.
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+<div class="row">
+    <div class="col-xs-6 col-md-3">
+        <a class="thumbnail" href="/bombeiro/">
+            <img alt="..." src="/assets/logo_bombeiros.png">
+        </a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+        <a class="thumbnail" href="/defesacivil/">
+            <img alt="..." src="/media/logo_defesacivil.png">
+        </a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+        <a class="thumbnail" href="/posts/div-admin-cetesb/">
+            <img alt="..." src="/assets/images/divadmin/logo_cetesb.png">
+        </a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+        <a class="thumbnail" href="/cpamb/">
+            <img alt="..." src="/media/logo_cpamb.png">
+        </a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+        <a class="thumbnail" href="/cfb/">
+            <img alt="..." src="/media/logo_cfb.png">
+        </a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+        <a class="thumbnail" href="/cdrs/">
+            <img alt="..." src="/media/logo_cdrs.png">
+        </a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+        <a class="thumbnail" href="/ses/">
+            <img alt="..." src="/media/logo_ses.png">
+        </a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+        <a class="thumbnail" href="/eda/">
+            <img alt="..." src="/media/logo_eda.png">
+        </a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+        <a class="thumbnail" href="/tjsp/">
+            <img alt="..." src="/media/logo_tjsp.png">
+        </a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+        <a class="thumbnail" href="/mpsp/">
+            <img alt="..." src="/media/logo_mpsp.png">
+        </a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+        <a class="thumbnail" href="/der/">
+            <img alt="..." src="/media/logo_der.png">
+        </a>
+    </div>
+    <div class="col-xs-6 col-md-3">
+        <a class="thumbnail" href="/daee/">
+            <img alt="..." src="/media/logo_daee.png">
+        </a>
+    </div>
+</div>

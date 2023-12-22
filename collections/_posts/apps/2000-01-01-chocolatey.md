@@ -137,6 +137,7 @@ choco install miniconda3 --params="'/AddToPath:1'" -y
 choco install microsoft-windows-terminal -y
 choco install netfx-4.8-devpack -y
 choco install powerbi -y
+choco install powerbi-reportbuilder -y
 choco install soapui -y
 choco install r.studio -y
 choco install r.project -y

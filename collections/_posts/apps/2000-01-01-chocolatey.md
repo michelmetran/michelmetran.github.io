@@ -161,6 +161,7 @@ choco install inkscape -y
 choco install obs-studio -y
 choco install screentogif -y
 choco install sharex -y
+choco install steam -y
 choco install spotify -y
 choco install vlc -y
 ```

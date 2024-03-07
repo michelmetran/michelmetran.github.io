@@ -80,6 +80,16 @@ git config --global credential.cacheOptions "--timeout 300"
 
 Apesar de interessante, eu não tenho permissão para instalar o _Git Manager Credentials_, para explorar outras possibilidades para armazenamento seguro da senha.
 
+Apenas para complementar, descobri alguns comandos lendo o _post_ [How to fix duplicate account in git credential manager](https://stackoverflow.com/questions/76706515/how-to-fix-duplicate-account-in-git-credential-manager) quando eu passei a ter dois _logins_ habilitados no _git credential-manager_. Curiosamente, um dos _logins_ era um número! e eu desconfiava que tratava-se do _id_ do meu perfil no _github_. Acessando a [API do GitHub](https://api.github.com/users/michelmetran), esclareci que era, de fato, o *id* do meu GitHub.
+
+```shell
+# Lista Credenciais que estão no git credential-manager
+git credential-manager github list
+
+# Faz logout em um perfil
+git credential-manager github logout 10374538
+```
+
 <br>
 
 ---

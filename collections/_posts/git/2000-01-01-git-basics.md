@@ -167,19 +167,31 @@ git merge {nome da branch a unificar na branch ativa}
 
 <br>
 
+---
+
 ### Remote
 
+```
 git remote set-url origin [updated link url https://........git]
 git remote set-url origin [git@github.com](mailto:git@github.com):michelmetran/github_actions.git
+```
 
-Git Portable
-Git Credential Manager
+<br>
 
-Git Atribute
-https://dev.to/deadlybyte/please-add-gitattributes-to-your-git-repository-1jld
+---
 
-# Atualizar
+### Git Attributes
 
+[Please Add .gitattributes To Your Git Repository](https://dev.to/deadlybyte/please-add-gitattributes-to-your-git-repository-1jld)
+
+<br>
+
+---
+
+## Atualizar _git_
+
+```
 git update-git-for-windows
+```
 
-https://chrisjhart.com/Windows-10-ssh-copy-id/
+[Windows 10 OpenSSH equivalent of `ssh-copy-id`](https://chrisjhart.com/Windows-10-ssh-copy-id/)

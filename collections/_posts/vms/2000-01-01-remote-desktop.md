@@ -6,11 +6,8 @@ excerpt_separator: "<!--more-->"
 categories:
   - IT
 tags:
-  - python
-  - pycharm
-  - jupyter
-  - package
-  - pandas
+  - vms
+  - remote desktop
 ---
 
 ### _Ubuntu_ para _Windows_
@@ -32,6 +29,16 @@ sudo apt-get install xrdp
 <br>
 
 Uma vez instalado, basta conectar-se ao Ubuntu, através do Windows, usando o comando `mstsc`, utilizando o **Executar**.
+
+<br>
+
+[Keyboard shortcut to minimize Remote Desktop](https://superuser.com/questions/207534/keyboard-shortcut-to-minimize-remote-desktop)
+
+Bring up the host's Task Manager, then task-switch:
+
+1. `Ctrl` + `Alt` + `Delete`, para acessar o _Windows Security_
+2. `T`, para acessar o _Task Manager_
+3. `Alt` + `Tab`, para task-switch on host computer
 
 <br>
 

@@ -9,19 +9,38 @@ tags:
   - aplicativos
 ---
 
-Nunca gostei de instalar aplicativos no Windows. É uma tarefa chata, após cada formatação (nos PCs pessoais, de amigos e família), era necessário acessar cada _site_ do aplicativo, fazer o _download_, e instalar.
+Nunca gostei de instalar aplicativos no Windows. É uma tarefa chata, após cada
+formatação (nos PCs pessoais, de amigos e família), era necessário acessar cada
+_site_ do aplicativo, fazer o _download_, e instalar.
 
-Para facilitar essa etapa, eu costumava ter uma pasta de executáveis (arquivos _.exe_) para instalar os aplicativos. Os arquivos executáveis usualmente grandes, ocupavam bastante espaço em um HD e, frequentemente, estavam desatualizados!
+Para facilitar essa etapa, eu costumava ter uma pasta de executáveis (arquivos
+_.exe_) para instalar os aplicativos. Os arquivos executáveis usualmente
+grandes, ocupavam bastante espaço em um HD e, frequentemente, estavam
+desatualizados!
 
-Quando passei a usar o Ubuntu, vi o quão fácil é instalar um aplicativo por meio de uma linha de comando. Achava mágico, com um simples comando `sudo apt install code`, ter o editor VsCode instalado no meu PC, por exemplo.
+Quando passei a usar o Ubuntu, vi o quão fácil é instalar um aplicativo por meio
+de uma linha de comando. Achava mágico, com um simples
+comando `sudo apt install code`, ter o editor VsCode instalado no meu PC, por
+exemplo.
 
 <!--more-->
 
-Essa facilidade me fez buscar usar e aprender aplicativos que sejam de fácil instalação e manutenção. Com isso, passei a usar/buscar projetos _freeware_, que não dependessem de pirataria, _cracks_, _patchs_, _keygens_ os quais, além de dependerem de ajustes manuais, também contribuem (e muito!) para aumentar a vulnerabilidade dos PC.
+Essa facilidade me fez buscar usar e aprender aplicativos que sejam de fácil
+instalação e manutenção. Com isso, passei a usar/buscar projetos _freeware_, que
+não dependessem de pirataria, _cracks_, _patchs_, _keygens_ os quais, além de
+dependerem de ajustes manuais, também contribuem (e muito!) para aumentar a
+vulnerabilidade dos PC.
 
-Ainda assim, a facilidade proporcionada pelo gerenciador de pacotes `apt` limitava-se ao meu Debian/Ubuntu. Contudo, muitos PCs que uso tem sistema operacional Windows e eu ficava transtornado com a dificuldade de manter aplicativos instalados e atualizados em comparação ao Ubuntu. Nesse contexto que conheci o [Chocolatey.org](https://chocolatey.org/), um gerenciador de pacotes para Windows!
+Ainda assim, a facilidade proporcionada pelo gerenciador de pacotes `apt`
+limitava-se ao meu Debian/Ubuntu. Contudo, muitos PCs que uso tem sistema
+operacional Windows e eu ficava transtornado com a dificuldade de manter
+aplicativos instalados e atualizados em comparação ao Ubuntu. Nesse contexto que
+conheci o [Chocolatey.org](https://chocolatey.org/), um gerenciador de pacotes
+para Windows!
 
-Com ele é possível instalar várias aplicações por meio de linhas de comando e mante-las atualizadas! Aprendi alguns passos básicos ao ler o artigo [How to install chocolatey/choco on Windows 10](https://jcutrer.com/windows/install-chocolatey-choco-windows10).
+Com ele é possível instalar várias aplicações por meio de linhas de comando e
+mante-las atualizadas! Aprendi alguns passos básicos ao ler o
+artigo [How to install chocolatey/choco on Windows 10](https://jcutrer.com/windows/install-chocolatey-choco-windows10).
 
 <br>
 
@@ -40,7 +59,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 
 ## Comandos Básicos
 
-```powershell
+```shell
 # Help
 choco -?
 
@@ -66,14 +85,14 @@ choco uninstall microsoft-teams.install -x
 
 ## Instalando Aplicativos
 
-Abaixo listei os aplicativos que eu uso, porém existem muito outros [_packages_](https://community.chocolatey.org/packages) disponíveis.
+Abaixo listei os aplicativos que eu uso, porém existem muito outros [
+_packages_](https://community.chocolatey.org/packages) disponíveis.
 
 ### Internet
 
 ```shell
 choco install firefox -y
 choco install googlechrome -y
-choco install jre8 -y
 choco install webview2-runtime -y
 choco install qbittorrent -y
 ```
@@ -130,14 +149,15 @@ choco install dotnetfx -y
 choco install dotnet-7.0-sdk -y
 choco install filezilla -y
 choco install git.install -y
-choco install javaruntime -y
 choco install jetbrainstoolbox -y
+choco install jre8 -y
 choco install miniconda3 -y
 choco install miniconda3 --params="'/AddToPath:1'" -y
 choco install microsoft-windows-terminal -y
 choco install netfx-4.8-devpack -y
 choco install powerbi -y
 choco install powerbi-reportbuilder -y
+choco install powerautomatedesktop -y
 choco install soapui -y
 choco install r.studio -y
 choco install r.project -y
@@ -172,9 +192,11 @@ choco install vlc -y
 
 ```shell
 choco install ccleaner -y
+choco install hwinfo -y
 choco install linux-reader -y
 choco install partitionwizard -y
 choco install treesizefree -y
+
 choco install zerotier-one -y
 ```
 
